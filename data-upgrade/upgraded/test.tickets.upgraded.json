@@ -1,0 +1,4652 @@
+[
+  {
+    "_id": {
+      "$oid": "6623286b8e1194a7d06ea5c6"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65c8dc884a19975a1cc5fc88"
+      },
+      "price": 150000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "662324dd8e1194a7d06ea18d"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 2
+      }
+    ],
+    "userId": {
+      "$oid": "65f127dfed45b3ea7a26642c"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc7e"
+      },
+      "name": "Oppenheimer",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65efdd76d6f5663af881ec5c"
+          },
+          "name": "Tiểu sử"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb0d6f5663af881ec6a"
+          },
+          "name": "Chính kịch"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb7d6f5663af881ec6c"
+          },
+          "name": "Lịch sử"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707662233/oppenheimer_voazku.webp"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "65d30abea047aeebd3c78c76"
+      },
+      "name": "Room 3"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 1,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "662328948e1194a7d06ea5f0"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "662324dd8e1194a7d06ea184"
+      },
+      "timeFrom": "30-04-2024 11:00",
+      "timeTo": "30-04-2024 14:00"
+    },
+    "quantity": 1,
+    "totalPrice": 250000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-04-20T02:28:59.894Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-20T02:29:40.568Z"
+    },
+    "orderNumber": 94339,
+    "paymentId": {
+      "$oid": "662328948e1194a7d06ea5ea"
+    },
+    "totalFood": 50000
+  },
+  {
+    "_id": {
+      "$oid": "6629c2bbc633c0a521158b1c"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc84"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "66293dc52d2f7512c19385c0"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "_id": {
+          "$oid": "66293dc52d2f7512c19385c4"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 2
+      }
+    ],
+    "userId": {
+      "$oid": "65f127dfed45b3ea7a26642c"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc7e"
+      },
+      "name": "Oppenheimer",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65efdd76d6f5663af881ec5c"
+          },
+          "name": "Tiểu sử"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb0d6f5663af881ec6a"
+          },
+          "name": "Chính kịch"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb7d6f5663af881ec6c"
+          },
+          "name": "Lịch sử"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707662233/oppenheimer_voazku.webp"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932974ea9206116a193c8"
+      },
+      "name": "Phòng chiếu 3"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 1,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "6629c2f4c633c0a521158b46"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "66293dc52d2f7512c19385bb"
+      },
+      "timeFrom": "06-05-2024 12:00",
+      "timeTo": "06-05-2024 15:00"
+    },
+    "quantity": 2,
+    "totalPrice": 250000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-04-25T02:40:59.159Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-25T02:41:56.100Z"
+    },
+    "orderNumber": 60969,
+    "paymentId": {
+      "$oid": "6629c2f3c633c0a521158b44"
+    },
+    "totalFood": 50000
+  },
+  {
+    "_id": {
+      "$oid": "6629c7c8c633c0a521158c57"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc84"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "66293dc52d2f7512c19385c8"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "_id": {
+          "$oid": "66293dc52d2f7512c19385cc"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 4
+      }
+    ],
+    "userId": {
+      "$oid": "65f127dfed45b3ea7a26642c"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc7e"
+      },
+      "name": "Oppenheimer",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65efdd76d6f5663af881ec5c"
+          },
+          "name": "Tiểu sử"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb0d6f5663af881ec6a"
+          },
+          "name": "Chính kịch"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb7d6f5663af881ec6c"
+          },
+          "name": "Lịch sử"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707662233/oppenheimer_voazku.webp"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932974ea9206116a193c8"
+      },
+      "name": "Phòng chiếu 3"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 1,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "6629c803c633c0a521158c7e"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "66293dc52d2f7512c19385bb"
+      },
+      "timeFrom": "06-05-2024 12:00",
+      "timeTo": "06-05-2024 15:00"
+    },
+    "quantity": 2,
+    "totalPrice": 250000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-04-25T03:02:32.856Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-25T03:03:31.756Z"
+    },
+    "orderNumber": 58613,
+    "paymentId": {
+      "$oid": "6629c803c633c0a521158c7c"
+    },
+    "totalFood": 50000
+  },
+  {
+    "_id": {
+      "$oid": "6629c89626b5960617db1114"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc84"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "66293dc62d2f7512c19385d0"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 5
+      }
+    ],
+    "userId": {
+      "$oid": "65f127dfed45b3ea7a26642c"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc7e"
+      },
+      "name": "Oppenheimer",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65efdd76d6f5663af881ec5c"
+          },
+          "name": "Tiểu sử"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb0d6f5663af881ec6a"
+          },
+          "name": "Chính kịch"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb7d6f5663af881ec6c"
+          },
+          "name": "Lịch sử"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707662233/oppenheimer_voazku.webp"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932974ea9206116a193c8"
+      },
+      "name": "Phòng chiếu 3"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 1,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "6629c8c226b5960617db1146"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "66293dc52d2f7512c19385bb"
+      },
+      "timeFrom": "06-05-2024 12:00",
+      "timeTo": "06-05-2024 15:00"
+    },
+    "quantity": 1,
+    "totalPrice": 200000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-04-25T03:05:58.720Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-25T03:06:42.781Z"
+    },
+    "orderNumber": 21248,
+    "paymentId": {
+      "$oid": "6629c8c226b5960617db1141"
+    },
+    "totalFood": 50000
+  },
+  {
+    "_id": {
+      "$oid": "6629d2b326b5960617db1416"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc84"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "66293d0698765c9755fbecb1"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "_id": {
+          "$oid": "66293d0798765c9755fbecb5"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 2
+      }
+    ],
+    "userId": {
+      "$oid": "65f127dfed45b3ea7a26642c"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc7e"
+      },
+      "name": "Oppenheimer",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65efdd76d6f5663af881ec5c"
+          },
+          "name": "Tiểu sử"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb0d6f5663af881ec6a"
+          },
+          "name": "Chính kịch"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb7d6f5663af881ec6c"
+          },
+          "name": "Lịch sử"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707662233/oppenheimer_voazku.webp"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932974ea9206116a193c8"
+      },
+      "name": "Phòng chiếu 3"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 1,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "6629d2dc26b5960617db1445"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "66293d0698765c9755fbecac"
+      },
+      "timeFrom": "04-05-2024 20:00",
+      "timeTo": "04-05-2024 23:00"
+    },
+    "quantity": 2,
+    "totalPrice": 250000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-04-25T03:49:07.696Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-25T03:49:48.882Z"
+    },
+    "orderNumber": 96677,
+    "paymentId": {
+      "$oid": "6629d2dc26b5960617db1441"
+    },
+    "totalFood": 50000
+  },
+  {
+    "_id": {
+      "$oid": "662bbd8eee998ee9bf3aebf4"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65cb125df4f5baef91e3bc9b"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "662b2268e67669a7ed578e23"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "_id": {
+          "$oid": "662b2268e67669a7ed578e27"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 2
+      }
+    ],
+    "userId": {
+      "$oid": "65de035201e3eea140eaa0b8"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65cb125cf4f5baef91e3bc95"
+      },
+      "name": "WONKA HOLA",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65cb1184f4f5baef91e3bc93"
+          },
+          "name": "Phiêu lưu"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707880227/700x1000_22_l1xxbc.jpg"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932884ea9206116a193bb"
+      },
+      "name": "Phòng chiếu 2"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 1,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "662bbdceee998ee9bf3aec54"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "662b2268e67669a7ed578e1e"
+      },
+      "timeFrom": "04-05-2024 12:00",
+      "timeTo": "04-05-2024 14:00"
+    },
+    "quantity": 2,
+    "totalPrice": 250000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-04-26T14:43:26.706Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-26T14:44:30.711Z"
+    },
+    "orderNumber": 7985,
+    "paymentId": {
+      "$oid": "662bbdceee998ee9bf3aec4e"
+    },
+    "totalFood": 50000
+  },
+  {
+    "_id": {
+      "$oid": "662bbebdee998ee9bf3aee48"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65cb125df4f5baef91e3bc9b"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "662b2269e67669a7ed578e2b"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "_id": {
+          "$oid": "662b2269e67669a7ed578e2f"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 4
+      }
+    ],
+    "userId": {
+      "$oid": "65de035201e3eea140eaa0b8"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65cb125cf4f5baef91e3bc95"
+      },
+      "name": "WONKA HOLA",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65cb1184f4f5baef91e3bc93"
+          },
+          "name": "Phiêu lưu"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707880227/700x1000_22_l1xxbc.jpg"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932884ea9206116a193bb"
+      },
+      "name": "Phòng chiếu 2"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 1,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "662bbedfee998ee9bf3aeea4"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "662b2268e67669a7ed578e1e"
+      },
+      "timeFrom": "04-05-2024 12:00",
+      "timeTo": "04-05-2024 14:00"
+    },
+    "quantity": 2,
+    "totalPrice": 250000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-04-26T14:48:29.864Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-26T14:49:03.353Z"
+    },
+    "orderNumber": 64912,
+    "paymentId": {
+      "$oid": "662bbedfee998ee9bf3aeea0"
+    },
+    "totalFood": 50000
+  },
+  {
+    "_id": {
+      "$oid": "662bbef5ee998ee9bf3aeedd"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65cb125df4f5baef91e3bc9b"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "662b226ae67669a7ed578e33"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "_id": {
+          "$oid": "662b226ae67669a7ed578e37"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 6
+      }
+    ],
+    "userId": {
+      "$oid": "65de035201e3eea140eaa0b8"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65cb125cf4f5baef91e3bc95"
+      },
+      "name": "WONKA HOLA",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65cb1184f4f5baef91e3bc93"
+          },
+          "name": "Phiêu lưu"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707880227/700x1000_22_l1xxbc.jpg"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932884ea9206116a193bb"
+      },
+      "name": "Phòng chiếu 2"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 1,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "662bbf10ee998ee9bf3aef13"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "662b2268e67669a7ed578e1e"
+      },
+      "timeFrom": "04-05-2024 12:00",
+      "timeTo": "04-05-2024 14:00"
+    },
+    "quantity": 2,
+    "totalPrice": 250000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-04-26T14:49:25.229Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-26T14:49:52.471Z"
+    },
+    "orderNumber": 29756,
+    "paymentId": {
+      "$oid": "662bbf10ee998ee9bf3aef0f"
+    },
+    "totalFood": 50000
+  },
+  {
+    "_id": {
+      "$oid": "662bbf3bee998ee9bf3af007"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65cb125df4f5baef91e3bc9b"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "662b226ae67669a7ed578e3b"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 7
+      },
+      {
+        "_id": {
+          "$oid": "662b226be67669a7ed578e3f"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 8
+      }
+    ],
+    "userId": {
+      "$oid": "65de035201e3eea140eaa0b8"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65cb125cf4f5baef91e3bc95"
+      },
+      "name": "WONKA HOLA",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65cb1184f4f5baef91e3bc93"
+          },
+          "name": "Phiêu lưu"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707880227/700x1000_22_l1xxbc.jpg"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932884ea9206116a193bb"
+      },
+      "name": "Phòng chiếu 2"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 1,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "662bbf70ee998ee9bf3af067"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "662b2268e67669a7ed578e1e"
+      },
+      "timeFrom": "04-05-2024 12:00",
+      "timeTo": "04-05-2024 14:00"
+    },
+    "quantity": 2,
+    "totalPrice": 250000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-04-26T14:50:35.085Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-26T14:51:28.796Z"
+    },
+    "orderNumber": 85841,
+    "paymentId": {
+      "$oid": "662bbf70ee998ee9bf3af061"
+    },
+    "totalFood": 50000
+  },
+  {
+    "_id": {
+      "$oid": "662bbfcfee998ee9bf3af160"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65cb125df4f5baef91e3bc9b"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "662b226be67669a7ed578e43"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 2,
+        "column": 1
+      }
+    ],
+    "userId": {
+      "$oid": "65de035201e3eea140eaa0b8"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65cb125cf4f5baef91e3bc95"
+      },
+      "name": "WONKA HOLA",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65cb1184f4f5baef91e3bc93"
+          },
+          "name": "Phiêu lưu"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707880227/700x1000_22_l1xxbc.jpg"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932884ea9206116a193bb"
+      },
+      "name": "Phòng chiếu 2"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 1,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "662bbff0ee998ee9bf3af1bf"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "662b2268e67669a7ed578e1e"
+      },
+      "timeFrom": "04-05-2024 12:00",
+      "timeTo": "04-05-2024 14:00"
+    },
+    "quantity": 1,
+    "totalPrice": 200000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-04-26T14:53:03.653Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-26T14:53:36.069Z"
+    },
+    "orderNumber": 53964,
+    "paymentId": {
+      "$oid": "662bbff0ee998ee9bf3af1ba"
+    },
+    "totalFood": 50000
+  },
+  {
+    "_id": {
+      "$oid": "662c6775c5755875ec30559d"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65c8dc884a19975a1cc5fc88"
+      },
+      "price": 150000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "66293dc62d2f7512c19385d4"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 6
+      }
+    ],
+    "userId": {
+      "$oid": "65f127dfed45b3ea7a26642c"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc7e"
+      },
+      "name": "Oppenheimer",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65efdd76d6f5663af881ec5c"
+          },
+          "name": "Tiểu sử"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb0d6f5663af881ec6a"
+          },
+          "name": "Chính kịch"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb7d6f5663af881ec6c"
+          },
+          "name": "Lịch sử"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707662233/oppenheimer_voazku.webp"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932974ea9206116a193c8"
+      },
+      "name": "Phòng chiếu 3"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c3f95f5e2f5bce2a65b6",
+        "quantityFood": 1,
+        "name": "Burger Combo Special",
+        "price": "50000",
+        "_id": {
+          "$oid": "662c67afc5755875ec3055d3"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "66293dc52d2f7512c19385bb"
+      },
+      "timeFrom": "06-05-2024 12:00",
+      "timeTo": "06-05-2024 15:00"
+    },
+    "quantity": 1,
+    "totalPrice": 250000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-04-27T02:48:21.778Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-27T02:49:19.271Z"
+    },
+    "orderNumber": 79865,
+    "paymentId": {
+      "$oid": "662c67afc5755875ec3055cf"
+    },
+    "totalFood": 50000
+  },
+  {
+    "_id": {
+      "$oid": "662e64c6748bce7832a4677c"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65cb125df4f5baef91e3bc9f"
+      },
+      "price": 150000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "6629d68426b5960617db16bf"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "_id": {
+          "$oid": "6629d68526b5960617db16c3"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 2
+      }
+    ],
+    "userId": {
+      "$oid": "662d02c38db55b5a3245191e"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65cb125cf4f5baef91e3bc95"
+      },
+      "name": "WONKA HOLA",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65cb1184f4f5baef91e3bc93"
+          },
+          "name": "Phiêu lưu"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707880227/700x1000_22_l1xxbc.jpg"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932884ea9206116a193bb"
+      },
+      "name": "Phòng chiếu 2"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 1,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "662e64f3748bce7832a467b2"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "6629d63b26b5960617db1569"
+      },
+      "timeFrom": "06-05-2024 12:00",
+      "timeTo": "06-05-2024 14:00"
+    },
+    "quantity": 2,
+    "totalPrice": 300000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-04-28T15:01:26.256Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-28T15:02:11.449Z"
+    },
+    "orderNumber": 56384,
+    "paymentId": {
+      "$oid": "662e64f3748bce7832a467ae"
+    },
+    "totalFood": 50000
+  },
+  {
+    "_id": {
+      "$oid": "662faa8972cc4e3411d8630d"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc84"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "66293cae98765c9755fbeaf2"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "_id": {
+          "$oid": "66293cae98765c9755fbeaf6"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 2
+      }
+    ],
+    "userId": {
+      "$oid": "662fa77172cc4e3411d860b0"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc7e"
+      },
+      "name": "Oppenheimer",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65efdd76d6f5663af881ec5c"
+          },
+          "name": "Tiểu sử"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb0d6f5663af881ec6a"
+          },
+          "name": "Chính kịch"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb7d6f5663af881ec6c"
+          },
+          "name": "Lịch sử"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707662233/oppenheimer_voazku.webp"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932884ea9206116a193bb"
+      },
+      "name": "Phòng chiếu 2"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 1,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "662faaec72cc4e3411d8634c"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "66293cae98765c9755fbeaed"
+      },
+      "timeFrom": "04-05-2024 16:00",
+      "timeTo": "04-05-2024 19:00"
+    },
+    "quantity": 2,
+    "totalPrice": 250000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-04-29T14:11:21.864Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-29T14:13:00.878Z"
+    },
+    "orderNumber": 64431,
+    "paymentId": {
+      "$oid": "662faaec72cc4e3411d86341"
+    },
+    "totalFood": 50000
+  },
+  {
+    "_id": {
+      "$oid": "662fab1472cc4e3411d86390"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc84"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "66293cae98765c9755fbeafa"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "_id": {
+          "$oid": "66293cae98765c9755fbeafe"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 4
+      }
+    ],
+    "userId": {
+      "$oid": "662fa77172cc4e3411d860b0"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc7e"
+      },
+      "name": "Oppenheimer",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65efdd76d6f5663af881ec5c"
+          },
+          "name": "Tiểu sử"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb0d6f5663af881ec6a"
+          },
+          "name": "Chính kịch"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb7d6f5663af881ec6c"
+          },
+          "name": "Lịch sử"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707662233/oppenheimer_voazku.webp"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932884ea9206116a193bb"
+      },
+      "name": "Phòng chiếu 2"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 1,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "662fab2c72cc4e3411d863cc"
+        }
+      },
+      {
+        "foodId": "65e1c3f95f5e2f5bce2a65b6",
+        "quantityFood": 1,
+        "name": "Burger Combo Special",
+        "price": "50000",
+        "_id": {
+          "$oid": "662fab2c72cc4e3411d863cd"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "66293cae98765c9755fbeaed"
+      },
+      "timeFrom": "04-05-2024 16:00",
+      "timeTo": "04-05-2024 19:00"
+    },
+    "quantity": 2,
+    "totalPrice": 300000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-04-29T14:13:40.537Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-29T14:14:04.811Z"
+    },
+    "orderNumber": 37133,
+    "paymentId": {
+      "$oid": "662fab2c72cc4e3411d863c1"
+    },
+    "totalFood": 100000
+  },
+  {
+    "_id": {
+      "$oid": "6630f825af21a7792fe0f7b0"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc84"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "66293dc62d2f7512c19385e0"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "_id": {
+          "$oid": "66293dc62d2f7512c19385e4"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 2,
+        "column": 2
+      }
+    ],
+    "userId": {
+      "$oid": "65f127dfed45b3ea7a26642c"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc7e"
+      },
+      "name": "Oppenheimer",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65efdd76d6f5663af881ec5c"
+          },
+          "name": "Tiểu sử"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb0d6f5663af881ec6a"
+          },
+          "name": "Chính kịch"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb7d6f5663af881ec6c"
+          },
+          "name": "Lịch sử"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707662233/oppenheimer_voazku.webp"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932974ea9206116a193c8"
+      },
+      "name": "Phòng chiếu 3"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 3,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "6630f888af21a7792fe0f7e1"
+        }
+      },
+      {
+        "foodId": "65e1c3f95f5e2f5bce2a65b6",
+        "quantityFood": 6,
+        "name": "Burger Combo Special",
+        "price": "50000",
+        "_id": {
+          "$oid": "6630f888af21a7792fe0f7e2"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "66293dc52d2f7512c19385bb"
+      },
+      "timeFrom": "06-05-2024 12:00",
+      "timeTo": "06-05-2024 15:00"
+    },
+    "quantity": 2,
+    "totalPrice": 650000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-04-30T13:54:45.276Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-30T13:56:24.063Z"
+    },
+    "orderNumber": 77322,
+    "paymentId": {
+      "$oid": "6630f888af21a7792fe0f7dc"
+    },
+    "totalFood": 450000
+  },
+  {
+    "_id": {
+      "$oid": "6632219e2c79c1e98bddc2f4"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc84"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "66293caf98765c9755fbeb12"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "_id": {
+          "$oid": "66293cb098765c9755fbeb32"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 3,
+        "column": 1
+      }
+    ],
+    "userId": {
+      "$oid": "662f63f953eb7479438f92ef"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc7e"
+      },
+      "name": "Oppenheimer",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65efdd76d6f5663af881ec5c"
+          },
+          "name": "Tiểu sử"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb0d6f5663af881ec6a"
+          },
+          "name": "Chính kịch"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb7d6f5663af881ec6c"
+          },
+          "name": "Lịch sử"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707662233/oppenheimer_voazku.webp"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932884ea9206116a193bb"
+      },
+      "name": "Phòng chiếu 2"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 2,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "663222052c79c1e98bddc328"
+        }
+      },
+      {
+        "foodId": "65e1c3f95f5e2f5bce2a65b6",
+        "quantityFood": 3,
+        "name": "Burger Combo Special",
+        "price": "50000",
+        "_id": {
+          "$oid": "663222052c79c1e98bddc329"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "66293cae98765c9755fbeaed"
+      },
+      "timeFrom": "04-05-2024 16:00",
+      "timeTo": "04-05-2024 19:00"
+    },
+    "quantity": 2,
+    "totalPrice": 450000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-05-01T11:03:58.224Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T11:05:41.681Z"
+    },
+    "orderNumber": 25463,
+    "paymentId": {
+      "$oid": "663222052c79c1e98bddc320"
+    },
+    "totalFood": 250000
+  },
+  {
+    "_id": {
+      "$oid": "663222712c79c1e98bddc3aa"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc84"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "66293caf98765c9755fbeb02"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "_id": {
+          "$oid": "66293caf98765c9755fbeb06"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 6
+      }
+    ],
+    "userId": {
+      "$oid": "662f764053eb7479438fb0bd"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc7e"
+      },
+      "name": "Oppenheimer",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65efdd76d6f5663af881ec5c"
+          },
+          "name": "Tiểu sử"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb0d6f5663af881ec6a"
+          },
+          "name": "Chính kịch"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb7d6f5663af881ec6c"
+          },
+          "name": "Lịch sử"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707662233/oppenheimer_voazku.webp"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932884ea9206116a193bb"
+      },
+      "name": "Phòng chiếu 2"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 1,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "663222942c79c1e98bddc3e3"
+        }
+      },
+      {
+        "foodId": "65e1c3f95f5e2f5bce2a65b6",
+        "quantityFood": 1,
+        "name": "Burger Combo Special",
+        "price": "50000",
+        "_id": {
+          "$oid": "663222942c79c1e98bddc3e4"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "66293cae98765c9755fbeaed"
+      },
+      "timeFrom": "04-05-2024 16:00",
+      "timeTo": "04-05-2024 19:00"
+    },
+    "quantity": 2,
+    "totalPrice": 300000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-05-01T11:07:29.999Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T11:08:04.868Z"
+    },
+    "orderNumber": 633,
+    "paymentId": {
+      "$oid": "663222942c79c1e98bddc3d9"
+    },
+    "totalFood": 100000
+  },
+  {
+    "_id": {
+      "$oid": "663222d32c79c1e98bddc435"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc84"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "66293caf98765c9755fbeb0a"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 7
+      },
+      {
+        "_id": {
+          "$oid": "66293caf98765c9755fbeb0e"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 8
+      }
+    ],
+    "userId": {
+      "$oid": "662f764053eb7479438fb0bd"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc7e"
+      },
+      "name": "Oppenheimer",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65efdd76d6f5663af881ec5c"
+          },
+          "name": "Tiểu sử"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb0d6f5663af881ec6a"
+          },
+          "name": "Chính kịch"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb7d6f5663af881ec6c"
+          },
+          "name": "Lịch sử"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707662233/oppenheimer_voazku.webp"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932884ea9206116a193bb"
+      },
+      "name": "Phòng chiếu 2"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 1,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "6632232d2c79c1e98bddc4a3"
+        }
+      },
+      {
+        "foodId": "65e1c3f95f5e2f5bce2a65b6",
+        "quantityFood": 1,
+        "name": "Burger Combo Special",
+        "price": "50000",
+        "_id": {
+          "$oid": "6632232d2c79c1e98bddc4a4"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "66293cae98765c9755fbeaed"
+      },
+      "timeFrom": "04-05-2024 16:00",
+      "timeTo": "04-05-2024 19:00"
+    },
+    "quantity": 2,
+    "totalPrice": 300000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-05-01T11:09:07.757Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T11:10:37.410Z"
+    },
+    "orderNumber": 57761,
+    "paymentId": {
+      "$oid": "6632232d2c79c1e98bddc49b"
+    },
+    "totalFood": 100000
+  },
+  {
+    "_id": {
+      "$oid": "663223752c79c1e98bddc501"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc84"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "66293dc62d2f7512c19385d8"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 7
+      },
+      {
+        "_id": {
+          "$oid": "66293dc62d2f7512c19385dc"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 8
+      }
+    ],
+    "userId": {
+      "$oid": "6632235c2c79c1e98bddc4bf"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc7e"
+      },
+      "name": "Oppenheimer",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65efdd76d6f5663af881ec5c"
+          },
+          "name": "Tiểu sử"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb0d6f5663af881ec6a"
+          },
+          "name": "Chính kịch"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb7d6f5663af881ec6c"
+          },
+          "name": "Lịch sử"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707662233/oppenheimer_voazku.webp"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932974ea9206116a193c8"
+      },
+      "name": "Phòng chiếu 3"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 1,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "663223ad2c79c1e98bddc53c"
+        }
+      },
+      {
+        "foodId": "65e1c4205f5e2f5bce2a65b8",
+        "quantityFood": 1,
+        "name": "Burger For Couple",
+        "price": "50000",
+        "_id": {
+          "$oid": "663223ad2c79c1e98bddc53d"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "66293dc52d2f7512c19385bb"
+      },
+      "timeFrom": "06-05-2024 12:00",
+      "timeTo": "06-05-2024 15:00"
+    },
+    "quantity": 2,
+    "totalPrice": 300000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-05-01T11:11:49.745Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T11:12:45.746Z"
+    },
+    "orderNumber": 45761,
+    "paymentId": {
+      "$oid": "663223ad2c79c1e98bddc535"
+    },
+    "totalFood": 100000
+  },
+  {
+    "_id": {
+      "$oid": "66322442855eebd818afbd9e"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc84"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "66293caf98765c9755fbeb16"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "_id": {
+          "$oid": "66293cb098765c9755fbeb36"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 3,
+        "column": 2
+      }
+    ],
+    "userId": {
+      "$oid": "662f764053eb7479438fb0bd"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc7e"
+      },
+      "name": "Oppenheimer",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65efdd76d6f5663af881ec5c"
+          },
+          "name": "Tiểu sử"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb0d6f5663af881ec6a"
+          },
+          "name": "Chính kịch"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb7d6f5663af881ec6c"
+          },
+          "name": "Lịch sử"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707662233/oppenheimer_voazku.webp"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932884ea9206116a193bb"
+      },
+      "name": "Phòng chiếu 2"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 6,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "6632247b855eebd818afbdd9"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "66293cae98765c9755fbeaed"
+      },
+      "timeFrom": "04-05-2024 16:00",
+      "timeTo": "04-05-2024 19:00"
+    },
+    "quantity": 2,
+    "totalPrice": 500000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-05-01T11:15:14.191Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T11:16:11.819Z"
+    },
+    "orderNumber": 92762,
+    "paymentId": {
+      "$oid": "6632247b855eebd818afbdd0"
+    },
+    "totalFood": 300000
+  },
+  {
+    "_id": {
+      "$oid": "663224f42882d13cec39e30b"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc84"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "66293cb198765c9755fbeb56"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "_id": {
+          "$oid": "66293cb198765c9755fbeb76"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 5,
+        "column": 2
+      }
+    ],
+    "userId": {
+      "$oid": "662f764053eb7479438fb0bd"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc7e"
+      },
+      "name": "Oppenheimer",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65efdd76d6f5663af881ec5c"
+          },
+          "name": "Tiểu sử"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb0d6f5663af881ec6a"
+          },
+          "name": "Chính kịch"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb7d6f5663af881ec6c"
+          },
+          "name": "Lịch sử"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707662233/oppenheimer_voazku.webp"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932884ea9206116a193bb"
+      },
+      "name": "Phòng chiếu 2"
+    },
+    "foods": [],
+    "showtimeId": {
+      "_id": {
+        "$oid": "66293cae98765c9755fbeaed"
+      },
+      "timeFrom": "04-05-2024 16:00",
+      "timeTo": "04-05-2024 19:00"
+    },
+    "quantity": 2,
+    "totalPrice": 200000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-05-01T11:18:12.562Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T11:18:43.176Z"
+    },
+    "orderNumber": 62651,
+    "paymentId": {
+      "$oid": "663225132882d13cec39e330"
+    },
+    "totalFood": 0
+  },
+  {
+    "_id": {
+      "$oid": "663224fe9e3047c0aa7913ee"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc84"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "66293cb298765c9755fbeb96"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 6,
+        "column": 2
+      },
+      {
+        "_id": {
+          "$oid": "66293cb398765c9755fbebb6"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 7,
+        "column": 2
+      }
+    ],
+    "userId": {
+      "$oid": "6632235c2c79c1e98bddc4bf"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc7e"
+      },
+      "name": "Oppenheimer",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65efdd76d6f5663af881ec5c"
+          },
+          "name": "Tiểu sử"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb0d6f5663af881ec6a"
+          },
+          "name": "Chính kịch"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb7d6f5663af881ec6c"
+          },
+          "name": "Lịch sử"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707662233/oppenheimer_voazku.webp"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932884ea9206116a193bb"
+      },
+      "name": "Phòng chiếu 2"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 1,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "663225229e3047c0aa79141a"
+        }
+      },
+      {
+        "foodId": "65e1c3f95f5e2f5bce2a65b6",
+        "quantityFood": 1,
+        "name": "Burger Combo Special",
+        "price": "50000",
+        "_id": {
+          "$oid": "663225229e3047c0aa79141b"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "66293cae98765c9755fbeaed"
+      },
+      "timeFrom": "04-05-2024 16:00",
+      "timeTo": "04-05-2024 19:00"
+    },
+    "quantity": 2,
+    "totalPrice": 300000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-05-01T11:18:22.143Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T11:18:58.605Z"
+    },
+    "orderNumber": 43237,
+    "paymentId": {
+      "$oid": "663225229e3047c0aa791415"
+    },
+    "totalFood": 100000
+  },
+  {
+    "_id": {
+      "$oid": "663225648a0573d85790b29a"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65cb125df4f5baef91e3bc9b"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "6629d68526b5960617db16c7"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "_id": {
+          "$oid": "6629d68526b5960617db16cb"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 4
+      }
+    ],
+    "userId": {
+      "$oid": "6632235c2c79c1e98bddc4bf"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65cb125cf4f5baef91e3bc95"
+      },
+      "name": "WONKA HOLA",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65cb1184f4f5baef91e3bc93"
+          },
+          "name": "Phiêu lưu"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707880227/700x1000_22_l1xxbc.jpg"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932884ea9206116a193bb"
+      },
+      "name": "Phòng chiếu 2"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 1,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "663225888a0573d85790b2c3"
+        }
+      },
+      {
+        "foodId": "65e1c3f95f5e2f5bce2a65b6",
+        "quantityFood": 1,
+        "name": "Burger Combo Special",
+        "price": "50000",
+        "_id": {
+          "$oid": "663225888a0573d85790b2c4"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "6629d63b26b5960617db1569"
+      },
+      "timeFrom": "06-05-2024 12:00",
+      "timeTo": "06-05-2024 14:00"
+    },
+    "quantity": 2,
+    "totalPrice": 300000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-05-01T11:20:04.329Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T11:20:40.600Z"
+    },
+    "orderNumber": 30579,
+    "paymentId": {
+      "$oid": "663225888a0573d85790b2c1"
+    },
+    "totalFood": 100000
+  },
+  {
+    "_id": {
+      "$oid": "6632257803359c9251ada543"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc84"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "66293cb198765c9755fbeb52"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "_id": {
+          "$oid": "66293cb198765c9755fbeb72"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 5,
+        "column": 1
+      }
+    ],
+    "userId": {
+      "$oid": "662f764053eb7479438fb0bd"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc7e"
+      },
+      "name": "Oppenheimer",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65efdd76d6f5663af881ec5c"
+          },
+          "name": "Tiểu sử"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb0d6f5663af881ec6a"
+          },
+          "name": "Chính kịch"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb7d6f5663af881ec6c"
+          },
+          "name": "Lịch sử"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707662233/oppenheimer_voazku.webp"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932884ea9206116a193bb"
+      },
+      "name": "Phòng chiếu 2"
+    },
+    "foods": [],
+    "showtimeId": {
+      "_id": {
+        "$oid": "66293cae98765c9755fbeaed"
+      },
+      "timeFrom": "04-05-2024 16:00",
+      "timeTo": "04-05-2024 19:00"
+    },
+    "quantity": 2,
+    "totalPrice": 200000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-05-01T11:20:24.264Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T11:20:52.144Z"
+    },
+    "orderNumber": 64647,
+    "paymentId": {
+      "$oid": "6632259403359c9251ada567"
+    },
+    "totalFood": 0
+  },
+  {
+    "_id": {
+      "$oid": "663225f98a0573d85790b3ca"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65cb125df4f5baef91e3bc9b"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "662b226ee67669a7ed578e5b"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 2,
+        "column": 7
+      },
+      {
+        "_id": {
+          "$oid": "662b226ee67669a7ed578e5f"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 2,
+        "column": 8
+      }
+    ],
+    "userId": {
+      "$oid": "662f764053eb7479438fb0bd"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65cb125cf4f5baef91e3bc95"
+      },
+      "name": "WONKA HOLA",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65cb1184f4f5baef91e3bc93"
+          },
+          "name": "Phiêu lưu"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707880227/700x1000_22_l1xxbc.jpg"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932884ea9206116a193bb"
+      },
+      "name": "Phòng chiếu 2"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 1,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "6632261c8a0573d85790b403"
+        }
+      },
+      {
+        "foodId": "65e1c3f95f5e2f5bce2a65b6",
+        "quantityFood": 1,
+        "name": "Burger Combo Special",
+        "price": "50000",
+        "_id": {
+          "$oid": "6632261c8a0573d85790b404"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "662b2268e67669a7ed578e1e"
+      },
+      "timeFrom": "04-05-2024 12:00",
+      "timeTo": "04-05-2024 14:00"
+    },
+    "quantity": 2,
+    "totalPrice": 300000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-05-01T11:22:33.941Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T11:23:08.630Z"
+    },
+    "orderNumber": 41339,
+    "paymentId": {
+      "$oid": "6632261c8a0573d85790b3f9"
+    },
+    "totalFood": 100000
+  },
+  {
+    "_id": {
+      "$oid": "66322684b1e2e6133798fec4"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65cb125df4f5baef91e3bc9b"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "6629d68626b5960617db16cf"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "_id": {
+          "$oid": "6629d68626b5960617db16d3"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 6
+      }
+    ],
+    "userId": {
+      "$oid": "6632235c2c79c1e98bddc4bf"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65cb125cf4f5baef91e3bc95"
+      },
+      "name": "WONKA HOLA",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65cb1184f4f5baef91e3bc93"
+          },
+          "name": "Phiêu lưu"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707880227/700x1000_22_l1xxbc.jpg"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932884ea9206116a193bb"
+      },
+      "name": "Phòng chiếu 2"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 1,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "663226adb1e2e6133798fefe"
+        }
+      },
+      {
+        "foodId": "65e1c3f95f5e2f5bce2a65b6",
+        "quantityFood": 1,
+        "name": "Burger Combo Special",
+        "price": "50000",
+        "_id": {
+          "$oid": "663226adb1e2e6133798feff"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "6629d63b26b5960617db1569"
+      },
+      "timeFrom": "06-05-2024 12:00",
+      "timeTo": "06-05-2024 14:00"
+    },
+    "quantity": 2,
+    "totalPrice": 300000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-05-01T11:24:52.039Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T11:25:33.463Z"
+    },
+    "orderNumber": 39319,
+    "paymentId": {
+      "$oid": "663226adb1e2e6133798fef9"
+    },
+    "totalFood": 100000
+  },
+  {
+    "_id": {
+      "$oid": "66323f26b1e2e613379911f7"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc84"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "66293dc72d2f7512c19385f8"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 2,
+        "column": 7
+      },
+      {
+        "_id": {
+          "$oid": "66293dc72d2f7512c19385fc"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 2,
+        "column": 8
+      }
+    ],
+    "userId": {
+      "$oid": "662f764053eb7479438fb0bd"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc7e"
+      },
+      "name": "Oppenheimer",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65efdd76d6f5663af881ec5c"
+          },
+          "name": "Tiểu sử"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb0d6f5663af881ec6a"
+          },
+          "name": "Chính kịch"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb7d6f5663af881ec6c"
+          },
+          "name": "Lịch sử"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707662233/oppenheimer_voazku.webp"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932974ea9206116a193c8"
+      },
+      "name": "Phòng chiếu 3"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 1,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "66323f55b1e2e6133799122a"
+        }
+      },
+      {
+        "foodId": "65e1c3f95f5e2f5bce2a65b6",
+        "quantityFood": 1,
+        "name": "Burger Combo Special",
+        "price": "50000",
+        "_id": {
+          "$oid": "66323f55b1e2e6133799122b"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "66293dc52d2f7512c19385bb"
+      },
+      "timeFrom": "06-05-2024 12:00",
+      "timeTo": "06-05-2024 15:00"
+    },
+    "quantity": 2,
+    "totalPrice": 300000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-05-01T13:09:58.269Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T13:10:45.431Z"
+    },
+    "orderNumber": 69109,
+    "paymentId": {
+      "$oid": "66323f55b1e2e61337991222"
+    },
+    "totalFood": 100000
+  },
+  {
+    "_id": {
+      "$oid": "66324100ddfd51c646ac8df5"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc84"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "66293dc72d2f7512c1938618"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 3,
+        "column": 7
+      },
+      {
+        "_id": {
+          "$oid": "66293dc72d2f7512c193861c"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 3,
+        "column": 8
+      }
+    ],
+    "userId": {
+      "$oid": "662f764053eb7479438fb0bd"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc7e"
+      },
+      "name": "Oppenheimer",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65efdd76d6f5663af881ec5c"
+          },
+          "name": "Tiểu sử"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb0d6f5663af881ec6a"
+          },
+          "name": "Chính kịch"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb7d6f5663af881ec6c"
+          },
+          "name": "Lịch sử"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707662233/oppenheimer_voazku.webp"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932974ea9206116a193c8"
+      },
+      "name": "Phòng chiếu 3"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 1,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "6632412addfd51c646ac8e26"
+        }
+      },
+      {
+        "foodId": "65e1c3f95f5e2f5bce2a65b6",
+        "quantityFood": 1,
+        "name": "Burger Combo Special",
+        "price": "50000",
+        "_id": {
+          "$oid": "6632412addfd51c646ac8e27"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "66293dc52d2f7512c19385bb"
+      },
+      "timeFrom": "06-05-2024 12:00",
+      "timeTo": "06-05-2024 15:00"
+    },
+    "quantity": 2,
+    "totalPrice": 300000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-05-01T13:17:52.687Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T13:18:34.982Z"
+    },
+    "orderNumber": 87151,
+    "paymentId": {
+      "$oid": "6632412addfd51c646ac8e1c"
+    },
+    "totalFood": 100000
+  },
+  {
+    "_id": {
+      "$oid": "66324d6dddfd51c646ac90f8"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65cc503ce2111969d6e218ec"
+      },
+      "price": 120000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "663249c1865c6765b292510b"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "_id": {
+          "$oid": "663249c1865c6765b292510f"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 4
+      }
+    ],
+    "userId": {
+      "$oid": "662f764053eb7479438fb0bd"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65cc503be2111969d6e218e6"
+      },
+      "name": "THE VERGE OF DEATH",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65cc4fdde2111969d6e218e2"
+          },
+          "name": "Kinh dị"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb0d6f5663af881ec6a"
+          },
+          "name": "Chính kịch"
+        },
+        {
+          "_id": {
+            "$oid": "65efdefa9c56cd5ce4f428d8"
+          },
+          "name": "Bí ẩn"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707888517/vergeofdeath_o1jtx0.jpg"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "6629323d4ea9206116a19376"
+      },
+      "name": "Phòng chiếu 1"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 2,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "66324db7ddfd51c646ac912d"
+        }
+      },
+      {
+        "foodId": "65e1c3f95f5e2f5bce2a65b6",
+        "quantityFood": 2,
+        "name": "Burger Combo Special",
+        "price": "50000",
+        "_id": {
+          "$oid": "66324db7ddfd51c646ac912e"
+        }
+      },
+      {
+        "foodId": "65e1c4205f5e2f5bce2a65b8",
+        "quantityFood": 2,
+        "name": "Burger For Couple",
+        "price": "50000",
+        "_id": {
+          "$oid": "66324db7ddfd51c646ac912f"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "663249c0865c6765b29250fe"
+      },
+      "timeFrom": "01-05-2024 21:30",
+      "timeTo": "01-05-2024 23:07"
+    },
+    "quantity": 2,
+    "totalPrice": 520000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-05-01T14:10:53.518Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T14:12:07.063Z"
+    },
+    "orderNumber": 18858,
+    "paymentId": {
+      "$oid": "66324db7ddfd51c646ac9124"
+    },
+    "totalFood": 300000
+  },
+  {
+    "_id": {
+      "$oid": "663260086eaa91c18f7139d7"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65cb125df4f5baef91e3bc9b"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "662b226be67669a7ed578e47"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 2,
+        "column": 2
+      }
+    ],
+    "userId": {
+      "$oid": "66066adf1ce1c765e3c097da"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65cb125cf4f5baef91e3bc95"
+      },
+      "name": "WONKA HOLA",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65cb1184f4f5baef91e3bc93"
+          },
+          "name": "Phiêu lưu"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707880227/700x1000_22_l1xxbc.jpg"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932884ea9206116a193bb"
+      },
+      "name": "Phòng chiếu 2"
+    },
+    "foods": [],
+    "showtimeId": {
+      "_id": {
+        "$oid": "662b2268e67669a7ed578e1e"
+      },
+      "timeFrom": "04-05-2024 12:00",
+      "timeTo": "04-05-2024 14:00"
+    },
+    "quantity": 1,
+    "totalPrice": 150000,
+    "status": "RESERVED",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-05-01T15:30:16.203Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T15:30:16.203Z"
+    },
+    "orderNumber": 3571
+  },
+  {
+    "_id": {
+      "$oid": "66335d219a94a980319f9ab4"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc84"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "66293dc72d2f7512c1938600"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "_id": {
+          "$oid": "66293dc72d2f7512c1938604"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 3,
+        "column": 2
+      }
+    ],
+    "userId": {
+      "$oid": "65f127dfed45b3ea7a26642c"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc7e"
+      },
+      "name": "Oppenheimer",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65efdd76d6f5663af881ec5c"
+          },
+          "name": "Tiểu sử"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb0d6f5663af881ec6a"
+          },
+          "name": "Chính kịch"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb7d6f5663af881ec6c"
+          },
+          "name": "Lịch sử"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707662233/oppenheimer_voazku.webp"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932974ea9206116a193c8"
+      },
+      "name": "Phòng chiếu 3"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 3,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "66335d809a94a980319f9add"
+        }
+      },
+      {
+        "foodId": "65e1c3f95f5e2f5bce2a65b6",
+        "quantityFood": 1,
+        "name": "Burger Combo Special",
+        "price": "50000",
+        "_id": {
+          "$oid": "66335d809a94a980319f9ade"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "66293dc52d2f7512c19385bb"
+      },
+      "timeFrom": "06-05-2024 12:00",
+      "timeTo": "06-05-2024 15:00"
+    },
+    "quantity": 2,
+    "totalPrice": 400000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-05-02T09:30:09.840Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-02T09:31:44.385Z"
+    },
+    "orderNumber": 41146,
+    "paymentId": {
+      "$oid": "66335d809a94a980319f9ad8"
+    },
+    "totalFood": 200000
+  },
+  {
+    "_id": {
+      "$oid": "6633a8ccd90e2a7d2327dc83"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc84"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "66293dc82d2f7512c1938638"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 4,
+        "column": 7
+      }
+    ],
+    "userId": {
+      "$oid": "65f127dfed45b3ea7a26642c"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc7e"
+      },
+      "name": "Oppenheimer",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65efdd76d6f5663af881ec5c"
+          },
+          "name": "Tiểu sử"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb0d6f5663af881ec6a"
+          },
+          "name": "Chính kịch"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb7d6f5663af881ec6c"
+          },
+          "name": "Lịch sử"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707662233/oppenheimer_voazku.webp"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932974ea9206116a193c8"
+      },
+      "name": "Phòng chiếu 3"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 1,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "6633a943d90e2a7d2327ddca"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "66293dc52d2f7512c19385bb"
+      },
+      "timeFrom": "06-05-2024 12:00",
+      "timeTo": "06-05-2024 15:00"
+    },
+    "quantity": 1,
+    "totalPrice": 200000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-05-02T14:53:00.507Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-02T14:54:59.678Z"
+    },
+    "orderNumber": 7722,
+    "paymentId": {
+      "$oid": "6633a943d90e2a7d2327ddc3"
+    },
+    "totalFood": 50000
+  },
+  {
+    "_id": {
+      "$oid": "6633abb7530ffc58fa71009e"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "66324ed1ddfd51c646ac9316"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "66338e4f51f2e98727f9af7c"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "_id": {
+          "$oid": "66338e4f51f2e98727f9af80"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 2
+      }
+    ],
+    "userId": {
+      "$oid": "662f764053eb7479438fb0bd"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "66324ed0ddfd51c646ac9310"
+      },
+      "name": "KATAK: THE BRAVE BELUGA",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65cb1184f4f5baef91e3bc93"
+          },
+          "name": "Phiêu lưu"
+        },
+        {
+          "_id": {
+            "$oid": "65cc4fdde2111969d6e218e2"
+          },
+          "name": "Kinh dị"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dbu06uco1/image/upload/v1714573012/AVATAR/b9wnh3bmxliwfl2mrr27.png"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "66335e779a94a980319f9b6f"
+      },
+      "name": "Phòng chiếu 6"
+    },
+    "foods": [],
+    "showtimeId": {
+      "_id": {
+        "$oid": "66338e4f51f2e98727f9af77"
+      },
+      "timeFrom": "09-05-2024 12:00",
+      "timeTo": "09-05-2024 13:59"
+    },
+    "quantity": 2,
+    "totalPrice": 200000,
+    "status": "RESERVED",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-05-02T15:05:27.414Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-02T15:05:27.414Z"
+    },
+    "orderNumber": 15206
+  },
+  {
+    "_id": {
+      "$oid": "6633ac2a530ffc58fa7100d9"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "66324ed1ddfd51c646ac9316"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "66338e5051f2e98727f9af84"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "_id": {
+          "$oid": "66338e5051f2e98727f9af88"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 4
+      }
+    ],
+    "userId": {
+      "$oid": "662f764053eb7479438fb0bd"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "66324ed0ddfd51c646ac9310"
+      },
+      "name": "KATAK: THE BRAVE BELUGA",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65cb1184f4f5baef91e3bc93"
+          },
+          "name": "Phiêu lưu"
+        },
+        {
+          "_id": {
+            "$oid": "65cc4fdde2111969d6e218e2"
+          },
+          "name": "Kinh dị"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dbu06uco1/image/upload/v1714573012/AVATAR/b9wnh3bmxliwfl2mrr27.png"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "66335e779a94a980319f9b6f"
+      },
+      "name": "Phòng chiếu 6"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 6,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "6633ac6c530ffc58fa710110"
+        }
+      },
+      {
+        "foodId": "65e1c3f95f5e2f5bce2a65b6",
+        "quantityFood": 6,
+        "name": "Burger Combo Special",
+        "price": "50000",
+        "_id": {
+          "$oid": "6633ac6c530ffc58fa710111"
+        }
+      },
+      {
+        "foodId": "65e1c4205f5e2f5bce2a65b8",
+        "quantityFood": 6,
+        "name": "Burger For Couple",
+        "price": "50000",
+        "_id": {
+          "$oid": "6633ac6c530ffc58fa710112"
+        }
+      },
+      {
+        "foodId": "65e1c49e5f5e2f5bce2a65ba",
+        "quantityFood": 6,
+        "name": "Burger Cheese Combo",
+        "price": "50000",
+        "_id": {
+          "$oid": "6633ac6c530ffc58fa710113"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "66338e4f51f2e98727f9af77"
+      },
+      "timeFrom": "09-05-2024 12:00",
+      "timeTo": "09-05-2024 13:59"
+    },
+    "quantity": 2,
+    "totalPrice": 1400000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-05-02T15:07:22.079Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-02T15:08:28.260Z"
+    },
+    "orderNumber": 79886,
+    "paymentId": {
+      "$oid": "6633ac6c530ffc58fa710106"
+    },
+    "totalFood": 1200000
+  },
+  {
+    "_id": {
+      "$oid": "6633ac8a530ffc58fa7101a0"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc84"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "66293cb098765c9755fbeb2a"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 2,
+        "column": 7
+      },
+      {
+        "_id": {
+          "$oid": "66293cb098765c9755fbeb2e"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 2,
+        "column": 8
+      }
+    ],
+    "userId": {
+      "$oid": "662f764053eb7479438fb0bd"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc7e"
+      },
+      "name": "Oppenheimer",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65efdd76d6f5663af881ec5c"
+          },
+          "name": "Tiểu sử"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb0d6f5663af881ec6a"
+          },
+          "name": "Chính kịch"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb7d6f5663af881ec6c"
+          },
+          "name": "Lịch sử"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707662233/oppenheimer_voazku.webp"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932884ea9206116a193bb"
+      },
+      "name": "Phòng chiếu 2"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 1,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "6633aca1530ffc58fa7101d5"
+        }
+      },
+      {
+        "foodId": "65e1c3f95f5e2f5bce2a65b6",
+        "quantityFood": 1,
+        "name": "Burger Combo Special",
+        "price": "50000",
+        "_id": {
+          "$oid": "6633aca1530ffc58fa7101d6"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "66293cae98765c9755fbeaed"
+      },
+      "timeFrom": "04-05-2024 16:00",
+      "timeTo": "04-05-2024 19:00"
+    },
+    "quantity": 2,
+    "totalPrice": 300000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-05-02T15:08:58.623Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-02T15:09:21.970Z"
+    },
+    "orderNumber": 23799,
+    "paymentId": {
+      "$oid": "6633aca1530ffc58fa7101cd"
+    },
+    "totalFood": 100000
+  },
+  {
+    "_id": {
+      "$oid": "6633ae5b530ffc58fa71054b"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65cb125df4f5baef91e3bc9b"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "6629d68726b5960617db16d7"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 7
+      },
+      {
+        "_id": {
+          "$oid": "6629d68726b5960617db16db"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 8
+      }
+    ],
+    "userId": {
+      "$oid": "6633ad7c530ffc58fa710402"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65cb125cf4f5baef91e3bc95"
+      },
+      "name": "WONKA HOLA",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65cb1184f4f5baef91e3bc93"
+          },
+          "name": "Phiêu lưu"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707880227/700x1000_22_l1xxbc.jpg"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932884ea9206116a193bb"
+      },
+      "name": "Phòng chiếu 2"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 2,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "6633ae79530ffc58fa71057d"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "6629d63b26b5960617db1569"
+      },
+      "timeFrom": "06-05-2024 12:00",
+      "timeTo": "06-05-2024 14:00"
+    },
+    "quantity": 2,
+    "totalPrice": 300000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-05-02T15:16:43.381Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-02T15:17:13.700Z"
+    },
+    "orderNumber": 82297,
+    "paymentId": {
+      "$oid": "6633ae79530ffc58fa710576"
+    },
+    "totalFood": 100000
+  },
+  {
+    "_id": {
+      "$oid": "6633b3bde038545dd2e102bd"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "66324ed1ddfd51c646ac9316"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "66338e5151f2e98727f9af8c"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "_id": {
+          "$oid": "66338e5251f2e98727f9af90"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 6
+      }
+    ],
+    "userId": {
+      "$oid": "6633ad7c530ffc58fa710402"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "66324ed0ddfd51c646ac9310"
+      },
+      "name": "KATAK: THE BRAVE BELUGA",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65cb1184f4f5baef91e3bc93"
+          },
+          "name": "Phiêu lưu"
+        },
+        {
+          "_id": {
+            "$oid": "65cc4fdde2111969d6e218e2"
+          },
+          "name": "Kinh dị"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dbu06uco1/image/upload/v1714573012/AVATAR/b9wnh3bmxliwfl2mrr27.png"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "66335e779a94a980319f9b6f"
+      },
+      "name": "Phòng chiếu 6"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 1,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "6633b3d5e038545dd2e102f3"
+        }
+      },
+      {
+        "foodId": "65e1c3f95f5e2f5bce2a65b6",
+        "quantityFood": 1,
+        "name": "Burger Combo Special",
+        "price": "50000",
+        "_id": {
+          "$oid": "6633b3d5e038545dd2e102f4"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "66338e4f51f2e98727f9af77"
+      },
+      "timeFrom": "09-05-2024 12:00",
+      "timeTo": "09-05-2024 13:59"
+    },
+    "quantity": 2,
+    "totalPrice": 300000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-05-02T15:39:41.738Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-02T15:40:05.337Z"
+    },
+    "orderNumber": 39421,
+    "paymentId": {
+      "$oid": "6633b3d5e038545dd2e102e8"
+    },
+    "totalFood": 100000
+  },
+  {
+    "_id": {
+      "$oid": "6633b9b9f32953d42e69e094"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc84"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "66293dc92d2f7512c1938658"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 5,
+        "column": 7
+      }
+    ],
+    "userId": {
+      "$oid": "65f127dfed45b3ea7a26642c"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc7e"
+      },
+      "name": "Oppenheimer",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65efdd76d6f5663af881ec5c"
+          },
+          "name": "Tiểu sử"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb0d6f5663af881ec6a"
+          },
+          "name": "Chính kịch"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb7d6f5663af881ec6c"
+          },
+          "name": "Lịch sử"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707662233/oppenheimer_voazku.webp"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932974ea9206116a193c8"
+      },
+      "name": "Phòng chiếu 3"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 1,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "6633ba53f32953d42e69e20a"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "66293dc52d2f7512c19385bb"
+      },
+      "timeFrom": "06-05-2024 12:00",
+      "timeTo": "06-05-2024 15:00"
+    },
+    "quantity": 1,
+    "totalPrice": 200000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-05-02T16:05:13.540Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-02T16:07:47.688Z"
+    },
+    "orderNumber": 41598,
+    "paymentId": {
+      "$oid": "6633ba53f32953d42e69e203"
+    },
+    "totalFood": 50000
+  },
+  {
+    "_id": {
+      "$oid": "6633c148b9ec2767073f926e"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc84"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "66293dc82d2f7512c193863c"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 4,
+        "column": 8
+      }
+    ],
+    "userId": {
+      "$oid": "65f127dfed45b3ea7a26642c"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc7e"
+      },
+      "name": "Oppenheimer",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65efdd76d6f5663af881ec5c"
+          },
+          "name": "Tiểu sử"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb0d6f5663af881ec6a"
+          },
+          "name": "Chính kịch"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb7d6f5663af881ec6c"
+          },
+          "name": "Lịch sử"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707662233/oppenheimer_voazku.webp"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932974ea9206116a193c8"
+      },
+      "name": "Phòng chiếu 3"
+    },
+    "foods": [],
+    "showtimeId": {
+      "_id": {
+        "$oid": "66293dc52d2f7512c19385bb"
+      },
+      "timeFrom": "06-05-2024 12:00",
+      "timeTo": "06-05-2024 15:00"
+    },
+    "quantity": 1,
+    "totalPrice": 150000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-05-02T16:37:28.506Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-02T16:38:01.043Z"
+    },
+    "orderNumber": 7162,
+    "paymentId": {
+      "$oid": "6633c169b9ec2767073f92c3"
+    },
+    "totalFood": 0
+  },
+  {
+    "_id": {
+      "$oid": "6634401f456b577e6cd7cd51"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc84"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "66293dc82d2f7512c1938640"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 5,
+        "column": 1
+      }
+    ],
+    "userId": {
+      "$oid": "65f127dfed45b3ea7a26642c"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc7e"
+      },
+      "name": "Oppenheimer",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65efdd76d6f5663af881ec5c"
+          },
+          "name": "Tiểu sử"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb0d6f5663af881ec6a"
+          },
+          "name": "Chính kịch"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb7d6f5663af881ec6c"
+          },
+          "name": "Lịch sử"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707662233/oppenheimer_voazku.webp"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932974ea9206116a193c8"
+      },
+      "name": "Phòng chiếu 3"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 1,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "66344051456b577e6cd7cdbf"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "66293dc52d2f7512c19385bb"
+      },
+      "timeFrom": "06-05-2024 12:00",
+      "timeTo": "06-05-2024 15:00"
+    },
+    "quantity": 1,
+    "totalPrice": 200000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-05-03T01:38:39.118Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-03T01:39:29.065Z"
+    },
+    "orderNumber": 20164,
+    "paymentId": {
+      "$oid": "66344051456b577e6cd7cdba"
+    },
+    "totalFood": 50000
+  },
+  {
+    "_id": {
+      "$oid": "6634406a456b577e6cd7ce1b"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc84"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "66293dc82d2f7512c1938644"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 5,
+        "column": 2
+      }
+    ],
+    "userId": {
+      "$oid": "65f127dfed45b3ea7a26642c"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc7e"
+      },
+      "name": "Oppenheimer",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65efdd76d6f5663af881ec5c"
+          },
+          "name": "Tiểu sử"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb0d6f5663af881ec6a"
+          },
+          "name": "Chính kịch"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb7d6f5663af881ec6c"
+          },
+          "name": "Lịch sử"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707662233/oppenheimer_voazku.webp"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932974ea9206116a193c8"
+      },
+      "name": "Phòng chiếu 3"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 1,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "66344091456b577e6cd7ce4d"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "66293dc52d2f7512c19385bb"
+      },
+      "timeFrom": "06-05-2024 12:00",
+      "timeTo": "06-05-2024 15:00"
+    },
+    "quantity": 1,
+    "totalPrice": 200000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-05-03T01:39:54.601Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-03T01:40:33.191Z"
+    },
+    "orderNumber": 1407,
+    "paymentId": {
+      "$oid": "66344091456b577e6cd7ce46"
+    },
+    "totalFood": 50000
+  },
+  {
+    "_id": {
+      "$oid": "663456ac30d53e94400d5de5"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65cb125df4f5baef91e3bc9b"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "6629d68726b5960617db16df"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "_id": {
+          "$oid": "6629d68826b5960617db16e3"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 2,
+        "column": 2
+      }
+    ],
+    "userId": {
+      "$oid": "662f764053eb7479438fb0bd"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65cb125cf4f5baef91e3bc95"
+      },
+      "name": "WONKA HOLA",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65cb1184f4f5baef91e3bc93"
+          },
+          "name": "Phiêu lưu"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707880227/700x1000_22_l1xxbc.jpg"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "662932884ea9206116a193bb"
+      },
+      "name": "Phòng chiếu 2"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 6,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "6634570c30d53e94400d5e4d"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "6629d63b26b5960617db1569"
+      },
+      "timeFrom": "06-05-2024 12:00",
+      "timeTo": "06-05-2024 14:00"
+    },
+    "quantity": 2,
+    "totalPrice": 500000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-05-03T03:14:52.026Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-03T03:16:28.433Z"
+    },
+    "orderNumber": 26337,
+    "paymentId": {
+      "$oid": "6634570c30d53e94400d5e48"
+    },
+    "totalFood": 300000
+  },
+  {
+    "_id": {
+      "$oid": "663cefd8a50d9eab1fa37d72"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc84"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "663cef82a50d9eab1fa3791d"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "_id": {
+          "$oid": "663cef82a50d9eab1fa37921"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "_id": {
+          "$oid": "663cef83a50d9eab1fa37925"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "_id": {
+          "$oid": "663cef83a50d9eab1fa37929"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "_id": {
+          "$oid": "663cef84a50d9eab1fa3792d"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "_id": {
+          "$oid": "663cef84a50d9eab1fa37931"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 6
+      },
+      {
+        "_id": {
+          "$oid": "663cef84a50d9eab1fa37935"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 7
+      }
+    ],
+    "userId": {
+      "$oid": "66066adf1ce1c765e3c097da"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc7e"
+      },
+      "name": "Oppenheimer",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65efdd76d6f5663af881ec5c"
+          },
+          "name": "Tiểu sử"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb0d6f5663af881ec6a"
+          },
+          "name": "Chính kịch"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb7d6f5663af881ec6c"
+          },
+          "name": "Lịch sử"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707662233/oppenheimer_voazku.webp"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "6629323d4ea9206116a19376"
+      },
+      "name": "Phòng chiếu 1"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 10,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "663cf018a50d9eab1fa37dae"
+        }
+      },
+      {
+        "foodId": "65e1c3f95f5e2f5bce2a65b6",
+        "quantityFood": 11,
+        "name": "Burger Combo Special",
+        "price": "50000",
+        "_id": {
+          "$oid": "663cf018a50d9eab1fa37daf"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "663cef82a50d9eab1fa37918"
+      },
+      "timeFrom": "10-05-2024 12:00",
+      "timeTo": "10-05-2024 15:00"
+    },
+    "quantity": 7,
+    "totalPrice": 1500000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-05-09T15:46:32.930Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-09T15:47:36.283Z"
+    },
+    "orderNumber": 30799,
+    "paymentId": {
+      "$oid": "663cf018a50d9eab1fa37da9"
+    },
+    "totalFood": 1050000
+  },
+  {
+    "_id": {
+      "$oid": "663cf06aa50d9eab1fa37f19"
+    },
+    "priceId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc84"
+      },
+      "price": 100000
+    },
+    "seatId": [
+      {
+        "_id": {
+          "$oid": "663cef84a50d9eab1fa37939"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 1,
+        "column": 8
+      },
+      {
+        "_id": {
+          "$oid": "663cef87a50d9eab1fa37959"
+        },
+        "typeSeat": "normal",
+        "price": 50000,
+        "row": 2,
+        "column": 8
+      }
+    ],
+    "userId": {
+      "$oid": "660c5095a183aa63ea4c9eb0"
+    },
+    "movieId": {
+      "_id": {
+        "$oid": "65c8dc874a19975a1cc5fc7e"
+      },
+      "name": "Oppenheimer",
+      "categoryId": [
+        {
+          "_id": {
+            "$oid": "65efdd76d6f5663af881ec5c"
+          },
+          "name": "Tiểu sử"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb0d6f5663af881ec6a"
+          },
+          "name": "Chính kịch"
+        },
+        {
+          "_id": {
+            "$oid": "65efddb7d6f5663af881ec6c"
+          },
+          "name": "Lịch sử"
+        }
+      ],
+      "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707662233/oppenheimer_voazku.webp"
+    },
+    "cinemaId": {
+      "_id": {
+        "$oid": "65d30a80a047aeebd3c78c72"
+      },
+      "CinemaName": "BHD Star1",
+      "CinemaAdress": "Da Nang"
+    },
+    "screenRoomId": {
+      "_id": {
+        "$oid": "6629323d4ea9206116a19376"
+      },
+      "name": "Phòng chiếu 1"
+    },
+    "foods": [
+      {
+        "foodId": "65e1c2e95f5e2f5bce2a65b4",
+        "quantityFood": 1,
+        "name": "King Burger2",
+        "price": "50000",
+        "_id": {
+          "$oid": "663cf08aa50d9eab1fa38000"
+        }
+      },
+      {
+        "foodId": "65e1c3f95f5e2f5bce2a65b6",
+        "quantityFood": 1,
+        "name": "Burger Combo Special",
+        "price": "50000",
+        "_id": {
+          "$oid": "663cf08aa50d9eab1fa38001"
+        }
+      },
+      {
+        "foodId": "65e1c4205f5e2f5bce2a65b8",
+        "quantityFood": 1,
+        "name": "Burger For Couple",
+        "price": "50000",
+        "_id": {
+          "$oid": "663cf08aa50d9eab1fa38002"
+        }
+      }
+    ],
+    "showtimeId": {
+      "_id": {
+        "$oid": "663cef82a50d9eab1fa37918"
+      },
+      "timeFrom": "10-05-2024 12:00",
+      "timeTo": "10-05-2024 15:00"
+    },
+    "quantity": 2,
+    "totalPrice": 350000,
+    "status": "PAID",
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-05-09T15:48:58.239Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-09T15:49:30.704Z"
+    },
+    "orderNumber": 39756,
+    "paymentId": {
+      "$oid": "663cf08aa50d9eab1fa37ff5"
+    },
+    "totalFood": 150000
+  }
+]

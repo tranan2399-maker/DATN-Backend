@@ -12,6 +12,18 @@ const CinemaSchema = new mongoose.Schema(
       required: true
     },
 
+    city: {
+      type: String,
+      default: ''
+    },
+    amenities: {
+      type: [String],
+      default: []
+    },
+    hotline: {
+      type: String,
+      default: ''
+    },
     ScreeningRoomId: {
       type: [
         {

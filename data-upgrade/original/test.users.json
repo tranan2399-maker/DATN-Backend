@@ -1,0 +1,738 @@
+[{
+  "_id": {
+    "$oid": "65deffec88241cde18c8aac3"
+  },
+  "name": "nam nguyễn2 ",
+  "email": "kiencuong@gmail.com",
+  "mobile": 320364491730,
+  "password": "$2b$10$I6PQf7LmocVS0QI.1WrYJuS1CkniFOh3Rzy1LnQ.jLQApzUCqONba",
+  "confirmPassword": "$2b$10$g6zu6jgzPVaYtANjC1quiuAQcpJIhEViEmPMFYPX71J91W8PXuKKm",
+  "avatar": "https://phongreviews.com/wp-content/uploads/2022/11/avatar-facebook-mac-dinh-19.jpg",
+  "address": [
+    "ngõ 63 lê đức thọ"
+  ],
+  "wishlist": [],
+  "isBlocked": true,
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-02-28T09:42:04.922Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-03T02:21:25.359Z"
+  },
+  "roleIds": {
+    "$oid": "662ce317888a9655fbf8192e"
+  },
+  "__v": 0,
+  "age": 23,
+  "sex": "Nam",
+  "status": "Blocked"
+},
+{
+  "_id": {
+    "$oid": "65df552d23eb960869b22e7d"
+  },
+  "name": "Phan1234",
+  "email": "envidi123@gmail.com",
+  "mobile": 363128962,
+  "password": "$2b$10$YI0PkElLAuRzHImtSQbuw.Xb8APQSxGy5J5n3b/nxjKAvpdYzBFFK",
+  "confirmPassword": "$2b$10$5gHtjkHXk2CGQJxvOtok0e3pfRNMqdzsjvncFvwKQSJYshiqt8aqK",
+  "avatar": "https://phongreviews.com/wp-content/uploads/2022/11/avatar-facebook-mac-dinh-19.jpg",
+  "address": [
+    "Tổ 5 cơ thạch hà nội"
+  ],
+  "wishlist": [],
+  "isBlocked": false,
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-02-28T15:45:49.569Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-27T12:03:07.715Z"
+  },
+  "roleIds": {
+    "$oid": "659919a451a235a0f4b80700"
+  },
+  "__v": 0,
+  "age": 21,
+  "sex": "Nữ",
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "65f127dfed45b3ea7a26642c"
+  },
+  "name": "envidi03",
+  "email": "phanm711996@gmail.com",
+  "password": "$2b$10$hP2Ab3Yaugq7ha0Vgajs6eGZDJDpA4o1nS0.AfLlp6.Hcr0iXUWMK",
+  "confirmPassword": "$2b$10$YSFNn7w97pMdrSf3oE6iUOE/TwAKTyLkQvNSd57bazAQF2p.bu082",
+  "avatar": "https://res.cloudinary.com/dbu06uco1/image/upload/v1713077111/AVATAR/moytus3d3pq9ndqx3lwz.jpg",
+  "address": "Hàm Nghi Nam Từ Liêm HCM",
+  "wishlist": [],
+  "isBlocked": false,
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-03-13T04:13:19.510Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-03T01:38:22.131Z"
+  },
+  "roleIds": {
+    "$oid": "659919a451a235a0f4b80700"
+  },
+  "__v": 0,
+  "mobile": 987612345,
+  "age": 40,
+  "sex": "Nữ",
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "65f44edfa6d474f1f0d50ec3"
+  },
+  "name": "ChanhDay",
+  "email": "lethitrang010603@gmail.com",
+  "password": "$2b$10$yqNukaE/SgUH/5SNdJ1ppuQOPXzA423n0ZULDd47y.jhKtAGvxC3y",
+  "confirmPassword": "$2b$10$9WWH1abFAFaM2kan54ReQOajQAdjicn9NI2xA9WCHuHzvLueT2W62",
+  "avatar": "https://phongreviews.com/wp-content/uploads/2022/11/avatar-facebook-mac-dinh-19.jpg",
+  "address": [],
+  "wishlist": [],
+  "isBlocked": false,
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-03-15T13:36:31.916Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-09T15:45:53.623Z"
+  },
+  "roleIds": {
+    "$oid": "659919a451a235a0f4b80700"
+  },
+  "__v": 0,
+  "age": 18,
+  "sex": "Nữ",
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "65fd23a6d5719ccf2fc85272"
+  },
+  "name": "envidi2",
+  "email": "envidi123456@gmail.com",
+  "password": "$2b$10$mQuAvlXaTo.WFctU/JZw0uk9h3u/NP606KhBPuyqcOlZzMsuP25.q",
+  "confirmPassword": "123456789",
+  "avatar": "https://phongreviews.com/wp-content/uploads/2022/11/avatar-facebook-mac-dinh-19.jpg",
+  "address": "",
+  "wishlist": [],
+  "isBlocked": false,
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-03-22T06:22:30.257Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T15:55:13.404Z"
+  },
+  "roleIds": {
+    "$oid": "662ce317888a9655fbf8192e"
+  },
+  "__v": 0,
+  "age": 25,
+  "sex": "Nam",
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "66066adf1ce1c765e3c097da"
+  },
+  "name": "admin 12",
+  "email": "admin@gmail.com",
+  "mobile": 2397842332,
+  "password": "$2b$10$xsj8J9bbGgy1aBH6YWnqJeBaFFspqiM1uDOQvKRQI8ttQ/lw2SPqy",
+  "confirmPassword": "$2b$10$TtImLF2ffuNbOdnLTV0LmOFP5sbQ.TX0.eLKKX1IxO8O.dpgm1OI6",
+  "avatar": "https://phongreviews.com/wp-content/uploads/2022/11/avatar-facebook-mac-dinh-19.jpg",
+  "address": "việt nam",
+  "wishlist": [],
+  "isBlocked": false,
+  "roleIds": {
+    "$oid": "659b79c6757ca91b82e2b9d0"
+  },
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-03-29T07:16:47.604Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-18T16:01:31.070Z"
+  },
+  "__v": 0,
+  "age": 23,
+  "sex": "Nam",
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "660a4df71f3c0deca5422f72"
+  },
+  "name": "ChanhNgok",
+  "email": "chanh@gmail.com",
+  "password": "$2b$10$oB.yOZQ7CcAaJ8bXjTg6BeyFq1kZiGEf1..6.wsmXz0MIEH0og3Nm",
+  "confirmPassword": "Abc123123",
+  "avatar": "https://res.cloudinary.com/dbu06uco1/image/upload/v1713022600/AVATAR/s38csf3htsgp43jp9fu7.jpg",
+  "address": "Cau Kha Phong :P",
+  "wishlist": [],
+  "isBlocked": true,
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-04-01T06:02:31.575Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T15:07:32.390Z"
+  },
+  "roleIds": {
+    "$oid": "659b79c6757ca91b82e2b9d0"
+  },
+  "__v": 0,
+  "mobile": 982131231,
+  "age": 19,
+  "sex": "Nữ",
+  "status": "Blocked"
+},
+{
+  "_id": {
+    "$oid": "660c5095a183aa63ea4c9eb0"
+  },
+  "name": "quagsulu",
+  "email": "quagsulu1911@gmail.com",
+  "password": "$2b$10$AoLVoXcc8COclp7w8xJOcOH2y8YmR3N0GxBrTHsqTgoq9r3q0PMUC",
+  "confirmPassword": "12345678",
+  "avatar": "https://res.cloudinary.com/dbu06uco1/image/upload/v1712083152/AVATAR/nvcjhof6cicu9zwmf1ow.jpg",
+  "address": "",
+  "wishlist": [],
+  "isBlocked": false,
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-04-02T18:38:13.488Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-09T15:48:26.719Z"
+  },
+  "roleIds": {
+    "$oid": "659919a451a235a0f4b80700"
+  },
+  "__v": 0,
+  "age": 19,
+  "sex": "Nam",
+  "passwordResetExpires": "1714323996379",
+  "passwordResetToken": "51964",
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "661412fb23bc396b4de3e75e"
+  },
+  "name": "thanh lê",
+  "email": "lethithanh030402@gmail.com",
+  "password": "$2b$10$.jFalOW7GaW4D4QLH6OoD.xU.nanAVfneCoT0KL/mebCzr6fpkpSK",
+  "confirmPassword": "thanh030402",
+  "avatar": "https://phongreviews.com/wp-content/uploads/2022/11/avatar-facebook-mac-dinh-19.jpg",
+  "address": "",
+  "age": 0,
+  "isBlocked": false,
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-04-08T15:53:31.017Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-30T04:13:40.309Z"
+  },
+  "roleIds": {
+    "$oid": "659919a451a235a0f4b80700"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661aade786837135c8a6c840"
+  },
+  "name": "Lethanh",
+  "email": "thanhltph29388@fpt.edu.vn",
+  "password": "$2b$10$R68RAMBQMZnKYNKmdgV/6O6sD4P53Dy4/11x9m9PX6uFgmkxPUoQe",
+  "confirmPassword": "thanh030402",
+  "avatar": "https://res.cloudinary.com/dbu06uco1/image/upload/v1713029990/AVATAR/rkjor2a9eq3wd8pithdi.jpg",
+  "address": "",
+  "age": 0,
+  "isBlocked": false,
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-04-13T16:08:07.574Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T15:29:15.586Z"
+  },
+  "roleIds": {
+    "$oid": "659919a451a235a0f4b80700"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661aaf2586837135c8a6c84e"
+  },
+  "name": "hoaithanh",
+  "email": "thanh030402@gmail.com",
+  "password": "$2b$10$68inQDG3nJVVPJipME50jeOqEEkgp7IFnwhgdM3PxdWoLGhFj1LCm",
+  "confirmPassword": "thanh030402",
+  "avatar": "https://phongreviews.com/wp-content/uploads/2022/11/avatar-facebook-mac-dinh-19.jpg",
+  "address": "",
+  "age": 0,
+  "isBlocked": false,
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-04-13T16:13:25.867Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T15:51:21.985Z"
+  },
+  "roleIds": {
+    "$oid": "659919a451a235a0f4b80700"
+  },
+  "__v": 0,
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "661ab83c86837135c8a6cf93"
+  },
+  "name": "lethithanh",
+  "email": "thanhle030402@gmail.com",
+  "password": "$2b$10$I1PYwv6EBGhCC05FR4mns.R5XroB4dMBBKUca9xG5y1Ecm969h2ou",
+  "confirmPassword": "thanh030402",
+  "avatar": "https://phongreviews.com/wp-content/uploads/2022/11/avatar-facebook-mac-dinh-19.jpg",
+  "address": "",
+  "age": 0,
+  "isBlocked": false,
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-04-13T16:52:12.724Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-13T16:54:16.773Z"
+  },
+  "roleIds": {
+    "$oid": "659919a451a235a0f4b80700"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f2656f97bedc556846ec4"
+  },
+  "name": "luffyrrr",
+  "email": "namvit22@gmail.com",
+  "password": "$2b$10$tB1CaNmA3tD3wIfS/Y19h.yUUrXZXrashL8bQGchpaP1.gk//zXXS",
+  "confirmPassword": "123456789",
+  "avatar": "https://phongreviews.com/wp-content/uploads/2022/11/avatar-facebook-mac-dinh-19.jpg",
+  "address": "Chưa cập nhật",
+  "age": 0,
+  "isBlocked": false,
+  "status": "Active",
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-04-17T01:31:02.873Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-17T01:31:22.889Z"
+  },
+  "roleIds": {
+    "$oid": "659919a451a235a0f4b80700"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66226a8105e663e61a7d4237"
+  },
+  "name": "Nguyễn Thành Nam P H 2 6 8 7 8",
+  "email": "namntph26878@fpt.edu.vn",
+  "password": "$2b$10$hkDK9sdp51oYIipMZc6L7uNQug9fir9N.kF37oaq9PT0UtNa0IvyC",
+  "confirmPassword": "$2b$10$hkDK9sdp51oYIipMZc6L7uNQug9fir9N.kF37oaq9PT0UtNa0IvyC",
+  "avatar": "https://res.cloudinary.com/dbu06uco1/image/upload/v1713535651/AVATAR/wwx0kkjcqa5uurqi7odb.jpg",
+  "address": "Real nigga",
+  "age": 0,
+  "isBlocked": false,
+  "status": "Active",
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-04-19T12:58:41.367Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-19T14:07:55.755Z"
+  },
+  "roleIds": {
+    "$oid": "659919a451a235a0f4b80700"
+  },
+  "__v": 0,
+  "mobile": 382372
+},
+{
+  "_id": {
+    "$oid": "6623c8d3121732a0d304f0d5"
+  },
+  "name": "levanchuyen",
+  "email": "nguyenthanhnam03092003@gmail.com",
+  "password": "$2b$10$7AIbkmJM5YSr/hMeZAuTLuBVSkzl3AXwr3x1pYKc7P7nZvOXO/uba",
+  "confirmPassword": "123456789",
+  "avatar": "https://phongreviews.com/wp-content/uploads/2022/11/avatar-facebook-mac-dinh-19.jpg",
+  "address": "Chưa cập nhật",
+  "age": 0,
+  "isBlocked": false,
+  "status": "Active",
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-04-20T13:53:23.404Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T13:59:41.648Z"
+  },
+  "roleIds": {
+    "$oid": "659919a451a235a0f4b80700"
+  },
+  "__v": 0,
+  "passwordResetExpires": "1713621881646",
+  "passwordResetToken": "43753"
+},
+{
+  "_id": {
+    "$oid": "6623caa8f6b8918d4953b32e"
+  },
+  "name": "toilanome",
+  "email": "nguyenthanhnamcao392003@gmail.com",
+  "password": "$2b$10$XPAxWQEbvykPl4FvwII1MO1yKejoCm19s0RYZiyNDj9p1B9LCLYXO",
+  "confirmPassword": "123456789",
+  "avatar": "https://phongreviews.com/wp-content/uploads/2022/11/avatar-facebook-mac-dinh-19.jpg",
+  "address": "Chưa cập nhật",
+  "age": 0,
+  "isBlocked": false,
+  "status": "Active",
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-04-20T14:01:12.366Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T15:58:16.187Z"
+  },
+  "roleIds": {
+    "$oid": "659919a451a235a0f4b80700"
+  },
+  "__v": 0,
+  "passwordChangedAt": "1714665496186"
+},
+{
+  "_id": {
+    "$oid": "6629fbf5a4e9846a35abf57c"
+  },
+  "name": "Vũ Hồng Minh",
+  "email": "minhvhph27206@fpt.edu.vn",
+  "password": "$2b$10$f.xOIMdd9VQZH8kSg1XcIu7wC2gmEs9.tipzNsjs.GK0AfFcyY.xe",
+  "confirmPassword": "$2b$10$f.xOIMdd9VQZH8kSg1XcIu7wC2gmEs9.tipzNsjs.GK0AfFcyY.xe",
+  "avatar": "https://res.cloudinary.com/dbu06uco1/image/upload/v1714027708/AVATAR/affq8jlcwymmudvoxrwy.jpg",
+  "address": "Chưa cập nhật",
+  "age": 0,
+  "isBlocked": false,
+  "status": "Active",
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-04-25T06:45:09.054Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-25T06:48:28.628Z"
+  },
+  "roleIds": {
+    "$oid": "659919a451a235a0f4b80700"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6629fd1a1acc93cd1891ec67"
+  },
+  "name": "ducnvph 2 4 0 9 8 fplhn",
+  "email": "ducnvph24098@fpt.edu.vn",
+  "password": "$2b$10$4YIyiX.q2HPVWn6ayuFLyeWMk9Tb6aj6HdRFOVu5/WhUmeu8dIhp6",
+  "confirmPassword": "$2b$10$4YIyiX.q2HPVWn6ayuFLyeWMk9Tb6aj6HdRFOVu5/WhUmeu8dIhp6",
+  "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKzqaf50VYJtxdXtQzPt05fSVRrKH7ME5XtDH-l8vR5QeXi2JQ=s96-c",
+  "address": "Chưa cập nhật",
+  "age": 0,
+  "isBlocked": false,
+  "status": "Active",
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-04-25T06:50:02.374Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T15:06:57.144Z"
+  },
+  "roleIds": {
+    "$oid": "659919a451a235a0f4b80700"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ccae14fb0acf3b1817c03"
+  },
+  "name": "Tran Bui Tien (FPL HN)",
+  "email": "tientbph38085@fpt.edu.vn",
+  "password": "$2b$10$1EpJjJrSyBe6v1K9qQc2WOgzZZFPoPyisNZaJkOPGD6FZIQQtVKgm",
+  "confirmPassword": "$2b$10$1EpJjJrSyBe6v1K9qQc2WOgzZZFPoPyisNZaJkOPGD6FZIQQtVKgm",
+  "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL0IUy45CScrwwYADh99L5rt46ar6wopVJJ85vidDtBgBKXiw=s96-c",
+  "address": "Chưa cập nhật",
+  "age": 0,
+  "isBlocked": false,
+  "status": "Active",
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-04-27T09:52:33.177Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-30T14:05:54.250Z"
+  },
+  "roleIds": {
+    "$oid": "662ce317888a9655fbf8192e"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662d02c38db55b5a3245191e"
+  },
+  "name": "envidiStaff",
+  "email": "staff123@gmail.com",
+  "password": "$2b$10$qjtYmc4Tm0MC/vNQ3AM3meWnCrYXMo/cAfv3z65aNZ7MY5Z97jOA.",
+  "confirmPassword": "123456789",
+  "avatar": "https://phongreviews.com/wp-content/uploads/2022/11/avatar-facebook-mac-dinh-19.jpg",
+  "address": "Nam Từ Liêm Trịnh Văn Bô",
+  "age": 0,
+  "isBlocked": false,
+  "status": "Active",
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-04-27T13:50:59.341Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-30T14:06:32.474Z"
+  },
+  "roleIds": {
+    "$oid": "662ce317888a9655fbf8192e"
+  },
+  "__v": 0,
+  "mobile": 987654321
+},
+{
+  "_id": {
+    "$oid": "662f63f953eb7479438f92ef"
+  },
+  "name": "nhanvien",
+  "email": "nhanvien@gmail.com",
+  "password": "$2b$10$bz93YyMwNr.bc0rQPoK9meJTTn.REl1u7cPtK7GoWGnHcbtlIMvIO",
+  "confirmPassword": "12345678",
+  "avatar": "https://phongreviews.com/wp-content/uploads/2022/11/avatar-facebook-mac-dinh-19.jpg",
+  "address": "Chưa cập nhật",
+  "age": 0,
+  "isBlocked": false,
+  "status": "Active",
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-04-29T09:10:17.285Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-11T14:19:51.269Z"
+  },
+  "roleIds": {
+    "$oid": "662ce317888a9655fbf8192e"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662f764053eb7479438fb0bd"
+  },
+  "name": "nguoidung",
+  "email": "nguoidung@gmail.com",
+  "password": "$2b$10$O5PeKI6tiqhDHhiofv1fyuoj.t2xZOGDHwNQ.36E/OvgdQU0o8Lv.",
+  "confirmPassword": "12345678",
+  "avatar": "https://res.cloudinary.com/dbu06uco1/image/upload/v1714451942/AVATAR/s7lfsxv74msv3bzvlniy.jpg",
+  "address": "nam từ liêm",
+  "age": 0,
+  "isBlocked": false,
+  "status": "Active",
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-04-29T10:28:16.460Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-03T03:18:05.787Z"
+  },
+  "roleIds": {
+    "$oid": "659919a451a235a0f4b80700"
+  },
+  "__v": 0,
+  "mobile": 981896360,
+  "sex": "Nữ"
+},
+{
+  "_id": {
+    "$oid": "662fa77172cc4e3411d860b0"
+  },
+  "name": "duc12345",
+  "email": "duc@gmail.com",
+  "password": "$2b$10$VvIQArjc3Rn5annaJSTazOWwg1I4RO3X16oFTnVZJT5fWO.O4Y01u",
+  "confirmPassword": "12345678",
+  "avatar": "https://phongreviews.com/wp-content/uploads/2022/11/avatar-facebook-mac-dinh-19.jpg",
+  "address": "thái bình",
+  "age": 18,
+  "isBlocked": false,
+  "status": "Active",
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-04-29T13:58:09.439Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T03:27:26.795Z"
+  },
+  "roleIds": {
+    "$oid": "662ce317888a9655fbf8192e"
+  },
+  "__v": 0,
+  "mobile": 9111111,
+  "sex": "Nam"
+},
+{
+  "_id": {
+    "$oid": "6632235c2c79c1e98bddc4bf"
+  },
+  "name": "nguoidung2",
+  "email": "nguoidung2@gmail.com",
+  "password": "$2b$10$2OW10dELznkaGXiWM4KLJ.QOchh03PPhpyitiv.S7WQgqbVZU9rlS",
+  "confirmPassword": "12345678",
+  "avatar": "https://phongreviews.com/wp-content/uploads/2022/11/avatar-facebook-mac-dinh-19.jpg",
+  "address": "nam từ liêm",
+  "age": 0,
+  "isBlocked": false,
+  "status": "Active",
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-05-01T11:11:24.873Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T11:24:32.871Z"
+  },
+  "roleIds": {
+    "$oid": "659919a451a235a0f4b80700"
+  },
+  "__v": 0,
+  "mobile": 981896360
+},
+{
+  "_id": {
+    "$oid": "6632d6a01e0c588242438b83"
+  },
+  "name": "huy hoangf",
+  "email": "12345@gmail.com",
+  "password": "$2b$10$W98.q/SBtFmgM110/wrunObaYESj.fq/DhVzHn1LsbUHb7FIhtfYS",
+  "confirmPassword": "123456789",
+  "avatar": "https://phongreviews.com/wp-content/uploads/2022/11/avatar-facebook-mac-dinh-19.jpg",
+  "address": "Chưa cập nhật",
+  "age": 0,
+  "isBlocked": false,
+  "status": "Active",
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-05-01T23:56:16.443Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T23:56:16.443Z"
+  },
+  "roleIds": {
+    "$oid": "659919a451a235a0f4b80700"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6633ad40530ffc58fa7103f7"
+  },
+  "name": "testuser",
+  "email": "quangnvph24106@gmail.com",
+  "password": "$2b$10$hVfjsHogJqEmTbLyehmhiOzs5CfZo5eHwB.rHypUT2kiPPBHRTN5O",
+  "confirmPassword": "12345678",
+  "avatar": "https://phongreviews.com/wp-content/uploads/2022/11/avatar-facebook-mac-dinh-19.jpg",
+  "address": "Chưa cập nhật",
+  "age": 0,
+  "isBlocked": false,
+  "status": "Active",
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-05-02T15:12:00.626Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T15:12:27.299Z"
+  },
+  "roleIds": {
+    "$oid": "659919a451a235a0f4b80700"
+  },
+  "__v": 0,
+  "passwordResetExpires": "1714663047298",
+  "passwordResetToken": "81033"
+},
+{
+  "_id": {
+    "$oid": "6633ad7c530ffc58fa710402"
+  },
+  "name": "quagsulu2",
+  "email": "quangnvph24106@fpt.edu.vn",
+  "password": "$2b$10$eIfmlS6xej1NW7JQcgo0culjTK2SvGP8eT08L3VwQmNbODsWNa92W",
+  "confirmPassword": "12345678",
+  "avatar": "https://phongreviews.com/wp-content/uploads/2022/11/avatar-facebook-mac-dinh-19.jpg",
+  "address": "Chưa cập nhật",
+  "age": 0,
+  "isBlocked": false,
+  "status": "Active",
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-05-02T15:13:00.034Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T15:16:17.768Z"
+  },
+  "roleIds": {
+    "$oid": "659919a451a235a0f4b80700"
+  },
+  "__v": 0,
+  "passwordResetExpires": "1714663100917",
+  "passwordResetToken": "38291"
+},
+{
+  "_id": {
+    "$oid": "66681551cb1d2d1257c5ee56"
+  },
+  "name": "Quang Nguyễn Văn",
+  "email": "quagsulu191123@gmail.com",
+  "password": "$2b$10$z8erI2Q/tKWmoVwyMyHkcOYEq2PVCcFsD3pJpPwOtymTDCxXpz0By",
+  "confirmPassword": "$2b$10$z8erI2Q/tKWmoVwyMyHkcOYEq2PVCcFsD3pJpPwOtymTDCxXpz0By",
+  "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLDeuCGm5k0YAHMZ9qbePTz2E0NNoCNIrv-o4efM4tMMeMWJw=s96-c",
+  "address": "Chưa cập nhật",
+  "age": 0,
+  "isBlocked": false,
+  "status": "Active",
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-06-11T09:13:53.187Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T09:13:53.187Z"
+  },
+  "roleIds": {
+    "$oid": "659919a451a235a0f4b80700"
+  },
+  "__v": 0
+}]

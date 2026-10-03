@@ -1,0 +1,184 @@
+[{
+  "_id": {
+    "$oid": "660b8b5c8918cd6304f88d6e"
+  },
+  "movieId": {
+    "$oid": "65cc6fa5e2111969d6e21917"
+  },
+  "comments": [],
+  "like": [
+    {
+      "$oid": "65f127dfed45b3ea7a26642c"
+    }
+  ],
+  "userId": {
+    "$oid": "66066adf1ce1c765e3c097da"
+  },
+  "content": "hello",
+  "parentId": null,
+  "createdAt": {
+    "$date": "2024-04-02T04:36:44.244Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T04:36:50.872Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6614072d87acc7f00c96114d"
+  },
+  "movieId": {
+    "$oid": "65cc6fa5e2111969d6e21917"
+  },
+  "comments": [
+    {
+      "$oid": "6614088f378f05242d901131"
+    }
+  ],
+  "like": [],
+  "userId": {
+    "$oid": "660cef51b1adda7890b1f5af"
+  },
+  "content": "hello quang",
+  "parentId": null,
+  "createdAt": {
+    "$date": "2024-04-08T15:03:09.206Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-08T15:09:03.612Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6614088f378f05242d901131"
+  },
+  "movieId": {
+    "$oid": "65cc6fa5e2111969d6e21917"
+  },
+  "comments": [],
+  "like": [],
+  "userId": {
+    "$oid": "65f127dfed45b3ea7a26642c"
+  },
+  "content": "hello quang",
+  "parentId": {
+    "$oid": "6614072d87acc7f00c96114d"
+  },
+  "createdAt": {
+    "$date": "2024-04-08T15:09:03.543Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-08T15:09:03.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661a7633e2aeae3a0ed92a00"
+  },
+  "movieId": {
+    "$oid": "65cc718be2111969d6e21931"
+  },
+  "comments": [
+    {
+      "$oid": "6623c298121732a0d304f039"
+    }
+  ],
+  "like": [],
+  "userId": {
+    "$oid": "661412fb23bc396b4de3e75e"
+  },
+  "content": "test đăng nhập ",
+  "parentId": null,
+  "createdAt": {
+    "$date": "2024-04-13T12:10:27.145Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T13:26:48.694Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6623c298121732a0d304f039"
+  },
+  "movieId": {
+    "$oid": "65cc718be2111969d6e21931"
+  },
+  "comments": [],
+  "like": [],
+  "userId": {
+    "$oid": "66226a8105e663e61a7d4237"
+  },
+  "content": "dgdgg",
+  "parentId": {
+    "$oid": "661a7633e2aeae3a0ed92a00"
+  },
+  "createdAt": {
+    "$date": "2024-04-20T13:26:48.595Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T13:26:48.595Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66335ce29a94a980319f9a9f"
+  },
+  "movieId": {
+    "$oid": "65c8dc874a19975a1cc5fc7e"
+  },
+  "comments": [],
+  "like": [],
+  "userId": {
+    "$oid": "65f127dfed45b3ea7a26642c"
+  },
+  "content": "bình luận\n",
+  "parentId": null,
+  "createdAt": {
+    "$date": "2024-05-02T09:29:06.570Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T09:29:06.570Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66343f44456b577e6cd7cc80"
+  },
+  "movieId": {
+    "$oid": "65c8dc874a19975a1cc5fc7e"
+  },
+  "comments": [],
+  "like": [],
+  "userId": {
+    "$oid": "65f127dfed45b3ea7a26642c"
+  },
+  "content": "hello",
+  "parentId": null,
+  "createdAt": {
+    "$date": "2024-05-03T01:35:00.921Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-03T01:35:00.921Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6634557530d53e94400d5cf9"
+  },
+  "movieId": {
+    "$oid": "65cb125cf4f5baef91e3bc95"
+  },
+  "comments": [],
+  "like": [],
+  "userId": {
+    "$oid": "662f764053eb7479438fb0bd"
+  },
+  "content": "hhi",
+  "parentId": null,
+  "createdAt": {
+    "$date": "2024-05-03T03:09:41.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-03T03:09:41.172Z"
+  }
+}]

@@ -1,0 +1,187 @@
+[
+  {
+    "_id": {
+      "$oid": "6629323d4ea9206116a19376"
+    },
+    "name": "Phòng chiếu 1",
+    "NumberSeat": 72,
+    "projector": "Projector_1",
+    "CinemaId": {
+      "$oid": "65d30a80a047aeebd3c78c72"
+    },
+    "ShowtimesId": [
+      {
+        "$oid": "663249c0865c6765b29250fe"
+      },
+      {
+        "$oid": "6633c9c124e22decdcb70c81"
+      },
+      {
+        "$oid": "6633c9ea24e22decdcb70e90"
+      },
+      {
+        "$oid": "663cef82a50d9eab1fa37918"
+      },
+      {
+        "$oid": "664c48bf943e0aaccc2c5072"
+      },
+      {
+        "$oid": "66738645cb109ca11b708e42"
+      }
+    ],
+    "status": "Available",
+    "destroy": false,
+    "createdAt": {
+      "$date": "2024-04-24T16:24:29.119Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-20T01:30:46.090Z"
+    },
+    "format": "IMAX"
+  },
+  {
+    "_id": {
+      "$oid": "662932884ea9206116a193bb"
+    },
+    "name": "Phòng chiếu 2",
+    "NumberSeat": 64,
+    "projector": "Projector_1",
+    "CinemaId": {
+      "$oid": "65d30a80a047aeebd3c78c72"
+    },
+    "ShowtimesId": [
+      {
+        "$oid": "66293cae98765c9755fbeaed"
+      },
+      {
+        "$oid": "6629d63b26b5960617db1569"
+      },
+      {
+        "$oid": "662b2268e67669a7ed578e1e"
+      },
+      {
+        "$oid": "663f763552f19add0e4e03af"
+      }
+    ],
+    "status": "Available",
+    "destroy": false,
+    "createdAt": {
+      "$date": "2024-04-24T16:25:44.658Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-11T13:44:21.650Z"
+    },
+    "format": "3D"
+  },
+  {
+    "_id": {
+      "$oid": "662932974ea9206116a193c8"
+    },
+    "name": "Phòng chiếu 3",
+    "NumberSeat": 72,
+    "projector": "Projector_3",
+    "CinemaId": {
+      "$oid": "65d30a80a047aeebd3c78c72"
+    },
+    "ShowtimesId": [
+      {
+        "$oid": "66293dc52d2f7512c19385bb"
+      },
+      {
+        "$oid": "6633c99b24e22decdcb70a73"
+      }
+    ],
+    "status": "Available",
+    "destroy": false,
+    "createdAt": {
+      "$date": "2024-04-24T16:25:59.321Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-03T01:46:18.816Z"
+    },
+    "format": "2D"
+  },
+  {
+    "_id": {
+      "$oid": "66335e779a94a980319f9b6f"
+    },
+    "name": "Phòng chiếu 6",
+    "NumberSeat": 56,
+    "projector": "Projector_3",
+    "CinemaId": {
+      "$oid": "65d30a80a047aeebd3c78c72"
+    },
+    "ShowtimesId": [
+      {
+        "$oid": "66338e4f51f2e98727f9af77"
+      },
+      {
+        "$oid": "6633c91b24e22decdcb7062a"
+      },
+      {
+        "$oid": "6633c96024e22decdcb70815"
+      },
+      {
+        "$oid": "6634441530d53e94400d416b"
+      }
+    ],
+    "status": "Available",
+    "destroy": false,
+    "createdAt": {
+      "$date": "2024-05-02T09:35:51.150Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-03T02:16:00.644Z"
+    },
+    "format": "4DX"
+  },
+  {
+    "_id": {
+      "$oid": "6634429330d53e94400d40e4"
+    },
+    "name": "Phòng chiếu 5",
+    "NumberSeat": 56,
+    "projector": "Projector_3",
+    "CinemaId": {
+      "$oid": "65d30a80a047aeebd3c78c72"
+    },
+    "ShowtimesId": [],
+    "status": "Available",
+    "destroy": false,
+    "createdAt": {
+      "$date": "2024-05-03T01:49:07.488Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-21T07:10:33.393Z"
+    },
+    "format": "ScreenX"
+  },
+  {
+    "_id": {
+      "$oid": "6634585130d53e94400d6198"
+    },
+    "name": "Phòng chiếu 7",
+    "NumberSeat": 56,
+    "projector": "Projector_1",
+    "CinemaId": {
+      "$oid": "65d30a80a047aeebd3c78c72"
+    },
+    "ShowtimesId": [
+      {
+        "$oid": "66345a1830d53e94400d636e"
+      },
+      {
+        "$oid": "666812cb4e94be9e13257a4a"
+      }
+    ],
+    "status": "Available",
+    "destroy": false,
+    "createdAt": {
+      "$date": "2024-05-03T03:21:53.552Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-11T09:03:07.916Z"
+    },
+    "format": "2D"
+  }
+]

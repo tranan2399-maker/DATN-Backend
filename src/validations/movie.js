@@ -9,6 +9,11 @@ const movieSchema = JoiExtended.object({
     'string.empty': `{{ #label }} is 'required'`
   }),
   desc: Joi.string().min(3).max(1255).trim().strict(),
+  isFeatured: Joi.boolean(),
+  backdrop: Joi.string().allow(''),
+  subtitleType: Joi.array().items(Joi.string()),
+  slug: Joi.string().allow(''),
+  destroy: Joi.boolean(),
   actor: Joi.string().min(3).required(),
   language: Joi.string().min(3).required(),
   author: Joi.string().required().min(1).max(255).trim().strict(),

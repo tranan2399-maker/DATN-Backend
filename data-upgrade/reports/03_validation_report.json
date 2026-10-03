@@ -1,0 +1,103 @@
+{
+  "timestamp": "2026-10-03T12:11:17.943Z",
+  "totalCollections": 16,
+  "collections": [
+    {
+      "file": "test.categories.json",
+      "records": 13,
+      "status": "PASSED",
+      "notes": "OK"
+    },
+    {
+      "file": "test.cinemas.json",
+      "records": 1,
+      "status": "PASSED",
+      "notes": "OK"
+    },
+    {
+      "file": "test.commentrecursives.json",
+      "records": 5,
+      "status": "PASSED",
+      "notes": "OK"
+    },
+    {
+      "file": "test.comments.json",
+      "records": 8,
+      "status": "PASSED",
+      "notes": "OK"
+    },
+    {
+      "file": "test.foods.json",
+      "records": 8,
+      "status": "PASSED",
+      "notes": "OK"
+    },
+    {
+      "file": "test.movieprices.json",
+      "records": 58,
+      "status": "PASSED",
+      "notes": "OK"
+    },
+    {
+      "file": "test.movies.json",
+      "records": 21,
+      "status": "PASSED",
+      "notes": "OK"
+    },
+    {
+      "file": "test.payments.json",
+      "records": 271,
+      "status": "PASSED",
+      "notes": "OK"
+    },
+    {
+      "file": "test.roleusers.json",
+      "records": 3,
+      "status": "PASSED",
+      "notes": "OK"
+    },
+    {
+      "file": "test.screeningrooms.json",
+      "records": 6,
+      "status": "PASSED",
+      "notes": "OK"
+    },
+    {
+      "file": "test.seats.json",
+      "records": 1168,
+      "status": "PASSED",
+      "notes": "OK"
+    },
+    {
+      "file": "test.showtimes.json",
+      "records": 18,
+      "status": "PASSED",
+      "notes": "OK"
+    },
+    {
+      "file": "test.tickets.json",
+      "records": 44,
+      "status": "PASSED",
+      "notes": "OK"
+    },
+    {
+      "file": "test.timeslots.json",
+      "records": 1,
+      "status": "PASSED",
+      "notes": "OK"
+    },
+    {
+      "file": "test.users.json",
+      "records": 28,
+      "status": "PASSED",
+      "notes": "OK"
+    },
+    {
+      "file": "test.watchlists.json",
+      "records": 7,
+      "status": "PASSED",
+      "notes": "OK"
+    }
+  ],
+  "allPassed": true
+}

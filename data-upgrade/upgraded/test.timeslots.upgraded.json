@@ -1,0 +1,35 @@
+[
+  {
+    "_id": {
+      "$oid": "65fd5d0210aaac9b040eda27"
+    },
+    "ScreenRoomId": {
+      "$oid": "65b5fc657d1fb9cf7b743e33"
+    },
+    "Show_scheduleId": {
+      "$oid": "65fd5d0210aaac9b040eda25"
+    },
+    "SeatId": [
+      {
+        "$oid": "65fd5d0210aaac9b040eda2a"
+      },
+      {
+        "$oid": "65fd5d0210aaac9b040eda2e"
+      },
+      {
+        "$oid": "65fd5d0210aaac9b040eda31"
+      },
+      {
+        "$oid": "65fd5d0210aaac9b040eda34"
+      }
+    ],
+    "status": "Available",
+    "destroy": false,
+    "createdAt": {
+      "$date": "2024-03-22T10:27:14.267Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-22T10:27:14.595Z"
+    }
+  }
+]

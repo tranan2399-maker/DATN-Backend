@@ -1,0 +1,930 @@
+[
+  {
+    "_id": {
+      "$oid": "65c8dc874a19975a1cc5fc84"
+    },
+    "movieId": {
+      "$oid": "65c8dc874a19975a1cc5fc7e"
+    },
+    "price": 100000,
+    "dayType": "weekday",
+    "createdAt": {
+      "$date": "2024-02-11T14:41:11.910Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-11T14:41:11.910Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65c8dc884a19975a1cc5fc88"
+    },
+    "movieId": {
+      "$oid": "65c8dc874a19975a1cc5fc7e"
+    },
+    "price": 150000,
+    "dayType": "weekend",
+    "createdAt": {
+      "$date": "2024-02-11T14:41:12.102Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-11T14:41:12.102Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65cb125df4f5baef91e3bc9b"
+    },
+    "movieId": {
+      "$oid": "65cb125cf4f5baef91e3bc95"
+    },
+    "price": 100000,
+    "dayType": "weekday",
+    "createdAt": {
+      "$date": "2024-02-13T06:55:25.254Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-13T06:55:25.254Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65cb125df4f5baef91e3bc9f"
+    },
+    "movieId": {
+      "$oid": "65cb125cf4f5baef91e3bc95"
+    },
+    "price": 150000,
+    "dayType": "weekend",
+    "createdAt": {
+      "$date": "2024-02-13T06:55:25.385Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-13T06:55:25.385Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65cc503ce2111969d6e218ec"
+    },
+    "movieId": {
+      "$oid": "65cc503be2111969d6e218e6"
+    },
+    "price": 120000,
+    "dayType": "weekday",
+    "createdAt": {
+      "$date": "2024-02-14T05:31:40.294Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-14T05:31:40.294Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65cc503ce2111969d6e218f0"
+    },
+    "movieId": {
+      "$oid": "65cc503be2111969d6e218e6"
+    },
+    "price": 170000,
+    "dayType": "weekend",
+    "createdAt": {
+      "$date": "2024-02-14T05:31:40.450Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-14T05:31:40.450Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65cc6fa5e2111969d6e2191d"
+    },
+    "movieId": {
+      "$oid": "65cc6fa5e2111969d6e21917"
+    },
+    "price": 110000,
+    "dayType": "weekday",
+    "createdAt": {
+      "$date": "2024-02-14T07:45:41.499Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-14T07:45:41.499Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65cc6fa5e2111969d6e21921"
+    },
+    "movieId": {
+      "$oid": "65cc6fa5e2111969d6e21917"
+    },
+    "price": 160000,
+    "dayType": "weekend",
+    "createdAt": {
+      "$date": "2024-02-14T07:45:41.639Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-14T07:45:41.639Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65cc718be2111969d6e21937"
+    },
+    "movieId": {
+      "$oid": "65cc718be2111969d6e21931"
+    },
+    "price": 90000,
+    "dayType": "weekday",
+    "createdAt": {
+      "$date": "2024-02-14T07:53:47.598Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-14T07:53:47.598Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65cc718be2111969d6e2193b"
+    },
+    "movieId": {
+      "$oid": "65cc718be2111969d6e21931"
+    },
+    "price": 140000,
+    "dayType": "weekend",
+    "createdAt": {
+      "$date": "2024-02-14T07:53:47.730Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-14T07:53:47.730Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65cc7334e2111969d6e21961"
+    },
+    "movieId": {
+      "$oid": "65cc7334e2111969d6e2195b"
+    },
+    "price": 150000,
+    "dayType": "weekday",
+    "createdAt": {
+      "$date": "2024-02-14T08:00:52.797Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-14T08:00:52.797Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65cc7334e2111969d6e21965"
+    },
+    "movieId": {
+      "$oid": "65cc7334e2111969d6e2195b"
+    },
+    "price": 200000,
+    "dayType": "weekend",
+    "createdAt": {
+      "$date": "2024-02-14T08:00:52.921Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-14T08:00:52.921Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65cc7666e2111969d6e2198a"
+    },
+    "movieId": {
+      "$oid": "65cc7666e2111969d6e21984"
+    },
+    "price": 150000,
+    "dayType": "weekday",
+    "createdAt": {
+      "$date": "2024-02-14T08:14:30.561Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-14T08:14:30.561Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65cc7666e2111969d6e2198e"
+    },
+    "movieId": {
+      "$oid": "65cc7666e2111969d6e21984"
+    },
+    "price": 200000,
+    "dayType": "weekend",
+    "createdAt": {
+      "$date": "2024-02-14T08:14:30.688Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-14T08:14:30.688Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65cc7b6ff0372ae3b888cd1d"
+    },
+    "movieId": {
+      "$oid": "65cc7b6ef0372ae3b888cd17"
+    },
+    "price": 100000,
+    "dayType": "weekday",
+    "createdAt": {
+      "$date": "2024-02-14T08:35:59.758Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-14T08:35:59.758Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65cc7b70f0372ae3b888cd21"
+    },
+    "movieId": {
+      "$oid": "65cc7b6ef0372ae3b888cd17"
+    },
+    "price": 150000,
+    "dayType": "weekend",
+    "createdAt": {
+      "$date": "2024-02-14T08:36:00.187Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-14T08:36:00.187Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e03f5488f37263bb869dec"
+    },
+    "movieId": {
+      "$oid": "65e03f5388f37263bb869de6"
+    },
+    "price": 100000,
+    "dayType": "weekday",
+    "createdAt": {
+      "$date": "2024-02-29T08:24:52.474Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-29T08:24:52.474Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e03f5488f37263bb869df0"
+    },
+    "movieId": {
+      "$oid": "65e03f5388f37263bb869de6"
+    },
+    "price": 150000,
+    "dayType": "weekend",
+    "createdAt": {
+      "$date": "2024-02-29T08:24:52.771Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-29T08:24:52.771Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e041a888f37263bb869e06"
+    },
+    "movieId": {
+      "$oid": "65e041a788f37263bb869e01"
+    },
+    "price": 100000,
+    "dayType": "weekday",
+    "createdAt": {
+      "$date": "2024-02-29T08:34:48.516Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T12:56:13.859Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e041a888f37263bb869e0a"
+    },
+    "movieId": {
+      "$oid": "65e041a788f37263bb869e01"
+    },
+    "price": 150000,
+    "dayType": "weekend",
+    "createdAt": {
+      "$date": "2024-02-29T08:34:48.852Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T12:56:13.955Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e0437cbd8ca80e9d0f793c"
+    },
+    "movieId": {
+      "$oid": "65e0437cbd8ca80e9d0f7937"
+    },
+    "price": 100000,
+    "dayType": "weekday",
+    "createdAt": {
+      "$date": "2024-02-29T08:42:36.819Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-29T08:42:36.819Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e0437cbd8ca80e9d0f7940"
+    },
+    "movieId": {
+      "$oid": "65e0437cbd8ca80e9d0f7937"
+    },
+    "price": 150000,
+    "dayType": "weekend",
+    "createdAt": {
+      "$date": "2024-02-29T08:42:36.911Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-29T08:42:36.911Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e044e9bd8ca80e9d0f794d"
+    },
+    "movieId": {
+      "$oid": "65e044e8bd8ca80e9d0f7947"
+    },
+    "price": 100000,
+    "dayType": "weekday",
+    "createdAt": {
+      "$date": "2024-02-29T08:48:41.955Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-29T08:48:41.955Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e044eabd8ca80e9d0f7951"
+    },
+    "movieId": {
+      "$oid": "65e044e8bd8ca80e9d0f7947"
+    },
+    "price": 150000,
+    "dayType": "weekend",
+    "createdAt": {
+      "$date": "2024-02-29T08:48:42.260Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-29T08:48:42.260Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e0460cbd8ca80e9d0f795c"
+    },
+    "movieId": {
+      "$oid": "65e04609bd8ca80e9d0f7956"
+    },
+    "price": 100000,
+    "dayType": "weekday",
+    "createdAt": {
+      "$date": "2024-02-29T08:53:32.117Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-29T08:53:32.117Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e0460cbd8ca80e9d0f7960"
+    },
+    "movieId": {
+      "$oid": "65e04609bd8ca80e9d0f7956"
+    },
+    "price": 150000,
+    "dayType": "weekend",
+    "createdAt": {
+      "$date": "2024-02-29T08:53:32.212Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-29T08:53:32.212Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f9247de8e4d87f6ee5a133"
+    },
+    "movieId": {
+      "$oid": "65f9247de8e4d87f6ee5a12d"
+    },
+    "price": 100000,
+    "dayType": "weekday",
+    "createdAt": {
+      "$date": "2024-03-19T05:37:01.750Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-19T05:37:01.750Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f9247de8e4d87f6ee5a137"
+    },
+    "movieId": {
+      "$oid": "65f9247de8e4d87f6ee5a12d"
+    },
+    "price": 150000,
+    "dayType": "weekend",
+    "createdAt": {
+      "$date": "2024-03-19T05:37:01.873Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-19T05:37:01.873Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6613e34c39d4e932b1f96a6c"
+    },
+    "movieId": {
+      "$oid": "6613e34c39d4e932b1f96a67"
+    },
+    "price": 111222,
+    "dayType": "weekday",
+    "createdAt": {
+      "$date": "2024-04-08T12:30:04.338Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-08T12:30:04.338Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6613e34c39d4e932b1f96a70"
+    },
+    "movieId": {
+      "$oid": "6613e34c39d4e932b1f96a67"
+    },
+    "price": 1122,
+    "dayType": "weekend",
+    "createdAt": {
+      "$date": "2024-04-08T12:30:04.518Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-08T12:30:04.518Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6613e35639d4e932b1f96a78"
+    },
+    "movieId": {
+      "$oid": "6613e35639d4e932b1f96a73"
+    },
+    "price": 111222,
+    "dayType": "weekday",
+    "createdAt": {
+      "$date": "2024-04-08T12:30:14.571Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-08T12:30:14.571Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6613e35639d4e932b1f96a7c"
+    },
+    "movieId": {
+      "$oid": "6613e35639d4e932b1f96a73"
+    },
+    "price": 150000,
+    "dayType": "weekend",
+    "createdAt": {
+      "$date": "2024-04-08T12:30:14.758Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-08T13:00:54.103Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6618ee7b40f740da60f60918"
+    },
+    "movieId": {
+      "$oid": "6618ee7b40f740da60f60912"
+    },
+    "price": 1000001,
+    "dayType": "weekday",
+    "createdAt": {
+      "$date": "2024-04-12T08:19:07.612Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-12T08:19:07.612Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6618ee7b40f740da60f6091c"
+    },
+    "movieId": {
+      "$oid": "6618ee7b40f740da60f60912"
+    },
+    "price": 15000051,
+    "dayType": "weekend",
+    "createdAt": {
+      "$date": "2024-04-12T08:19:07.757Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-12T08:19:07.757Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "661920df46c5cfa37ddae2bc"
+    },
+    "movieId": {
+      "$oid": "661920de46c5cfa37ddae2b6"
+    },
+    "price": 1234567,
+    "dayType": "weekday",
+    "createdAt": {
+      "$date": "2024-04-12T11:54:07.112Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-12T11:54:07.112Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "661920df46c5cfa37ddae2c0"
+    },
+    "movieId": {
+      "$oid": "661920de46c5cfa37ddae2b6"
+    },
+    "price": 123456,
+    "dayType": "weekend",
+    "createdAt": {
+      "$date": "2024-04-12T11:54:07.284Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-12T11:54:07.284Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6619383db6b882863d977cda"
+    },
+    "movieId": {
+      "$oid": "6619383cb6b882863d977cd4"
+    },
+    "price": 1111100,
+    "dayType": "weekday",
+    "createdAt": {
+      "$date": "2024-04-12T13:33:49.456Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-12T13:33:49.456Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6619383db6b882863d977cde"
+    },
+    "movieId": {
+      "$oid": "6619383cb6b882863d977cd4"
+    },
+    "price": 2222200,
+    "dayType": "weekend",
+    "createdAt": {
+      "$date": "2024-04-12T13:33:49.634Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-12T13:33:49.634Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66193848b6b882863d977ce7"
+    },
+    "movieId": {
+      "$oid": "66193847b6b882863d977ce1"
+    },
+    "price": 1111100,
+    "dayType": "weekday",
+    "createdAt": {
+      "$date": "2024-04-12T13:34:00.221Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-12T13:34:00.221Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66193848b6b882863d977ceb"
+    },
+    "movieId": {
+      "$oid": "66193847b6b882863d977ce1"
+    },
+    "price": 2222200,
+    "dayType": "weekend",
+    "createdAt": {
+      "$date": "2024-04-12T13:34:00.698Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-12T13:34:00.698Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66209f2641322b852000af5e"
+    },
+    "movieId": {
+      "$oid": "66209f2641322b852000af58"
+    },
+    "price": 100000,
+    "dayType": "weekday",
+    "createdAt": {
+      "$date": "2024-04-18T04:18:46.663Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-18T04:18:46.663Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66209f2641322b852000af62"
+    },
+    "movieId": {
+      "$oid": "66209f2641322b852000af58"
+    },
+    "price": 150000,
+    "dayType": "weekend",
+    "createdAt": {
+      "$date": "2024-04-18T04:18:46.747Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-18T04:18:46.747Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6620b72e63d00aa80d8faeb2"
+    },
+    "movieId": {
+      "$oid": "6620b72e63d00aa80d8faeac"
+    },
+    "price": 70000,
+    "dayType": "weekday",
+    "createdAt": {
+      "$date": "2024-04-18T06:01:18.589Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-18T06:01:18.589Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6620b72e63d00aa80d8faeb6"
+    },
+    "movieId": {
+      "$oid": "6620b72e63d00aa80d8faeac"
+    },
+    "price": 105000,
+    "dayType": "weekend",
+    "createdAt": {
+      "$date": "2024-04-18T06:01:18.691Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-18T06:01:18.691Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "662a63571acc93cd1891f04b"
+    },
+    "movieId": {
+      "$oid": "662a63571acc93cd1891f045"
+    },
+    "price": 100000,
+    "dayType": "weekday",
+    "createdAt": {
+      "$date": "2024-04-25T14:06:15.802Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-25T14:08:36.108Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "662a63571acc93cd1891f04f"
+    },
+    "movieId": {
+      "$oid": "662a63571acc93cd1891f045"
+    },
+    "price": 150000,
+    "dayType": "weekend",
+    "createdAt": {
+      "$date": "2024-04-25T14:06:15.910Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-25T14:08:36.180Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "663120108634005080685564"
+    },
+    "movieId": {
+      "$oid": "6631200f8634005080685560"
+    },
+    "price": 300,
+    "dayType": "weekday",
+    "createdAt": {
+      "$date": "2024-04-30T16:45:04.043Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-30T16:48:12.281Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "663120108634005080685568"
+    },
+    "movieId": {
+      "$oid": "6631200f8634005080685560"
+    },
+    "price": 450,
+    "dayType": "weekend",
+    "createdAt": {
+      "$date": "2024-04-30T16:45:04.149Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-30T16:48:12.369Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66324ed1ddfd51c646ac9316"
+    },
+    "movieId": {
+      "$oid": "66324ed0ddfd51c646ac9310"
+    },
+    "price": 100000,
+    "dayType": "weekday",
+    "createdAt": {
+      "$date": "2024-05-01T14:16:49.152Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T14:17:36.914Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66324ed1ddfd51c646ac931a"
+    },
+    "movieId": {
+      "$oid": "66324ed0ddfd51c646ac9310"
+    },
+    "price": 150000,
+    "dayType": "weekend",
+    "createdAt": {
+      "$date": "2024-05-01T14:16:49.341Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T14:17:37.034Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "663263fc1c2c58f173dbeb53"
+    },
+    "movieId": {
+      "$oid": "663263fb1c2c58f173dbeb4d"
+    },
+    "price": 300000,
+    "dayType": "weekday",
+    "createdAt": {
+      "$date": "2024-05-01T15:47:08.103Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T15:47:49.153Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "663263fc1c2c58f173dbeb57"
+    },
+    "movieId": {
+      "$oid": "663263fb1c2c58f173dbeb4d"
+    },
+    "price": 450000,
+    "dayType": "weekend",
+    "createdAt": {
+      "$date": "2024-05-01T15:47:08.205Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T15:47:49.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "663270fd320f086e351ca2ed"
+    },
+    "movieId": {
+      "$oid": "663270fc320f086e351ca2e6"
+    },
+    "price": 50000,
+    "dayType": "weekday",
+    "createdAt": {
+      "$date": "2024-05-01T16:42:37.096Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T16:42:37.096Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "663270fd320f086e351ca2f1"
+    },
+    "movieId": {
+      "$oid": "663270fc320f086e351ca2e6"
+    },
+    "price": 75000,
+    "dayType": "weekend",
+    "createdAt": {
+      "$date": "2024-05-01T16:42:37.185Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T16:42:37.185Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6634436b30d53e94400d4135"
+    },
+    "movieId": {
+      "$oid": "6634436a30d53e94400d412e"
+    },
+    "price": 100000,
+    "dayType": "weekday",
+    "createdAt": {
+      "$date": "2024-05-03T01:52:43.800Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-03T01:53:59.476Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6634436c30d53e94400d4139"
+    },
+    "movieId": {
+      "$oid": "6634436a30d53e94400d412e"
+    },
+    "price": 150000,
+    "dayType": "weekend",
+    "createdAt": {
+      "$date": "2024-05-03T01:52:44.315Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-03T01:53:59.548Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6634599230d53e94400d6332"
+    },
+    "movieId": {
+      "$oid": "6634599130d53e94400d632b"
+    },
+    "price": 100000,
+    "dayType": "weekday",
+    "createdAt": {
+      "$date": "2024-05-03T03:27:14.124Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-03T03:27:57.189Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6634599230d53e94400d6336"
+    },
+    "movieId": {
+      "$oid": "6634599130d53e94400d632b"
+    },
+    "price": 150000,
+    "dayType": "weekend",
+    "createdAt": {
+      "$date": "2024-05-03T03:27:14.224Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-03T03:27:57.252Z"
+    }
+  }
+]

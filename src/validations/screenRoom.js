@@ -7,6 +7,7 @@ const screenSchema = Joi.object({
     'string.empty': `{{ #label }} is 'required'`
   }),
   NumberSeat: Joi.number().valid(...[56, 64, 72]),
+  format: Joi.string().valid('2D', '3D', 'IMAX', '4DX', 'ScreenX'),
   projector: Joi.string()
     .valid(...projectors)
     .required(),

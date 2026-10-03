@@ -1,0 +1,1197 @@
+[
+  {
+    "_id": {
+      "$oid": "65c8dc874a19975a1cc5fc7e"
+    },
+    "name": "Oppenheimer",
+    "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707662233/oppenheimer_voazku.webp",
+    "duration": 180,
+    "country": "United State",
+    "age_limit": 18,
+    "fromDate": {
+      "$date": "2024-04-24T12:45:00.000Z"
+    },
+    "toDate": {
+      "$date": "2024-05-09T12:45:00.000Z"
+    },
+    "author": "Christopher Nolan",
+    "language": "English",
+    "actor": "Cillian Murphy",
+    "trailer": "https://www.youtube.com/embed/uYPbbksJxIg?si=ciSTFsSO0GKnmTE8",
+    "categoryId": [
+      {
+        "$oid": "65efdd76d6f5663af881ec5c"
+      },
+      {
+        "$oid": "65efddb0d6f5663af881ec6a"
+      },
+      {
+        "$oid": "65efddb7d6f5663af881ec6c"
+      }
+    ],
+    "desc": "During World War II, Lt. Gen. Leslie Groves Jr. appoints physicist J. Robert Oppenheimer to work on the top-secret Manhattan Project. Oppenheimer and a team of scientists spend years developing and designing the atomic bomb. Their work comes to fruition on July 16, 1945, as they witness the world s first nuclear explosion, forever changing the course of history.",
+    "status": "IS_SHOWING",
+    "rate": 4,
+    "prices": [
+      {
+        "$oid": "65c8dc874a19975a1cc5fc84"
+      },
+      {
+        "$oid": "65c8dc884a19975a1cc5fc88"
+      }
+    ],
+    "slug": "oppenheimer",
+    "destroy": false,
+    "showTimes": [
+      {
+        "$oid": "6623252b8e1194a7d06ea2ae"
+      },
+      {
+        "$oid": "66293cae98765c9755fbeaed"
+      },
+      {
+        "$oid": "66293dc52d2f7512c19385bb"
+      },
+      {
+        "$oid": "6633c96024e22decdcb70815"
+      },
+      {
+        "$oid": "66345a1830d53e94400d636e"
+      },
+      {
+        "$oid": "663cef82a50d9eab1fa37918"
+      },
+      {
+        "$oid": "664c48bf943e0aaccc2c5072"
+      },
+      {
+        "$oid": "666812cb4e94be9e13257a4a"
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-02-11T14:41:11.541Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-11T09:03:15.676Z"
+    },
+    "subtitleType": [
+      "Phụ đề"
+    ],
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "65cb125cf4f5baef91e3bc95"
+    },
+    "name": "WONKA HOLA",
+    "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707880227/700x1000_22_l1xxbc.jpg",
+    "duration": 120,
+    "country": "United State",
+    "age_limit": 13,
+    "fromDate": {
+      "$date": "2024-04-14T12:45:00.000Z"
+    },
+    "toDate": {
+      "$date": "2024-05-19T12:45:00.000Z"
+    },
+    "author": "Paul King",
+    "language": "English",
+    "actor": "Timothée Chalamet",
+    "trailer": "https://www.youtube.com/watch?v=otNh9bTjXWg",
+    "categoryId": [
+      {
+        "$oid": "65cb1184f4f5baef91e3bc93"
+      }
+    ],
+    "desc": "Dựa trên nhân vật từ quyển sách gối đầu giường của các em nhỏ trên toàn thế giới Charlie và Nhà Máy Sôcôla và phiên bản phim điện ảnh cùng tên vào năm 2005, WONKA kể câu chuyện kỳ diệu về hành trình của nhà phát minh, ảo thuật gia và nhà sản xuất sôcôla.",
+    "status": "IS_SHOWING",
+    "rate": 4,
+    "prices": [
+      {
+        "$oid": "65cb125df4f5baef91e3bc9b"
+      },
+      {
+        "$oid": "65cb125df4f5baef91e3bc9f"
+      }
+    ],
+    "slug": "wonka-hola",
+    "destroy": false,
+    "showTimes": [
+      {
+        "$oid": "6629d63b26b5960617db1569"
+      },
+      {
+        "$oid": "662b2268e67669a7ed578e1e"
+      },
+      {
+        "$oid": "6632486603359c9251adb129"
+      },
+      {
+        "$oid": "6633c99b24e22decdcb70a73"
+      },
+      {
+        "$oid": "6633c9c124e22decdcb70c81"
+      },
+      {
+        "$oid": "66738645cb109ca11b708e42"
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-02-13T06:55:24.748Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-20T01:31:03.889Z"
+    },
+    "subtitleType": [
+      "Phụ đề"
+    ],
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "65cc503be2111969d6e218e6"
+    },
+    "name": "THE VERGE OF DEATH",
+    "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707888517/vergeofdeath_o1jtx0.jpg",
+    "duration": 97,
+    "country": "Indonesia",
+    "age_limit": 16,
+    "fromDate": {
+      "$date": "2024-04-29T12:45:00.000Z"
+    },
+    "toDate": {
+      "$date": "2024-05-25T12:45:00.000Z"
+    },
+    "author": "Azhar Kinoi Lubis",
+    "language": "Indo",
+    "actor": "Wafda Saifan Lubis, Taskya Namya",
+    "trailer": "https://www.youtube.com/watch?v=hDZmnZE9efU",
+    "categoryId": [
+      {
+        "$oid": "65cc4fdde2111969d6e218e2"
+      },
+      {
+        "$oid": "65efddb0d6f5663af881ec6a"
+      },
+      {
+        "$oid": "65efdefa9c56cd5ce4f428d8"
+      }
+    ],
+    "desc": "Nadia – cô gái còn sống sót duy nhất trong một gia đình có số phận bi thảm phải vật lộn với mối đe dọa tiềm ẩn và đối mặt với cuộc sống bên bờ vực thẳm bởi hậu quả của những nghi lễ hiến tế trước đây của cha mình.",
+    "status": "IS_SHOWING",
+    "rate": 3,
+    "prices": [
+      {
+        "$oid": "65cc503ce2111969d6e218ec"
+      },
+      {
+        "$oid": "65cc503ce2111969d6e218f0"
+      }
+    ],
+    "slug": "the-verge-of-death",
+    "destroy": false,
+    "showTimes": [
+      {
+        "$oid": "663249c0865c6765b29250fe"
+      },
+      {
+        "$oid": "6633c9ea24e22decdcb70e90"
+      },
+      {
+        "$oid": "663f763552f19add0e4e03af"
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-02-14T05:31:39.832Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-11T13:44:43.108Z"
+    },
+    "subtitleType": [
+      "Phụ đề"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65cc6fa5e2111969d6e21917"
+    },
+    "name": "THE BOY AND THE HERON",
+    "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707896238/theboyandtheheron_s5rwpq.jpg",
+    "duration": 124,
+    "country": "Japan",
+    "age_limit": 13,
+    "fromDate": {
+      "$date": "2024-04-29T12:45:00.000Z"
+    },
+    "toDate": {
+      "$date": "2024-05-25T12:45:00.000Z"
+    },
+    "author": "Hayao Miyazaki",
+    "language": "Japan",
+    "actor": "Soma Santoki, Masaki Suda",
+    "trailer": "https://www.youtube.com/embed/t5khm-VjEu4?si=2MKZ7jwhJzuHKXZ1",
+    "categoryId": [
+      {
+        "$oid": "65cc6de2e2111969d6e2190f"
+      },
+      {
+        "$oid": "65efddb0d6f5663af881ec6a"
+      },
+      {
+        "$oid": "65cb1184f4f5baef91e3bc93"
+      }
+    ],
+    "desc": "Xoay quanh bước ngoặt cuộc sống của một cậu bé Mahito khi người mẹ của mình không may qua đời trong vụ hỏa hoạn. Cậu cùng một chú chim diệc biết nói trải qua một cuộc phiêu lưu để có thể thực hiện mong muốn duy nhất – gặp lại mẹ yêu dấu.",
+    "status": "COMING_SOON",
+    "rate": 4,
+    "prices": [
+      {
+        "$oid": "65cc6fa5e2111969d6e2191d"
+      },
+      {
+        "$oid": "65cc6fa5e2111969d6e21921"
+      }
+    ],
+    "slug": "the-boy-and-the-heron",
+    "destroy": false,
+    "showTimes": [
+      {
+        "$oid": "662d04e98db55b5a32451c15"
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-02-14T07:45:41.267Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-03T01:46:14.669Z"
+    },
+    "subtitleType": [
+      "Phụ đề"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65cc718be2111969d6e21931"
+    },
+    "name": "TABOO – ĐIỀU CẤM KỴ KINH HOÀNG",
+    "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707896950/tabokinhhoang_tgdm8h.jpg",
+    "duration": 90,
+    "country": "Vietnam",
+    "age_limit": 18,
+    "fromDate": {
+      "$date": "2024-04-29T12:45:00.000Z"
+    },
+    "toDate": {
+      "$date": "2024-05-25T12:45:00.000Z"
+    },
+    "author": "Vũ Thành",
+    "language": "Vietnam",
+    "actor": "Phạm Tất Thành",
+    "trailer": "https://www.youtube.com/watch?v=CIzrBWEPRBc",
+    "categoryId": [
+      {
+        "$oid": "65cc4fdde2111969d6e218e2"
+      },
+      {
+        "$oid": "65efddb0d6f5663af881ec6a"
+      },
+      {
+        "$oid": "65cb1184f4f5baef91e3bc93"
+      }
+    ],
+    "desc": "Bà Cốc đón hai cháu từ thành thị về chơi, 2 đứa trẻ rất tinh nghịch nhưng chưa hề biết về một vùng quê yên ả nhưng vẫn ẩn sâu những mối nguy hiểm cần tránh xa. Bà Cốc kể cho chúng nghe về những truyền thuyết , nhưng liệu đó có phải chỉ là truyền thuyết ?",
+    "status": "COMING_SOON",
+    "rate": 3,
+    "prices": [
+      {
+        "$oid": "65cc718be2111969d6e21937"
+      },
+      {
+        "$oid": "65cc718be2111969d6e2193b"
+      }
+    ],
+    "slug": "taboo-ieu-cam-ky-kinh-hoang",
+    "destroy": false,
+    "showTimes": [],
+    "createdAt": {
+      "$date": "2024-02-14T07:53:47.374Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-21T07:10:33.393Z"
+    },
+    "subtitleType": [
+      "Phụ đề"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65cc7334e2111969d6e2195b"
+    },
+    "name": "AQUAMAN AND THE LOST KINGDOM",
+    "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707897566/aquamanandthelostkingdom_bxngzp.jpg",
+    "duration": 125,
+    "country": "United State",
+    "age_limit": 13,
+    "fromDate": {
+      "$date": "2024-04-29T12:45:00.000Z"
+    },
+    "toDate": {
+      "$date": "2024-05-09T12:45:00.000Z"
+    },
+    "author": "James Wan",
+    "language": "English",
+    "actor": "Jason Momoa",
+    "trailer": "https://www.youtube.com/embed/UGc5Tzz19UY?si=NXYWzbmoGAPXWERL",
+    "categoryId": [
+      {
+        "$oid": "65efdc93d6f5663af881ec27"
+      },
+      {
+        "$oid": "65efdc83d6f5663af881ec25"
+      },
+      {
+        "$oid": "65cb1184f4f5baef91e3bc93"
+      }
+    ],
+    "desc": "Sau khi thất bại dưới tay Aquaman, Black Manta sử dụng sức mạnh của Cây đinh ba đen huyền thoại để giải phóng thế lực cổ xưa độc ác. Aquaman phải liên minh với anh trai mình, Orm, cựu vương của Atlantis để bảo vệ vương quốc và thế giới khỏi sự hủy diệt…",
+    "status": "COMING_SOON",
+    "rate": 5,
+    "prices": [
+      {
+        "$oid": "65cc7334e2111969d6e21961"
+      },
+      {
+        "$oid": "65cc7334e2111969d6e21965"
+      }
+    ],
+    "slug": "aquaman-and-the-lost-kingdom",
+    "destroy": false,
+    "showTimes": [],
+    "createdAt": {
+      "$date": "2024-02-14T08:00:52.570Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-03T01:46:07.168Z"
+    },
+    "subtitleType": [
+      "Phụ đề"
+    ],
+    "isFeatured": true
+  },
+  {
+    "_id": {
+      "$oid": "65cc7666e2111969d6e21984"
+    },
+    "name": "TEE YOD",
+    "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707898270/teeyod_ni0gx2.jpg",
+    "duration": 119,
+    "country": "Thailand",
+    "age_limit": 18,
+    "fromDate": {
+      "$date": "2024-04-29T12:45:00.000Z"
+    },
+    "toDate": {
+      "$date": "2024-05-25T12:45:00.000Z"
+    },
+    "author": "Taweewat Wantha",
+    "language": "Thai",
+    "actor": "Nadech Kugimiya",
+    "trailer": "https://www.youtube.com/watch?v=JcBZt99vsj0",
+    "categoryId": [
+      {
+        "$oid": "65cc4fdde2111969d6e218e2"
+      },
+      {
+        "$oid": "65efddb0d6f5663af881ec6a"
+      },
+      {
+        "$oid": "65efdefa9c56cd5ce4f428d8"
+      }
+    ],
+    "desc": "Lấy cảm hứng dựa trên 1 câu chuyện có thật vào năm 1972, 1 cô gái trẻ ở 1 ngôi làng hẻo lánh bỗng dưng qua đời 1 cách bí ẩn Khi nghe thấy một giọng nói dựng tóc gáy 'Tee Yod…' vang lên trong đêm. 50 năm sau, tiếng gọi 'Tee Yod 'bỗng lần nữa vang lên .",
+    "status": "COMING_SOON",
+    "rate": 4,
+    "prices": [
+      {
+        "$oid": "65cc7666e2111969d6e2198a"
+      },
+      {
+        "$oid": "65cc7666e2111969d6e2198e"
+      }
+    ],
+    "slug": "tee-yod",
+    "destroy": false,
+    "showTimes": [],
+    "createdAt": {
+      "$date": "2024-02-14T08:14:30.357Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-03T01:46:10.304Z"
+    },
+    "subtitleType": [
+      "Phụ đề"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65cc7b6ef0372ae3b888cd17"
+    },
+    "name": "SCARYGIRL",
+    "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1707899661/scarygirl_nmxrem.jpg",
+    "duration": 90,
+    "country": "Australia",
+    "age_limit": 18,
+    "fromDate": {
+      "$date": "2024-04-14T12:45:00.000Z"
+    },
+    "toDate": {
+      "$date": "2024-05-24T12:45:00.000Z"
+    },
+    "author": "Tania Vincent",
+    "language": "Australian",
+    "actor": "Sam Neill",
+    "trailer": "https://www.youtube.com/watch?v=l3Zbh_GPNCM",
+    "categoryId": [
+      {
+        "$oid": "65cb1184f4f5baef91e3bc93"
+      },
+      {
+        "$oid": "65cc6de2e2111969d6e2190f"
+      }
+    ],
+    "desc": "Khi thế giới bị đe dọa bởi sự biến mất của ánh sáng mặt trời, một cô gái trẻ phải vượt qua nỗi sợ hãi của mình và đi đến thành phố tưởng tượng để cứu cha mình khỏi tay một nhà khoa học bí ẩn và ngăn chặn hành tinh của cô bị hủy diệt.",
+    "status": "COMING_SOON",
+    "rate": 4,
+    "prices": [
+      {
+        "$oid": "65cc7b6ff0372ae3b888cd1d"
+      },
+      {
+        "$oid": "65cc7b70f0372ae3b888cd21"
+      }
+    ],
+    "slug": "scarygirl",
+    "destroy": false,
+    "showTimes": [
+      {
+        "$oid": "6627c9d68386f414f14cac82"
+      },
+      {
+        "$oid": "6627cea3c6a6a12b3af105ae"
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-02-14T08:35:58.909Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-02T12:15:02.352Z"
+    },
+    "subtitleType": [
+      "Phụ đề"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e03f5388f37263bb869de6"
+    },
+    "name": "Migration",
+    "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1709194634/migration_fxprj0.jpg",
+    "duration": 93,
+    "country": "United of Kingdom",
+    "age_limit": 9,
+    "fromDate": {
+      "$date": "2024-04-29T12:45:00.000Z"
+    },
+    "toDate": {
+      "$date": "2024-05-09T12:45:00.000Z"
+    },
+    "author": "Benjamin Renner",
+    "language": "English",
+    "actor": "Elizabeth Banks",
+    "trailer": "https://www.youtube.com/embed/cQfo0HJhCnE?si=r-NAHbboVDPeZmWl",
+    "categoryId": [
+      {
+        "$oid": "65cb1184f4f5baef91e3bc93"
+      },
+      {
+        "$oid": "65cc6de2e2111969d6e2190f"
+      },
+      {
+        "$oid": "65e03e9b88f37263bb869de4"
+      }
+    ],
+    "desc": "Cùng theo chân một gia đình vịt trời gồm vịt bố, vịt mẹ, cậu con trai Dax và vịt út Gwen, trong lần đầu tiên trải nghiệm chuyến di cư tiến về phía nam để trú đông. Với khung cảnh rực rỡ sắc trời thu tại một chiếc ao ở New England…",
+    "status": "IS_SHOWING",
+    "rate": 4,
+    "prices": [
+      {
+        "$oid": "65e03f5488f37263bb869dec"
+      },
+      {
+        "$oid": "65e03f5488f37263bb869df0"
+      }
+    ],
+    "slug": "migration",
+    "destroy": false,
+    "showTimes": [
+      {
+        "$oid": "6627c6d68386f414f14ca6b6"
+      },
+      {
+        "$oid": "6627ce93c6a6a12b3af10483"
+      },
+      {
+        "$oid": "6627d3569469c3fde21c78ea"
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-02-29T08:24:51.940Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-24T16:10:45.853Z"
+    },
+    "subtitleType": [
+      "Lồng tiếng",
+      "Phụ đề"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e041a788f37263bb869e01"
+    },
+    "name": "The Bricklayer",
+    "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1709195387/thebricklayer_c4voyx.jpg",
+    "duration": 110,
+    "country": "Vietnam",
+    "age_limit": 18,
+    "fromDate": {
+      "$date": "2024-04-29T12:45:00.000Z"
+    },
+    "toDate": {
+      "$date": "2024-05-25T12:45:00.000Z"
+    },
+    "author": "Renny Harlin",
+    "language": "Vietnam",
+    "actor": "Aaron Eckhart, Nina Dobrev",
+    "trailer": "https://www.youtube.com/embed/zC96qykLTdQ?si=QK3vcz5d1TqiMcpP",
+    "categoryId": [
+      {
+        "$oid": "65e0419288f37263bb869dff"
+      },
+      {
+        "$oid": "65efdc83d6f5663af881ec25"
+      },
+      {
+        "$oid": "65efdd76d6f5663af881ec5c"
+      }
+    ],
+    "desc": "Khi thế giới chống lại Hoa Kỳ, CIA phải lôi kéo một đặc vụ cũ nổi loạn nhưng là người xuất sắc nhất của mình để làm sáng tỏ một âm mưu tầm cỡ quốc tế.",
+    "status": "COMING_SOON",
+    "rate": 5,
+    "prices": [
+      {
+        "$oid": "65e041a888f37263bb869e06"
+      },
+      {
+        "$oid": "65e041a888f37263bb869e0a"
+      }
+    ],
+    "slug": "the-bricklayer",
+    "destroy": false,
+    "showTimes": [],
+    "createdAt": {
+      "$date": "2024-02-29T08:34:47.762Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T12:56:13.764Z"
+    },
+    "subtitleType": [
+      "Phụ đề"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e0437cbd8ca80e9d0f7937"
+    },
+    "name": "THE BEEKEEPER",
+    "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1709195388/thebeekeeper_lm8mfm.jpg",
+    "duration": 105,
+    "country": "United of Kingdom",
+    "age_limit": 18,
+    "fromDate": {
+      "$date": "2024-04-29T12:45:00.000Z"
+    },
+    "toDate": {
+      "$date": "2024-05-15T12:45:00.000Z"
+    },
+    "author": "David Ayer",
+    "language": "English",
+    "actor": "Jason Statham",
+    "trailer": "https://www.youtube.com/embed/SzINZZ6iqxY?si=VfxB7a42juneVg_f",
+    "categoryId": [
+      {
+        "$oid": "65e0419288f37263bb869dff"
+      }
+    ],
+    "desc": "Khi người hàng xóm tốt bụng của mình qua đời do bị vướng vào một trò lừa đảo trên mạng, người nuôi ong không bình thường Clay quyết định đứng lên để trả thù những kẻ đã gây ra tội ác này.",
+    "status": "COMING_SOON",
+    "rate": 5,
+    "prices": [
+      {
+        "$oid": "65e0437cbd8ca80e9d0f793c"
+      },
+      {
+        "$oid": "65e0437cbd8ca80e9d0f7940"
+      }
+    ],
+    "slug": "the-beekeeper",
+    "destroy": false,
+    "showTimes": [],
+    "createdAt": {
+      "$date": "2024-02-29T08:42:36.673Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-11T14:23:02.406Z"
+    },
+    "subtitleType": [
+      "Phụ đề"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e044e8bd8ca80e9d0f7947"
+    },
+    "name": "APE VS. MECHA APE",
+    "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1709195387/apevsmechaape_ekc3p6.jpg",
+    "duration": 86,
+    "country": "United of America",
+    "age_limit": 13,
+    "fromDate": {
+      "$date": "2024-04-29T12:45:00.000Z"
+    },
+    "toDate": {
+      "$date": "2024-05-15T12:45:00.000Z"
+    },
+    "author": "Marc Gottlieb",
+    "language": "English",
+    "actor": "Tom Arnold",
+    "trailer": "https://www.youtube.com/embed/r8Ez4CgPJHM?si=Iu1gd9zUHzBSR9R-",
+    "categoryId": [
+      {
+        "$oid": "65cc4fdde2111969d6e218e2"
+      }
+    ],
+    "desc": "Quân đội tạo ra đội quân Khỉ AI dựa trên sức mạnh của Khỉ khổng lồ nhưng thất bại ở thử nghiệm đầu tiên khiến họ phải thả Khỉ khổng lồ đang bị giam cầm ra để ngăn chặn đội quân Khỉ Robot trước khi nó phá hủy Chicago.",
+    "status": "COMING_SOON",
+    "rate": 3,
+    "prices": [
+      {
+        "$oid": "65e044e9bd8ca80e9d0f794d"
+      },
+      {
+        "$oid": "65e044eabd8ca80e9d0f7951"
+      }
+    ],
+    "slug": "ape-vs-mecha-ape",
+    "destroy": false,
+    "showTimes": [],
+    "createdAt": {
+      "$date": "2024-02-29T08:48:40.929Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-11T14:23:02.406Z"
+    },
+    "subtitleType": [
+      "Phụ đề"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e04609bd8ca80e9d0f7956"
+    },
+    "name": "Alienoid: The return to the future",
+    "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1709195386/alienoid_cfp1af.jpg",
+    "duration": 86,
+    "country": "Japan",
+    "age_limit": 16,
+    "fromDate": {
+      "$date": "2024-04-29T12:45:00.000Z"
+    },
+    "toDate": {
+      "$date": "2024-05-25T12:45:00.000Z"
+    },
+    "author": "Dong-hoon Choi",
+    "language": "Japanese",
+    "actor": "Ryu Jun Yeol, Kim Woo-bin",
+    "trailer": "https://www.youtube.com/embed/snjYMx5A7KU?si=lRAgPBT1MNUDOeH9",
+    "categoryId": [
+      {
+        "$oid": "65efdc83d6f5663af881ec25"
+      },
+      {
+        "$oid": "65efdc93d6f5663af881ec27"
+      },
+      {
+        "$oid": "65efdc79d6f5663af881ec23"
+      }
+    ],
+    "desc": "Phần 2 của bộ phim Alienoid. Ean và Thunder đã bị mắc kẹt trong quá khứ khi cố gắng ngăn chặn sự trốn thoát của những tù nhân ngoài hành tinh bị nhốt trong bộ não con người. Cổng thời gian mở ra và những bí mật của Moo-reuk, Ean và Thunder được tiết lộ.",
+    "status": "COMING_SOON",
+    "rate": 4,
+    "prices": [
+      {
+        "$oid": "65e0460cbd8ca80e9d0f795c"
+      },
+      {
+        "$oid": "65e0460cbd8ca80e9d0f7960"
+      }
+    ],
+    "slug": "alienoid-the-return-to-the-future",
+    "destroy": false,
+    "showTimes": [],
+    "createdAt": {
+      "$date": "2024-02-29T08:53:29.971Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-29T02:11:53.516Z"
+    },
+    "subtitleType": [
+      "Phụ đề"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65f9247de8e4d87f6ee5a12d"
+    },
+    "name": "NORYANG: DEADLY SEA",
+    "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1710826500/Noryang_ucw3ap.jpg",
+    "duration": 148,
+    "country": "Korea",
+    "age_limit": 18,
+    "fromDate": {
+      "$date": "2024-04-20T12:45:00.000Z"
+    },
+    "toDate": {
+      "$date": "2024-05-25T12:45:00.000Z"
+    },
+    "author": "Han-min Kim",
+    "language": "Korean",
+    "actor": "Yeo Jin Goo, Kim Yoon-seok",
+    "trailer": "https://www.youtube.com/embed/HPRkiVU39I4?si=jQN28tmxFEGAFROy",
+    "categoryId": [
+      {
+        "$oid": "65efdc83d6f5663af881ec25"
+      },
+      {
+        "$oid": "65efdd76d6f5663af881ec5c"
+      },
+      {
+        "$oid": "65efddb7d6f5663af881ec6c"
+      }
+    ],
+    "desc": "Tác phẩm thứ ba nằm trong trilogy của đạo diễn Kim Han Min nhằm tái hiện lại cuộc đời bình nghiệp của Đô đốc Yi Sun Shin qua sự kiện Chiến tranh Nhâm Thìn.",
+    "status": "COMING_SOON",
+    "rate": 3,
+    "prices": [
+      {
+        "$oid": "65f9247de8e4d87f6ee5a133"
+      },
+      {
+        "$oid": "65f9247de8e4d87f6ee5a137"
+      }
+    ],
+    "slug": "noryang-deadly-sea",
+    "destroy": false,
+    "showTimes": [],
+    "createdAt": {
+      "$date": "2024-03-19T05:37:01.534Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-29T15:54:49.437Z"
+    },
+    "subtitleType": [
+      "Phụ đề"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6620b72e63d00aa80d8faeac"
+    },
+    "name": "Money heist",
+    "image": "https://res.cloudinary.com/dbu06uco1/image/upload/v1713420079/AVATAR/bxle9repdnl9ttdn7vcr.jpg",
+    "duration": 150,
+    "country": "Spain",
+    "age_limit": 18,
+    "fromDate": {
+      "$date": "2024-04-19T05:00:00.000Z"
+    },
+    "toDate": {
+      "$date": "2024-05-15T05:00:00.000Z"
+    },
+    "author": "Álex Pina",
+    "language": "Spanish",
+    "actor": "Úrsula Corberó, Álvaro Morte",
+    "trailer": "https://www.youtube.com/embed/_InqQJRqGW4?si=Tr4xwlUloUJuNfPh",
+    "categoryId": [
+      {
+        "$oid": "65efdc83d6f5663af881ec25"
+      },
+      {
+        "$oid": "65efddb0d6f5663af881ec6a"
+      },
+      {
+        "$oid": "65efddb7d6f5663af881ec6c"
+      }
+    ],
+    "desc": "một bộ phim truyền hình chính kịch tội phạm đề tài trộm cướp của Tây Ban Nha do Álex Pina sáng tạo. Loạt phim xoay quanh hai vụ cướp, một ở Xưởng in tiền Hoàng gia Tây Ban Nha và một ở Ngân hàng Tây Ban Nha, do Giáo sư (Álvaro Morte) lên kế hoạch từ lâu và nắm quyền lãnh đạo.",
+    "status": "IS_SHOWING",
+    "rate": 5,
+    "prices": [
+      {
+        "$oid": "6620b72e63d00aa80d8faeb2"
+      },
+      {
+        "$oid": "6620b72e63d00aa80d8faeb6"
+      }
+    ],
+    "slug": "money-heist",
+    "destroy": false,
+    "showTimes": [
+      {
+        "$oid": "6630fa62af21a7792fe0fb02"
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-04-18T06:01:18.387Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-02T12:06:30.287Z"
+    },
+    "subtitleType": [
+      "Phụ đề"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6631200f8634005080685560"
+    },
+    "name": "Apple Watch Ultra GPS",
+    "image": "https://res.cloudinary.com/dbu06uco1/image/upload/v1714495503/AVATAR/zfcxhgodsmfcuk5xztyr.png",
+    "duration": 120,
+    "country": "fffff",
+    "age_limit": 12,
+    "fromDate": {
+      "$date": "2024-05-02T05:00:00.000Z"
+    },
+    "toDate": {
+      "$date": "2024-05-02T17:00:00.000Z"
+    },
+    "author": "ttt",
+    "language": "ttttt",
+    "actor": "ttt",
+    "trailer": "ttttttt",
+    "categoryId": [
+      {
+        "$oid": "65cb1184f4f5baef91e3bc93"
+      },
+      {
+        "$oid": "65e03e9b88f37263bb869de4"
+      },
+      {
+        "$oid": "65efdc79d6f5663af881ec23"
+      }
+    ],
+    "desc": "ttttttttttttttt",
+    "status": "CANCELLED",
+    "rate": 4,
+    "prices": [
+      {
+        "$oid": "663120108634005080685564"
+      },
+      {
+        "$oid": "663120108634005080685568"
+      }
+    ],
+    "slug": "apple-watch-ultra-gps",
+    "destroy": true,
+    "showTimes": [],
+    "createdAt": {
+      "$date": "2024-04-30T16:45:03.926Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-30T17:35:20.246Z"
+    },
+    "subtitleType": [
+      "Phụ đề"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "66324ed0ddfd51c646ac9310"
+    },
+    "name": "KATAK: THE BRAVE BELUGA",
+    "image": "https://res.cloudinary.com/dbu06uco1/image/upload/v1714573012/AVATAR/b9wnh3bmxliwfl2mrr27.png",
+    "duration": 119,
+    "country": "United Kingdom",
+    "age_limit": 12,
+    "author": "Robert Naylor",
+    "language": "United Kingdom",
+    "actor": "Robert Naylor",
+    "trailer": "Robert Naylor",
+    "categoryId": [
+      {
+        "$oid": "65cb1184f4f5baef91e3bc93"
+      },
+      {
+        "$oid": "65cc4fdde2111969d6e218e2"
+      }
+    ],
+    "desc": "Robert Naylor",
+    "status": "IS_SHOWING",
+    "rate": 5,
+    "prices": [
+      {
+        "$oid": "66324ed1ddfd51c646ac9316"
+      },
+      {
+        "$oid": "66324ed1ddfd51c646ac931a"
+      }
+    ],
+    "slug": "katak-the-brave-beluga",
+    "destroy": false,
+    "showTimes": [
+      {
+        "$oid": "66324f41ddfd51c646ac933e"
+      },
+      {
+        "$oid": "66338e4f51f2e98727f9af77"
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-05-01T14:16:48.817Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-02T13:02:08.115Z"
+    },
+    "subtitleType": [
+      "Lồng tiếng",
+      "Phụ đề"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "663263fb1c2c58f173dbeb4d"
+    },
+    "name": "ttttttthhh",
+    "image": "https://res.cloudinary.com/dbu06uco1/image/upload/v1714578427/AVATAR/jstfhpysnezswhb3qogk.png",
+    "duration": 120,
+    "country": "5555",
+    "age_limit": 3,
+    "author": "ttttttttt",
+    "language": "ttttttttttt",
+    "actor": "tttt",
+    "trailer": "eeee",
+    "categoryId": [
+      {
+        "$oid": "65cb1184f4f5baef91e3bc93"
+      },
+      {
+        "$oid": "65e03e9b88f37263bb869de4"
+      },
+      {
+        "$oid": "65efdc79d6f5663af881ec23"
+      }
+    ],
+    "desc": "eeeeeeeee",
+    "status": "CANCELLED",
+    "rate": 5,
+    "prices": [
+      {
+        "$oid": "663263fc1c2c58f173dbeb53"
+      },
+      {
+        "$oid": "663263fc1c2c58f173dbeb57"
+      }
+    ],
+    "slug": "ttttttt",
+    "destroy": true,
+    "showTimes": [],
+    "createdAt": {
+      "$date": "2024-05-01T15:47:07.891Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T15:48:03.391Z"
+    },
+    "subtitleType": [
+      "Phụ đề"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "663270fc320f086e351ca2e6"
+    },
+    "name": "hellomotherfucker",
+    "image": "https://res.cloudinary.com/dbu06uco1/image/upload/v1714581756/AVATAR/fdf6bzpczb4qbeiynepr.png",
+    "duration": 234,
+    "country": "hellomotherfucker",
+    "age_limit": 15,
+    "fromDate": {
+      "$date": "2024-05-02T05:00:00.000Z"
+    },
+    "toDate": {
+      "$date": "2024-05-17T05:00:00.000Z"
+    },
+    "author": "hellomotherfucker",
+    "language": "hellomotherfucker",
+    "actor": "hellomotherfucker",
+    "trailer": "hellomotherfucker",
+    "categoryId": [
+      {
+        "$oid": "65cb1184f4f5baef91e3bc93"
+      },
+      {
+        "$oid": "65cc4fdde2111969d6e218e2"
+      },
+      {
+        "$oid": "65cc6de2e2111969d6e2190f"
+      }
+    ],
+    "desc": "hellomotherfucker",
+    "status": "COMING_SOON",
+    "rate": 5,
+    "prices": [
+      {
+        "$oid": "663270fd320f086e351ca2ed"
+      },
+      {
+        "$oid": "663270fd320f086e351ca2f1"
+      }
+    ],
+    "slug": "hellomotherfucker",
+    "destroy": true,
+    "showTimes": [],
+    "createdAt": {
+      "$date": "2024-05-01T16:42:36.907Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-02T12:00:25.298Z"
+    },
+    "subtitleType": [
+      "Phụ đề"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6634436a30d53e94400d412e"
+    },
+    "name": "adfghsdf",
+    "image": "https://res.cloudinary.com/dbu06uco1/image/upload/v1714701240/AVATAR/ny3ahl0yobkbdts4cymn.png",
+    "duration": 120,
+    "country": "Spain",
+    "age_limit": 12,
+    "fromDate": {
+      "$date": "2024-05-09T05:00:00.000Z"
+    },
+    "toDate": {
+      "$date": "2024-05-10T05:00:00.000Z"
+    },
+    "author": "adscfvg",
+    "language": "Spain",
+    "actor": "dsfgh",
+    "trailer": "sacdvfbg",
+    "categoryId": [
+      {
+        "$oid": "65cb1184f4f5baef91e3bc93"
+      },
+      {
+        "$oid": "65cc4fdde2111969d6e218e2"
+      },
+      {
+        "$oid": "65e03e9b88f37263bb869de4"
+      }
+    ],
+    "desc": "ácdvfbgh",
+    "status": "IS_SHOWING",
+    "rate": 5,
+    "prices": [
+      {
+        "$oid": "6634436b30d53e94400d4135"
+      },
+      {
+        "$oid": "6634436c30d53e94400d4139"
+      }
+    ],
+    "slug": "adfghsdf",
+    "destroy": true,
+    "showTimes": [
+      {
+        "$oid": "6633c91b24e22decdcb7062a"
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-05-03T01:52:42.800Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-03T02:17:19.126Z"
+    },
+    "subtitleType": [
+      "Phụ đề"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6634599130d53e94400d632b"
+    },
+    "name": "Mai",
+    "image": "https://res.cloudinary.com/dbu06uco1/image/upload/v1714706834/AVATAR/q33phsyomfjvpoqbwpua.png",
+    "duration": 120,
+    "country": "Vietnam",
+    "age_limit": 12,
+    "fromDate": {
+      "$date": "2024-05-04T05:00:00.000Z"
+    },
+    "toDate": {
+      "$date": "2024-05-07T05:00:00.000Z"
+    },
+    "author": "Trấn Thanh",
+    "language": "Vietnam",
+    "actor": "Phương Anh Đào",
+    "trailer": "https://www.youtube.com/embed/EX6clvId19s?si=R5bTsJI4cQYFj6rT",
+    "categoryId": [
+      {
+        "$oid": "65cb1184f4f5baef91e3bc93"
+      },
+      {
+        "$oid": "65cc4fdde2111969d6e218e2"
+      }
+    ],
+    "desc": "qưertyui",
+    "status": "IS_SHOWING",
+    "rate": 5,
+    "prices": [
+      {
+        "$oid": "6634599230d53e94400d6332"
+      },
+      {
+        "$oid": "6634599230d53e94400d6336"
+      }
+    ],
+    "slug": "mai",
+    "destroy": false,
+    "showTimes": [
+      {
+        "$oid": "6634441530d53e94400d416b"
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-05-03T03:27:13.878Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-03T03:32:54.575Z"
+    },
+    "subtitleType": [
+      "Phụ đề"
+    ],
+    "isFeatured": true
+  }
+]

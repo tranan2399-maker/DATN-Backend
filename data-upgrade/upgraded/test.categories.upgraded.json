@@ -1,0 +1,428 @@
+[
+  {
+    "_id": {
+      "$oid": "65cb1184f4f5baef91e3bc93"
+    },
+    "name": "Phiêu lưu",
+    "isDeleteable": true,
+    "products": [
+      {
+        "$oid": "65cb125cf4f5baef91e3bc95"
+      },
+      {
+        "$oid": "65cc7334e2111969d6e2195b"
+      },
+      {
+        "$oid": "65cc7b6ef0372ae3b888cd17"
+      },
+      {
+        "$oid": "65e03f5388f37263bb869de6"
+      },
+      {
+        "$oid": "65cc6fa5e2111969d6e21917"
+      },
+      {
+        "$oid": "65cc718be2111969d6e21931"
+      },
+      {
+        "$oid": "6613d31e39d4e932b1f968ae"
+      },
+      {
+        "$oid": "66191fe1c858d4cd5318e080"
+      },
+      {
+        "$oid": "6631200f8634005080685560"
+      },
+      {
+        "$oid": "66324ed0ddfd51c646ac9310"
+      },
+      {
+        "$oid": "663263fb1c2c58f173dbeb4d"
+      },
+      {
+        "$oid": "663270fc320f086e351ca2e6"
+      },
+      {
+        "$oid": "6634436a30d53e94400d412e"
+      },
+      {
+        "$oid": "6634599130d53e94400d632b"
+      }
+    ],
+    "slug": "adventure",
+    "createdAt": {
+      "$date": "2024-02-13T06:51:48.234Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-03T03:27:13.989Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65cc4fdde2111969d6e218e2"
+    },
+    "name": "Kinh dị",
+    "isDeleteable": true,
+    "products": [
+      {
+        "$oid": "65cc503be2111969d6e218e6"
+      },
+      {
+        "$oid": "65cc718be2111969d6e21931"
+      },
+      {
+        "$oid": "65cc7666e2111969d6e21984"
+      },
+      {
+        "$oid": "65e044e8bd8ca80e9d0f7947"
+      },
+      {
+        "$oid": "6613d31e39d4e932b1f968ae"
+      },
+      {
+        "$oid": "66191fe1c858d4cd5318e080"
+      },
+      {
+        "$oid": "661e51605e5f6586f23bc1bc"
+      },
+      {
+        "$oid": "662a63571acc93cd1891f045"
+      },
+      {
+        "$oid": "66324ed0ddfd51c646ac9310"
+      },
+      {
+        "$oid": "663270fc320f086e351ca2e6"
+      },
+      {
+        "$oid": "6634436a30d53e94400d412e"
+      },
+      {
+        "$oid": "6634599130d53e94400d632b"
+      }
+    ],
+    "slug": "horror",
+    "createdAt": {
+      "$date": "2024-02-14T05:30:05.973Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-03T03:27:14.028Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65cc6de2e2111969d6e2190f"
+    },
+    "name": "Hoạt hình",
+    "isDeleteable": true,
+    "products": [
+      {
+        "$oid": "65cc6fa5e2111969d6e21917"
+      },
+      {
+        "$oid": "65cc7b6ef0372ae3b888cd17"
+      },
+      {
+        "$oid": "65e03f5388f37263bb869de6"
+      },
+      {
+        "$oid": "6613d31e39d4e932b1f968ae"
+      },
+      {
+        "$oid": "66191fe1c858d4cd5318e080"
+      },
+      {
+        "$oid": "661e51605e5f6586f23bc1bc"
+      },
+      {
+        "$oid": "663270fc320f086e351ca2e6"
+      }
+    ],
+    "slug": "animation",
+    "createdAt": {
+      "$date": "2024-02-14T07:38:10.545Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-03T03:27:57.286Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e03e9b88f37263bb869de4"
+    },
+    "name": "Hài kịch",
+    "isDeleteable": true,
+    "products": [
+      {
+        "$oid": "65e03f5388f37263bb869de6"
+      },
+      {
+        "$oid": "6613d31e39d4e932b1f968ae"
+      },
+      {
+        "$oid": "661e51605e5f6586f23bc1bc"
+      },
+      {
+        "$oid": "6631200f8634005080685560"
+      },
+      {
+        "$oid": "663263fb1c2c58f173dbeb4d"
+      },
+      {
+        "$oid": "6634436a30d53e94400d412e"
+      }
+    ],
+    "slug": "comedy",
+    "createdAt": {
+      "$date": "2024-02-29T08:21:47.673Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-03T01:53:24.662Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e0419288f37263bb869dff"
+    },
+    "name": "Kịch tính",
+    "isDeleteable": true,
+    "products": [
+      {
+        "$oid": "65e041a788f37263bb869e01"
+      },
+      {
+        "$oid": "65e0437cbd8ca80e9d0f7937"
+      }
+    ],
+    "slug": "thriller",
+    "createdAt": {
+      "$date": "2024-02-29T08:34:26.091Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-02T11:59:36.972Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65efdc79d6f5663af881ec23"
+    },
+    "name": "Khoa học viễn tưởng",
+    "isDeleteable": true,
+    "products": [
+      {
+        "$oid": "65e04609bd8ca80e9d0f7956"
+      },
+      {
+        "$oid": "6631200f8634005080685560"
+      },
+      {
+        "$oid": "663263fb1c2c58f173dbeb4d"
+      }
+    ],
+    "slug": "science-fiction",
+    "createdAt": {
+      "$date": "2024-03-12T04:39:21.783Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-02T11:59:37.006Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65efdc83d6f5663af881ec25"
+    },
+    "name": "Hành động",
+    "isDeleteable": true,
+    "products": [
+      {
+        "$oid": "65cc7334e2111969d6e2195b"
+      },
+      {
+        "$oid": "65e041a788f37263bb869e01"
+      },
+      {
+        "$oid": "65f9247de8e4d87f6ee5a12d"
+      },
+      {
+        "$oid": "65e04609bd8ca80e9d0f7956"
+      },
+      {
+        "$oid": "6618ee7b40f740da60f60912"
+      },
+      {
+        "$oid": "66193847b6b882863d977ce1"
+      },
+      {
+        "$oid": "6620b72e63d00aa80d8faeac"
+      }
+    ],
+    "slug": "action",
+    "createdAt": {
+      "$date": "2024-03-12T04:39:31.461Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-02T11:59:37.036Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65efdc93d6f5663af881ec27"
+    },
+    "name": "Giả tưởng",
+    "isDeleteable": true,
+    "products": [
+      {
+        "$oid": "65cc7334e2111969d6e2195b"
+      },
+      {
+        "$oid": "65e04609bd8ca80e9d0f7956"
+      },
+      {
+        "$oid": "66193847b6b882863d977ce1"
+      }
+    ],
+    "slug": "fantasy",
+    "createdAt": {
+      "$date": "2024-03-12T04:39:47.066Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T11:32:51.765Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65efdd76d6f5663af881ec5c"
+    },
+    "name": "Tiểu sử",
+    "isDeleteable": true,
+    "products": [
+      {
+        "$oid": "65c8dc874a19975a1cc5fc7e"
+      },
+      {
+        "$oid": "65e041a788f37263bb869e01"
+      },
+      {
+        "$oid": "65f9247de8e4d87f6ee5a12d"
+      },
+      {
+        "$oid": "6618ee7b40f740da60f60912"
+      },
+      {
+        "$oid": "66193847b6b882863d977ce1"
+      }
+    ],
+    "slug": "biography",
+    "createdAt": {
+      "$date": "2024-03-12T04:43:34.147Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T11:32:51.765Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65efddb0d6f5663af881ec6a"
+    },
+    "name": "Chính kịch",
+    "isDeleteable": true,
+    "products": [
+      {
+        "$oid": "65c8dc874a19975a1cc5fc7e"
+      },
+      {
+        "$oid": "65cc503be2111969d6e218e6"
+      },
+      {
+        "$oid": "65cc6fa5e2111969d6e21917"
+      },
+      {
+        "$oid": "65cc718be2111969d6e21931"
+      },
+      {
+        "$oid": "65cc7666e2111969d6e21984"
+      },
+      {
+        "$oid": "6620b72e63d00aa80d8faeac"
+      },
+      {
+        "$oid": "662a63571acc93cd1891f045"
+      }
+    ],
+    "slug": "drama",
+    "createdAt": {
+      "$date": "2024-03-12T04:44:32.348Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-28T16:11:53.993Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65efddb7d6f5663af881ec6c"
+    },
+    "name": "Lịch sử",
+    "isDeleteable": true,
+    "products": [
+      {
+        "$oid": "65c8dc874a19975a1cc5fc7e"
+      },
+      {
+        "$oid": "65f9247de8e4d87f6ee5a12d"
+      },
+      {
+        "$oid": "6618ee7b40f740da60f60912"
+      },
+      {
+        "$oid": "6620b72e63d00aa80d8faeac"
+      },
+      {
+        "$oid": "662a63571acc93cd1891f045"
+      }
+    ],
+    "slug": "history",
+    "createdAt": {
+      "$date": "2024-03-12T04:44:39.610Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-28T16:19:15.412Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65efdefa9c56cd5ce4f428d8"
+    },
+    "name": "Bí ẩn",
+    "isDeleteable": true,
+    "products": [
+      {
+        "$oid": "65cc503be2111969d6e218e6"
+      },
+      {
+        "$oid": "65cc7666e2111969d6e21984"
+      }
+    ],
+    "slug": "mystery",
+    "createdAt": {
+      "$date": "2024-03-12T04:50:02.742Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-25T12:21:41.512Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6630e75a77973bfa241393cb"
+    },
+    "name": "Huyền huyễn",
+    "isDeleteable": true,
+    "products": [],
+    "slug": "huyen-huyen",
+    "createdAt": {
+      "$date": "2024-04-30T12:43:06.567Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-30T12:43:22.183Z"
+    }
+  }
+]

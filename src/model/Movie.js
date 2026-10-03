@@ -14,6 +14,19 @@ const productSchema = mongoose.Schema(
       unique: true,
       required: true
     },
+    
+    backdrop: {
+      type: String,
+      default: ''
+    },
+    subtitleType: {
+      type: [String],
+      default: ['Phụ đề']
+    },
+    isFeatured: {
+      type: Boolean,
+      default: false
+    },
     image: {
       type: String,
       required: false

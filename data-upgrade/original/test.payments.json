@@ -1,0 +1,4607 @@
+[{
+  "_id": {
+    "$oid": "65f5b7d62013b001c44c30c0"
+  },
+  "amount": 200490,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "65f5b78d2013b001c44c30ab"
+  },
+  "createdAt": {
+    "$date": "2024-03-16T15:16:38.968Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-16T15:16:38.968Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f5b7d72013b001c44c30c2"
+  },
+  "amount": 200490,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "65f5b78d2013b001c44c30ab"
+  },
+  "createdAt": {
+    "$date": "2024-03-16T15:16:39.037Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-16T15:16:39.037Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f679e60b8b4506c2f1df4f"
+  },
+  "amount": 200490,
+  "typeBank": "MOMO",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "65f679ac0b8b4506c2f1df3a"
+  },
+  "createdAt": {
+    "$date": "2024-03-17T05:04:38.545Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-17T05:04:38.545Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f679e60b8b4506c2f1df51"
+  },
+  "amount": 200490,
+  "typeBank": "MOMO",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "65f679ac0b8b4506c2f1df3a"
+  },
+  "createdAt": {
+    "$date": "2024-03-17T05:04:38.548Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-17T05:04:38.548Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f68ee1e39de8e43acef139"
+  },
+  "amount": 200640,
+  "typeBank": "MOMO",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "65f68e6be39de8e43acef11f"
+  },
+  "createdAt": {
+    "$date": "2024-03-17T06:34:09.543Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-17T06:34:09.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f68ee1e39de8e43acef13b"
+  },
+  "amount": 200640,
+  "typeBank": "MOMO",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "65f68e6be39de8e43acef11f"
+  },
+  "createdAt": {
+    "$date": "2024-03-17T06:34:09.556Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-17T06:34:09.556Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f7ee10c002eb6363a0652e"
+  },
+  "amount": 100490,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "65f7edbdc002eb6363a06519"
+  },
+  "createdAt": {
+    "$date": "2024-03-18T07:32:32.864Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T07:32:32.864Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f7ee10c002eb6363a06530"
+  },
+  "amount": 100490,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "65f7edbdc002eb6363a06519"
+  },
+  "createdAt": {
+    "$date": "2024-03-18T07:32:32.869Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T07:32:32.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f812e3ee8399d3add2de20"
+  },
+  "amount": 100490,
+  "typeBank": "MOMO",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "65f811b1ee8399d3add2de01"
+  },
+  "createdAt": {
+    "$date": "2024-03-18T10:09:39.335Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T10:09:39.335Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f812e3ee8399d3add2de22"
+  },
+  "amount": 100490,
+  "typeBank": "MOMO",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "65f811b1ee8399d3add2de01"
+  },
+  "createdAt": {
+    "$date": "2024-03-18T10:09:39.352Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T10:09:39.352Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65fc5cf04d1aa7e7700b1995"
+  },
+  "amount": 100490,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "65fc5c984d1aa7e7700b1958"
+  },
+  "createdAt": {
+    "$date": "2024-03-21T16:14:40.048Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-21T16:14:40.048Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65fc5cf04d1aa7e7700b1997"
+  },
+  "amount": 100490,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "65fc5c984d1aa7e7700b1958"
+  },
+  "createdAt": {
+    "$date": "2024-03-21T16:14:40.051Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-21T16:14:40.051Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65fd9a78c7d5d71bb3b2ae3b"
+  },
+  "amount": 100490,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "65fd9a44c7d5d71bb3b2ae26"
+  },
+  "createdAt": {
+    "$date": "2024-03-22T14:49:28.965Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-22T14:49:28.965Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65fd9a78c7d5d71bb3b2ae3d"
+  },
+  "amount": 100490,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "65fd9a44c7d5d71bb3b2ae26"
+  },
+  "createdAt": {
+    "$date": "2024-03-22T14:49:28.982Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-22T14:49:28.982Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65fdaa75c7d5d71bb3b2b3a4"
+  },
+  "amount": 100350,
+  "typeBank": "MBBank",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "65fdaa42c7d5d71bb3b2b391"
+  },
+  "createdAt": {
+    "$date": "2024-03-22T15:57:41.772Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-22T15:57:41.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65fdaa75c7d5d71bb3b2b3a2"
+  },
+  "amount": 100350,
+  "typeBank": "MBBank",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "65fdaa42c7d5d71bb3b2b391"
+  },
+  "createdAt": {
+    "$date": "2024-03-22T15:57:41.767Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-22T15:57:41.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65fe4761fcbc931852220072"
+  },
+  "amount": 150350,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "65fe470dfcbc931852220051"
+  },
+  "createdAt": {
+    "$date": "2024-03-23T03:07:13.660Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-23T03:07:13.660Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65fe4761fcbc931852220074"
+  },
+  "amount": 150350,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "65fe470dfcbc931852220051"
+  },
+  "createdAt": {
+    "$date": "2024-03-23T03:07:13.688Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-23T03:07:13.688Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6603a1f644bfbe5b82d6b4d6"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6603a1c444bfbe5b82d6b4c1"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T04:35:02.820Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-27T04:35:02.820Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6603a1f644bfbe5b82d6b4d8"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6603a1c444bfbe5b82d6b4c1"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T04:35:02.827Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-27T04:35:02.827Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66040c08890743548a933397"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66040b91890743548a93337d"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T12:07:36.751Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-27T12:07:36.751Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66040c08890743548a933399"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66040b91890743548a93337d"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T12:07:36.755Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-27T12:07:36.755Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66041a9a824c6bf2ed51b217"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66041a6b824c6bf2ed51b202"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T13:09:46.387Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-27T13:09:46.387Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66041a9a824c6bf2ed51b219"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66041a6b824c6bf2ed51b202"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T13:09:46.400Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-27T13:09:46.400Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66050141a80ae118dccb6085"
+  },
+  "amount": 110650,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66050105a80ae118dccb6070"
+  },
+  "createdAt": {
+    "$date": "2024-03-28T05:33:53.015Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-28T05:33:53.015Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66050141a80ae118dccb6087"
+  },
+  "amount": 110650,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66050105a80ae118dccb6070"
+  },
+  "createdAt": {
+    "$date": "2024-03-28T05:33:53.083Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-28T05:33:53.083Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660596ae6c6839aeb8126aa3"
+  },
+  "amount": 110350,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660596796c6839aeb8126a8e"
+  },
+  "createdAt": {
+    "$date": "2024-03-28T16:11:26.873Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-28T16:11:26.873Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660596ae6c6839aeb8126aa5"
+  },
+  "amount": 110350,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660596796c6839aeb8126a8e"
+  },
+  "createdAt": {
+    "$date": "2024-03-28T16:11:26.879Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-28T16:11:26.879Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66059a5ebc3d9ca9689cc51b"
+  },
+  "amount": 110350,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66059a28bc3d9ca9689cc506"
+  },
+  "createdAt": {
+    "$date": "2024-03-28T16:27:10.271Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-28T16:27:10.271Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66059a5ebc3d9ca9689cc51d"
+  },
+  "amount": 110350,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66059a28bc3d9ca9689cc506"
+  },
+  "createdAt": {
+    "$date": "2024-03-28T16:27:10.280Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-28T16:27:10.280Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66059d34bc3d9ca9689cc5d6"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66059d02bc3d9ca9689cc5c1"
+  },
+  "createdAt": {
+    "$date": "2024-03-28T16:39:16.574Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-28T16:39:16.574Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66059d34bc3d9ca9689cc5d8"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66059d02bc3d9ca9689cc5c1"
+  },
+  "createdAt": {
+    "$date": "2024-03-28T16:39:16.576Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-28T16:39:16.576Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66059dacbc3d9ca9689cc624"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66059d8abc3d9ca9689cc60f"
+  },
+  "createdAt": {
+    "$date": "2024-03-28T16:41:16.110Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-28T16:41:16.110Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66059dacbc3d9ca9689cc626"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66059d8abc3d9ca9689cc60f"
+  },
+  "createdAt": {
+    "$date": "2024-03-28T16:41:16.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-28T16:41:16.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66059e48bc3d9ca9689cc674"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66059e1abc3d9ca9689cc65f"
+  },
+  "createdAt": {
+    "$date": "2024-03-28T16:43:52.487Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-28T16:43:52.487Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66059e48bc3d9ca9689cc676"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66059e1abc3d9ca9689cc65f"
+  },
+  "createdAt": {
+    "$date": "2024-03-28T16:43:52.490Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-28T16:43:52.490Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66063fc153ebbb7d1e2045af"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66063f8c53ebbb7d1e204593"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T04:12:49.847Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T04:12:49.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66063fc153ebbb7d1e2045b1"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66063f8c53ebbb7d1e204593"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T04:12:49.933Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T04:12:49.933Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6606414853ebbb7d1e204600"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6606411253ebbb7d1e2045eb"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T04:19:20.837Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T04:19:20.837Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6606414853ebbb7d1e204602"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6606411253ebbb7d1e2045eb"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T04:19:20.997Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T04:19:20.997Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6606498b53ebbb7d1e2046e7"
+  },
+  "amount": 110400,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6606495053ebbb7d1e2046d2"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T04:54:35.711Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T04:54:35.711Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6606498b53ebbb7d1e2046e9"
+  },
+  "amount": 110400,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6606495053ebbb7d1e2046d2"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T04:54:35.713Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T04:54:35.713Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66064c8053ebbb7d1e20473c"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66064c3b53ebbb7d1e204727"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T05:07:12.427Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T05:07:12.427Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66064c8053ebbb7d1e20473e"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66064c3b53ebbb7d1e204727"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T05:07:12.449Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T05:07:12.449Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66064d0553ebbb7d1e204785"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66064ccc53ebbb7d1e204770"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T05:09:25.824Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T05:09:25.824Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66064d0553ebbb7d1e204787"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66064ccc53ebbb7d1e204770"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T05:09:25.830Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T05:09:25.830Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660659250d54a93e93ac59ff"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660658f30d54a93e93ac59ea"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T06:01:09.802Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T06:01:09.802Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660659250d54a93e93ac5a01"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660658f30d54a93e93ac59ea"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T06:01:09.811Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T06:01:09.811Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66065e620d54a93e93ac5ac9"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66065e390d54a93e93ac5ab4"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T06:23:30.461Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T06:23:30.461Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66065e620d54a93e93ac5acb"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66065e390d54a93e93ac5ab4"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T06:23:30.476Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T06:23:30.476Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6606649f8108e9a9ca39ef1d"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660664618108e9a9ca39ef08"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T06:50:07.052Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T06:50:07.052Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6606649f8108e9a9ca39ef1f"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660664618108e9a9ca39ef08"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T06:50:07.058Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T06:50:07.058Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660664fd8108e9a9ca39ef6e"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660664cf8108e9a9ca39ef5a"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T06:51:41.495Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T06:51:41.495Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660664fd8108e9a9ca39ef73"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660664cf8108e9a9ca39ef5a"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T06:51:41.535Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T06:51:41.535Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660665948108e9a9ca39efc8"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660665628108e9a9ca39efb3"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T06:54:12.548Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T06:54:12.548Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660665948108e9a9ca39efca"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660665628108e9a9ca39efb3"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T06:54:12.552Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T06:54:12.552Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6606662b805f74ec529cae9f"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660665ef805f74ec529cae8a"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T06:56:43.335Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T06:56:43.335Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6606662b805f74ec529caea1"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660665ef805f74ec529cae8a"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T06:56:43.339Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T06:56:43.339Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660666c4805f74ec529caefd"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66066693805f74ec529caee8"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T06:59:16.021Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T06:59:16.021Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660666c4805f74ec529caeff"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66066693805f74ec529caee8"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T06:59:16.024Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T06:59:16.024Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6606674edeab7425dd6c3337"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66066719deab7425dd6c3322"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T07:01:34.942Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T07:01:34.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6606674edeab7425dd6c3339"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66066719deab7425dd6c3322"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T07:01:34.966Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T07:01:34.966Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6606681bdeab7425dd6c339a"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660667eddeab7425dd6c3385"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T07:04:59.809Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T07:04:59.809Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6606681bdeab7425dd6c339c"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660667eddeab7425dd6c3385"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T07:04:59.833Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T07:04:59.833Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66066b86deab7425dd6c33fd"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66066b56deab7425dd6c33e8"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T07:19:34.325Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T07:19:34.325Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66066b86deab7425dd6c33ff"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66066b56deab7425dd6c33e8"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T07:19:34.328Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T07:19:34.328Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66066d5fdeab7425dd6c3452"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66066d38deab7425dd6c343d"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T07:27:27.303Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T07:27:27.303Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66066d5fdeab7425dd6c3454"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66066d38deab7425dd6c343d"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T07:27:27.306Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T07:27:27.306Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6606702bdeab7425dd6c34ab"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66067001deab7425dd6c3496"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T07:39:23.754Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T07:39:23.754Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6606702bdeab7425dd6c34ad"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66067001deab7425dd6c3496"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T07:39:23.767Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T07:39:23.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66067083deab7425dd6c34ec"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6606704fdeab7425dd6c34d7"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T07:40:51.949Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T07:40:51.949Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66067083deab7425dd6c34ee"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6606704fdeab7425dd6c34d7"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T07:40:51.956Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T07:40:51.956Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6606777fdeab7425dd6c3569"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6606774cdeab7425dd6c3554"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T08:10:39.555Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T08:10:39.555Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6606777fdeab7425dd6c356b"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6606774cdeab7425dd6c3554"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T08:10:39.559Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T08:10:39.559Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66067839deab7425dd6c35b6"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6606780cdeab7425dd6c35a1"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T08:13:45.522Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T08:13:45.522Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66067839deab7425dd6c35b8"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6606780cdeab7425dd6c35a1"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T08:13:45.524Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T08:13:45.524Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66067a22deab7425dd6c360b"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660679e6deab7425dd6c35f6"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T08:21:54.271Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T08:21:54.271Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66067a22deab7425dd6c360d"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660679e6deab7425dd6c35f6"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T08:21:54.275Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T08:21:54.275Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66067af5deab7425dd6c3654"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66067acbdeab7425dd6c363f"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T08:25:25.168Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T08:25:25.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66067af5deab7425dd6c3656"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66067acbdeab7425dd6c363f"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T08:25:25.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T08:25:25.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66067b63deab7425dd6c369e"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66067b32deab7425dd6c3689"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T08:27:15.234Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T08:27:15.234Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66067b63deab7425dd6c36a0"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66067b32deab7425dd6c3689"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T08:27:15.240Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T08:27:15.240Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66067ef6deab7425dd6c372f"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66067ecfdeab7425dd6c371a"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T08:42:30.254Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T08:42:30.254Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66067ef6deab7425dd6c3731"
+  },
+  "amount": 110250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66067ecfdeab7425dd6c371a"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T08:42:30.277Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T08:42:30.277Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6606d1c4f1de1343f27626d0"
+  },
+  "amount": 100250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6606d169f1de1343f27626bc"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T14:35:48.146Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T14:35:48.146Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6606d1c4f1de1343f27626d3"
+  },
+  "amount": 100250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6606d169f1de1343f27626bc"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T14:35:48.195Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T14:35:48.195Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6606ecc078f878dc0e26c66c"
+  },
+  "amount": 100250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6606ec9678f878dc0e26c657"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T16:30:56.511Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T16:30:56.511Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6606ecc078f878dc0e26c66e"
+  },
+  "amount": 100250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6606ec9678f878dc0e26c657"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T16:30:56.521Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T16:30:56.521Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6607780c2e1f2f73582ddfe8"
+  },
+  "amount": 150250,
+  "typeBank": "MOMO",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660777a12e1f2f73582ddfd3"
+  },
+  "createdAt": {
+    "$date": "2024-03-30T02:25:16.750Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-30T02:25:16.750Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6607780c2e1f2f73582ddfea"
+  },
+  "amount": 150250,
+  "typeBank": "MOMO",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660777a12e1f2f73582ddfd3"
+  },
+  "createdAt": {
+    "$date": "2024-03-30T02:25:16.757Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-30T02:25:16.757Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6607b97249999069faee732c"
+  },
+  "amount": 150250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6607b92a49999069faee7317"
+  },
+  "createdAt": {
+    "$date": "2024-03-30T07:04:18.594Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-30T07:04:18.594Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6607b97249999069faee732e"
+  },
+  "amount": 150250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6607b92a49999069faee7317"
+  },
+  "createdAt": {
+    "$date": "2024-03-30T07:04:18.599Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-30T07:04:18.599Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6607c3e2fa02f614101d93b9"
+  },
+  "amount": 160250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6607c378fa02f614101d93a4"
+  },
+  "createdAt": {
+    "$date": "2024-03-30T07:48:50.800Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-30T07:48:50.800Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6607c3e2fa02f614101d93bb"
+  },
+  "amount": 160250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6607c378fa02f614101d93a4"
+  },
+  "createdAt": {
+    "$date": "2024-03-30T07:48:50.804Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-30T07:48:50.804Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6607c473fa02f614101d9414"
+  },
+  "amount": 160250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6607c432fa02f614101d93ff"
+  },
+  "createdAt": {
+    "$date": "2024-03-30T07:51:15.691Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-30T07:51:15.691Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6607c473fa02f614101d9416"
+  },
+  "amount": 160250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6607c432fa02f614101d93ff"
+  },
+  "createdAt": {
+    "$date": "2024-03-30T07:51:15.693Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-30T07:51:15.693Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6607c8a2e46f30b3efc6aa35"
+  },
+  "amount": 160250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6607c86be46f30b3efc6aa20"
+  },
+  "createdAt": {
+    "$date": "2024-03-30T08:09:06.180Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-30T08:09:06.180Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6607c8a2e46f30b3efc6aa37"
+  },
+  "amount": 160250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6607c86be46f30b3efc6aa20"
+  },
+  "createdAt": {
+    "$date": "2024-03-30T08:09:06.185Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-30T08:09:06.185Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6607d08df1ae77a9d48a9379"
+  },
+  "amount": 160250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6607d065f1ae77a9d48a9364"
+  },
+  "createdAt": {
+    "$date": "2024-03-30T08:42:53.791Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-30T08:42:53.791Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6607d08df1ae77a9d48a937b"
+  },
+  "amount": 160250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6607d065f1ae77a9d48a9364"
+  },
+  "createdAt": {
+    "$date": "2024-03-30T08:42:53.797Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-30T08:42:53.797Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6607dd2195a5f1b6072692a1"
+  },
+  "amount": 150250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6607dcf395a5f1b60726928c"
+  },
+  "createdAt": {
+    "$date": "2024-03-30T09:36:33.990Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-30T09:36:33.990Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6607dd2295a5f1b6072692a3"
+  },
+  "amount": 150250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6607dcf395a5f1b60726928c"
+  },
+  "createdAt": {
+    "$date": "2024-03-30T09:36:34.019Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-30T09:36:34.019Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6607e165d9f25d375cf0aaad"
+  },
+  "amount": 150250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6607e141d9f25d375cf0aa96"
+  },
+  "createdAt": {
+    "$date": "2024-03-30T09:54:45.739Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-30T09:54:45.739Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6607e165d9f25d375cf0aaab"
+  },
+  "amount": 150250,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6607e141d9f25d375cf0aa96"
+  },
+  "createdAt": {
+    "$date": "2024-03-30T09:54:45.709Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-30T09:54:45.709Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660eb34a0d8dec990c8c7177"
+  },
+  "amount": 110500,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660eb12f0d8dec990c8c70ee"
+  },
+  "createdAt": {
+    "$date": "2024-04-04T14:03:54.229Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-04T14:03:54.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660eb34a0d8dec990c8c7179"
+  },
+  "amount": 110500,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660eb12f0d8dec990c8c70ee"
+  },
+  "createdAt": {
+    "$date": "2024-04-04T14:03:54.251Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-04T14:03:54.251Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660eb5be0d8dec990c8c7245"
+  },
+  "amount": 110490,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660eb4420d8dec990c8c7223"
+  },
+  "createdAt": {
+    "$date": "2024-04-04T14:14:22.632Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-04T14:14:22.632Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660eb5be0d8dec990c8c7247"
+  },
+  "amount": 110490,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660eb4420d8dec990c8c7223"
+  },
+  "createdAt": {
+    "$date": "2024-04-04T14:14:22.646Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-04T14:14:22.646Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660f7f6efda1883aba77548c"
+  },
+  "amount": 270000,
+  "typeBank": "MOMO",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660f7e4cfda1883aba775468"
+  },
+  "createdAt": {
+    "$date": "2024-04-05T04:34:54.818Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-05T04:34:54.818Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660f7f6efda1883aba77548e"
+  },
+  "amount": 270000,
+  "typeBank": "MOMO",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660f7e4cfda1883aba775468"
+  },
+  "createdAt": {
+    "$date": "2024-04-05T04:34:54.823Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-05T04:34:54.823Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660f87cb46c0c876bcfd97da"
+  },
+  "amount": 260000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660f879b46c0c876bcfd97c2"
+  },
+  "createdAt": {
+    "$date": "2024-04-05T05:10:35.829Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-05T05:10:35.829Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660f87cb46c0c876bcfd97dc"
+  },
+  "amount": 260000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660f879b46c0c876bcfd97c2"
+  },
+  "createdAt": {
+    "$date": "2024-04-05T05:10:35.832Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-05T05:10:35.832Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660f88e146c0c876bcfd997e"
+  },
+  "amount": 360000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660f886746c0c876bcfd994f"
+  },
+  "createdAt": {
+    "$date": "2024-04-05T05:15:13.520Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-05T05:15:13.520Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660f88e146c0c876bcfd9980"
+  },
+  "amount": 360000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660f886746c0c876bcfd994f"
+  },
+  "createdAt": {
+    "$date": "2024-04-05T05:15:13.594Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-05T05:15:13.594Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660fadcdf1e4fdef8061132c"
+  },
+  "amount": 210000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660fad9af1e4fdef80611314"
+  },
+  "createdAt": {
+    "$date": "2024-04-05T07:52:45.783Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-05T07:52:45.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660fadcdf1e4fdef8061132e"
+  },
+  "amount": 210000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660fad9af1e4fdef80611314"
+  },
+  "createdAt": {
+    "$date": "2024-04-05T07:52:45.788Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-05T07:52:45.788Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660fae32f1e4fdef8061139c"
+  },
+  "amount": 420000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660fae0bf1e4fdef80611384"
+  },
+  "createdAt": {
+    "$date": "2024-04-05T07:54:26.685Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-05T07:54:26.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660fae32f1e4fdef8061139e"
+  },
+  "amount": 420000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660fae0bf1e4fdef80611384"
+  },
+  "createdAt": {
+    "$date": "2024-04-05T07:54:26.688Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-05T07:54:26.688Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660fae89f1e4fdef806113ff"
+  },
+  "amount": 270000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660fae5cf1e4fdef806113e8"
+  },
+  "createdAt": {
+    "$date": "2024-04-05T07:55:53.459Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-05T07:55:53.459Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660fae89f1e4fdef80611402"
+  },
+  "amount": 270000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "660fae5cf1e4fdef806113e8"
+  },
+  "createdAt": {
+    "$date": "2024-04-05T07:55:53.492Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-05T07:55:53.492Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66114f8734b15b6d63e95309"
+  },
+  "amount": 310000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66114f5534b15b6d63e952f1"
+  },
+  "createdAt": {
+    "$date": "2024-04-06T13:35:03.693Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-06T13:35:03.693Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66114f8734b15b6d63e9530b"
+  },
+  "amount": 310000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66114f5534b15b6d63e952f1"
+  },
+  "createdAt": {
+    "$date": "2024-04-06T13:35:03.701Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-06T13:35:03.701Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66117977c13906dbe07bf3e7"
+  },
+  "amount": 360000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66117946c13906dbe07bf3cf"
+  },
+  "createdAt": {
+    "$date": "2024-04-06T16:33:59.660Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-06T16:33:59.660Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66117977c13906dbe07bf3e9"
+  },
+  "amount": 360000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66117946c13906dbe07bf3cf"
+  },
+  "createdAt": {
+    "$date": "2024-04-06T16:33:59.663Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-06T16:33:59.663Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661179acc13906dbe07bf449"
+  },
+  "amount": 350000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6611798ac13906dbe07bf431"
+  },
+  "createdAt": {
+    "$date": "2024-04-06T16:34:52.185Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-06T16:34:52.185Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661179acc13906dbe07bf44b"
+  },
+  "amount": 350000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6611798ac13906dbe07bf431"
+  },
+  "createdAt": {
+    "$date": "2024-04-06T16:34:52.189Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-06T16:34:52.189Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661179e9c13906dbe07bf4a8"
+  },
+  "amount": 400000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661179bec13906dbe07bf490"
+  },
+  "createdAt": {
+    "$date": "2024-04-06T16:35:53.071Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-06T16:35:53.071Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661179e9c13906dbe07bf4aa"
+  },
+  "amount": 400000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661179bec13906dbe07bf490"
+  },
+  "createdAt": {
+    "$date": "2024-04-06T16:35:53.074Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-06T16:35:53.074Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661207423fdfeb51957b2da2"
+  },
+  "amount": 650000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661207123fdfeb51957b2d8a"
+  },
+  "createdAt": {
+    "$date": "2024-04-07T02:38:58.290Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T02:38:58.290Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661207423fdfeb51957b2da4"
+  },
+  "amount": 650000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661207123fdfeb51957b2d8a"
+  },
+  "createdAt": {
+    "$date": "2024-04-07T02:38:58.300Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T02:38:58.300Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6612935000dc26c700293c46"
+  },
+  "amount": 260000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661292ed00dc26c700293c2f"
+  },
+  "createdAt": {
+    "$date": "2024-04-07T12:36:32.188Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T12:36:32.188Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6612935000dc26c700293c48"
+  },
+  "amount": 260000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661292ed00dc26c700293c2f"
+  },
+  "createdAt": {
+    "$date": "2024-04-07T12:36:32.193Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T12:36:32.193Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661498bf6dccb322147ff910"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661498726dccb322147ff8fa"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T01:24:15.603Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T01:24:15.603Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661498bf6dccb322147ff912"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661498726dccb322147ff8fa"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T01:24:15.607Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T01:24:15.607Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66149b8a6dccb322147ffa00"
+  },
+  "amount": 200000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66149b516dccb322147ff9ea"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T01:36:10.014Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T01:36:10.014Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66149b8a6dccb322147ffa02"
+  },
+  "amount": 200000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66149b516dccb322147ff9ea"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T01:36:10.016Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T01:36:10.016Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6617f4e47fada7413e045067"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6617f49e7fada7413e045004"
+  },
+  "createdAt": {
+    "$date": "2024-04-11T14:34:12.191Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-11T14:34:12.191Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6617f4e47fada7413e045069"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6617f49e7fada7413e045004"
+  },
+  "createdAt": {
+    "$date": "2024-04-11T14:34:12.198Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-11T14:34:12.198Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66195593d836bc89b664ae1f"
+  },
+  "amount": 400000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6619555fd836bc89b664ae09"
+  },
+  "createdAt": {
+    "$date": "2024-04-12T15:38:59.207Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-12T15:38:59.207Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66195593d836bc89b664ae21"
+  },
+  "amount": 400000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6619555fd836bc89b664ae09"
+  },
+  "createdAt": {
+    "$date": "2024-04-12T15:38:59.228Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-12T15:38:59.228Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6619dbc257bc3e01008d4206"
+  },
+  "amount": 400000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6619db9757bc3e01008d41f0"
+  },
+  "createdAt": {
+    "$date": "2024-04-13T01:11:30.774Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-13T01:11:30.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6619dbc257bc3e01008d4208"
+  },
+  "amount": 400000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6619db9757bc3e01008d41f0"
+  },
+  "createdAt": {
+    "$date": "2024-04-13T01:11:30.789Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-13T01:11:30.789Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6619f74b7ab553ab5e7f622c"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6619f5647ab553ab5e7f607e"
+  },
+  "createdAt": {
+    "$date": "2024-04-13T03:08:59.601Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-13T03:08:59.601Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6619f74b7ab553ab5e7f622e"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6619f5647ab553ab5e7f607e"
+  },
+  "createdAt": {
+    "$date": "2024-04-13T03:08:59.603Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-13T03:08:59.603Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661b2d7a887715db1335952c"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661b2d46887715db1335950c"
+  },
+  "createdAt": {
+    "$date": "2024-04-14T01:12:26.678Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-14T01:12:26.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661b2d7a887715db1335952e"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661b2d46887715db1335950c"
+  },
+  "createdAt": {
+    "$date": "2024-04-14T01:12:26.681Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-14T01:12:26.681Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661b316b6c82b09b694b89af"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661b31366c82b09b694b898f"
+  },
+  "createdAt": {
+    "$date": "2024-04-14T01:29:15.671Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-14T01:29:15.671Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661b316b6c82b09b694b89b1"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661b31366c82b09b694b898f"
+  },
+  "createdAt": {
+    "$date": "2024-04-14T01:29:15.675Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-14T01:29:15.675Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661b3303cdc9f7663b35af81"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661b32dacdc9f7663b35af61"
+  },
+  "createdAt": {
+    "$date": "2024-04-14T01:36:03.664Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-14T01:36:03.664Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661b3303cdc9f7663b35af83"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661b32dacdc9f7663b35af61"
+  },
+  "createdAt": {
+    "$date": "2024-04-14T01:36:03.679Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-14T01:36:03.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661b337294fc36ab21b23d1a"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661b334394fc36ab21b23ce5"
+  },
+  "createdAt": {
+    "$date": "2024-04-14T01:37:54.909Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-14T01:37:54.909Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661b337294fc36ab21b23d1c"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661b334394fc36ab21b23ce5"
+  },
+  "createdAt": {
+    "$date": "2024-04-14T01:37:54.919Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-14T01:37:54.919Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661b6cce05bec86379084373"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661b6c9d05bec86379084354"
+  },
+  "createdAt": {
+    "$date": "2024-04-14T05:42:38.323Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-14T05:42:38.323Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661b6cce05bec86379084376"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661b6c9d05bec86379084354"
+  },
+  "createdAt": {
+    "$date": "2024-04-14T05:42:38.351Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-14T05:42:38.351Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661b70ed566b3267fd4288f6"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661b70c3566b3267fd4288d6"
+  },
+  "createdAt": {
+    "$date": "2024-04-14T06:00:13.126Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-14T06:00:13.126Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661b70ed566b3267fd4288f8"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661b70c3566b3267fd4288d6"
+  },
+  "createdAt": {
+    "$date": "2024-04-14T06:00:13.130Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-14T06:00:13.130Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661b7d123d60b3f052567d47"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661b7cea3d60b3f052567d27"
+  },
+  "createdAt": {
+    "$date": "2024-04-14T06:52:02.766Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-14T06:52:02.766Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661b7d123d60b3f052567d49"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661b7cea3d60b3f052567d27"
+  },
+  "createdAt": {
+    "$date": "2024-04-14T06:52:02.770Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-14T06:52:02.770Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661ba896b549728e778b63c5"
+  },
+  "amount": 350000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661ba85eb549728e778b63a7"
+  },
+  "createdAt": {
+    "$date": "2024-04-14T09:57:42.717Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-14T09:57:42.717Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661ba896b549728e778b63c7"
+  },
+  "amount": 350000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661ba85eb549728e778b63a7"
+  },
+  "createdAt": {
+    "$date": "2024-04-14T09:57:42.723Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-14T09:57:42.723Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661bc0aa523d784ed0e3c1cb"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661bc07b523d784ed0e3c1ad"
+  },
+  "createdAt": {
+    "$date": "2024-04-14T11:40:26.345Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-14T11:40:26.345Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661bc0aa523d784ed0e3c1cd"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661bc07b523d784ed0e3c1ad"
+  },
+  "createdAt": {
+    "$date": "2024-04-14T11:40:26.358Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-14T11:40:26.358Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661bc1ea70c267e47bbae063"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661bc1af70c267e47bbae045"
+  },
+  "createdAt": {
+    "$date": "2024-04-14T11:45:46.137Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-14T11:45:46.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661bc1ea70c267e47bbae065"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661bc1af70c267e47bbae045"
+  },
+  "createdAt": {
+    "$date": "2024-04-14T11:45:46.150Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-14T11:45:46.150Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661bc32670c267e47bbae16b"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661bc2ee70c267e47bbae0df"
+  },
+  "createdAt": {
+    "$date": "2024-04-14T11:51:02.228Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-14T11:51:02.228Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661bc32670c267e47bbae16d"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661bc2ee70c267e47bbae0df"
+  },
+  "createdAt": {
+    "$date": "2024-04-14T11:51:02.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-14T11:51:02.235Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661bc39870c267e47bbae2ba"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661bc37170c267e47bbae281"
+  },
+  "createdAt": {
+    "$date": "2024-04-14T11:52:56.023Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-14T11:52:56.023Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661bc39870c267e47bbae2bc"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661bc37170c267e47bbae281"
+  },
+  "createdAt": {
+    "$date": "2024-04-14T11:52:56.047Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-14T11:52:56.047Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661bc50b70c267e47bbae4e9"
+  },
+  "amount": 310000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661bc4de70c267e47bbae4bd"
+  },
+  "createdAt": {
+    "$date": "2024-04-14T11:59:07.427Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-14T11:59:07.427Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661bc50b70c267e47bbae4eb"
+  },
+  "amount": 310000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661bc4de70c267e47bbae4bd"
+  },
+  "createdAt": {
+    "$date": "2024-04-14T11:59:07.431Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-14T11:59:07.431Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661bf946277d1587e12b77b9"
+  },
+  "amount": 350000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661bf91e277d1587e12b779b"
+  },
+  "createdAt": {
+    "$date": "2024-04-14T15:41:58.562Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-14T15:41:58.562Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661bf946277d1587e12b77bb"
+  },
+  "amount": 350000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661bf91e277d1587e12b779b"
+  },
+  "createdAt": {
+    "$date": "2024-04-14T15:41:58.565Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-14T15:41:58.565Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661bfd2d1dbc39164fa01031"
+  },
+  "amount": 400000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661bfd081dbc39164fa01013"
+  },
+  "createdAt": {
+    "$date": "2024-04-14T15:58:37.730Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-14T15:58:37.730Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661bfd2d1dbc39164fa01033"
+  },
+  "amount": 400000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661bfd081dbc39164fa01013"
+  },
+  "createdAt": {
+    "$date": "2024-04-14T15:58:37.734Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-14T15:58:37.734Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661c8c20c06c406508456e08"
+  },
+  "amount": 350000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661c8beec06c406508456de8"
+  },
+  "createdAt": {
+    "$date": "2024-04-15T02:08:32.856Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-15T02:08:32.856Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661c8c20c06c406508456e0a"
+  },
+  "amount": 350000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661c8beec06c406508456de8"
+  },
+  "createdAt": {
+    "$date": "2024-04-15T02:08:32.860Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-15T02:08:32.860Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661c8cd8c06c406508456eb8"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661c8cb3c06c406508456e9a"
+  },
+  "createdAt": {
+    "$date": "2024-04-15T02:11:36.775Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-15T02:11:36.775Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661c8cd8c06c406508456eba"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661c8cb3c06c406508456e9a"
+  },
+  "createdAt": {
+    "$date": "2024-04-15T02:11:36.778Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-15T02:11:36.778Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661dfae20a25c0704c2be44b"
+  },
+  "amount": 200000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661dfab00a25c0704c2be425"
+  },
+  "createdAt": {
+    "$date": "2024-04-16T04:13:22.806Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-16T04:13:22.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661dfae20a25c0704c2be44d"
+  },
+  "amount": 200000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661dfab00a25c0704c2be425"
+  },
+  "createdAt": {
+    "$date": "2024-04-16T04:13:22.810Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-16T04:13:22.810Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661dfc84c86d6e50d2656263"
+  },
+  "amount": 200000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661dfc1dc86d6e50d265623f"
+  },
+  "createdAt": {
+    "$date": "2024-04-16T04:20:20.192Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-16T04:20:20.192Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661dfc84c86d6e50d2656265"
+  },
+  "amount": 200000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "661dfc1dc86d6e50d265623f"
+  },
+  "createdAt": {
+    "$date": "2024-04-16T04:20:20.197Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-16T04:20:20.197Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "662328948e1194a7d06ea5e8"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6623286b8e1194a7d06ea5c6"
+  },
+  "createdAt": {
+    "$date": "2024-04-20T02:29:40.511Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T02:29:40.511Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "662328948e1194a7d06ea5ea"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6623286b8e1194a7d06ea5c6"
+  },
+  "createdAt": {
+    "$date": "2024-04-20T02:29:40.517Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T02:29:40.517Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6629c2f3c633c0a521158b44"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6629c2bbc633c0a521158b1c"
+  },
+  "createdAt": {
+    "$date": "2024-04-25T02:41:55.975Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-25T02:41:55.975Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6629c803c633c0a521158c7c"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6629c7c8c633c0a521158c57"
+  },
+  "createdAt": {
+    "$date": "2024-04-25T03:03:31.633Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-25T03:03:31.633Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6629c8c226b5960617db113c"
+  },
+  "amount": 200000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6629c89626b5960617db1114"
+  },
+  "createdAt": {
+    "$date": "2024-04-25T03:06:42.352Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-25T03:06:42.352Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6629c8c226b5960617db1141"
+  },
+  "amount": 200000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6629c89626b5960617db1114"
+  },
+  "createdAt": {
+    "$date": "2024-04-25T03:06:42.652Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-25T03:06:42.652Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6629d2dc26b5960617db143f"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6629d2b326b5960617db1416"
+  },
+  "createdAt": {
+    "$date": "2024-04-25T03:49:48.729Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-25T03:49:48.729Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6629d2dc26b5960617db1441"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6629d2b326b5960617db1416"
+  },
+  "createdAt": {
+    "$date": "2024-04-25T03:49:48.758Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-25T03:49:48.758Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "662bbdceee998ee9bf3aec49"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "662bbd8eee998ee9bf3aebf4"
+  },
+  "createdAt": {
+    "$date": "2024-04-26T14:44:30.618Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-26T14:44:30.618Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "662bbdceee998ee9bf3aec4e"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "662bbd8eee998ee9bf3aebf4"
+  },
+  "createdAt": {
+    "$date": "2024-04-26T14:44:30.665Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-26T14:44:30.665Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "662bbedfee998ee9bf3aee9e"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "662bbebdee998ee9bf3aee48"
+  },
+  "createdAt": {
+    "$date": "2024-04-26T14:49:03.315Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-26T14:49:03.315Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "662bbedfee998ee9bf3aeea0"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "662bbebdee998ee9bf3aee48"
+  },
+  "createdAt": {
+    "$date": "2024-04-26T14:49:03.321Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-26T14:49:03.321Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "662bbf10ee998ee9bf3aef0d"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "662bbef5ee998ee9bf3aeedd"
+  },
+  "createdAt": {
+    "$date": "2024-04-26T14:49:52.436Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-26T14:49:52.436Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "662bbf10ee998ee9bf3aef0f"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "662bbef5ee998ee9bf3aeedd"
+  },
+  "createdAt": {
+    "$date": "2024-04-26T14:49:52.441Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-26T14:49:52.441Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "662bbf70ee998ee9bf3af05c"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "662bbf3bee998ee9bf3af007"
+  },
+  "createdAt": {
+    "$date": "2024-04-26T14:51:28.719Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-26T14:51:28.719Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "662bbf70ee998ee9bf3af061"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "662bbf3bee998ee9bf3af007"
+  },
+  "createdAt": {
+    "$date": "2024-04-26T14:51:28.763Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-26T14:51:28.763Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "662bbff0ee998ee9bf3af1b5"
+  },
+  "amount": 200000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "662bbfcfee998ee9bf3af160"
+  },
+  "createdAt": {
+    "$date": "2024-04-26T14:53:36.001Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-26T14:53:36.001Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "662bbff0ee998ee9bf3af1ba"
+  },
+  "amount": 200000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "662bbfcfee998ee9bf3af160"
+  },
+  "createdAt": {
+    "$date": "2024-04-26T14:53:36.036Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-26T14:53:36.036Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "662c67afc5755875ec3055cd"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "662c6775c5755875ec30559d"
+  },
+  "createdAt": {
+    "$date": "2024-04-27T02:49:19.207Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-27T02:49:19.207Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "662c67afc5755875ec3055cf"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "662c6775c5755875ec30559d"
+  },
+  "createdAt": {
+    "$date": "2024-04-27T02:49:19.220Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-27T02:49:19.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "662e64f3748bce7832a467ac"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "662e64c6748bce7832a4677c"
+  },
+  "createdAt": {
+    "$date": "2024-04-28T15:02:11.291Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-28T15:02:11.291Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "662e64f3748bce7832a467ae"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "662e64c6748bce7832a4677c"
+  },
+  "createdAt": {
+    "$date": "2024-04-28T15:02:11.335Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-28T15:02:11.335Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "662faaec72cc4e3411d8633b"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "662faa8972cc4e3411d8630d"
+  },
+  "createdAt": {
+    "$date": "2024-04-29T14:13:00.743Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-29T14:13:00.743Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "662faaec72cc4e3411d86341"
+  },
+  "amount": 250000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "662faa8972cc4e3411d8630d"
+  },
+  "createdAt": {
+    "$date": "2024-04-29T14:13:00.805Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-29T14:13:00.805Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "662fab2c72cc4e3411d863bf"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "662fab1472cc4e3411d86390"
+  },
+  "createdAt": {
+    "$date": "2024-04-29T14:14:04.739Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-29T14:14:04.739Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "662fab2c72cc4e3411d863c1"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "662fab1472cc4e3411d86390"
+  },
+  "createdAt": {
+    "$date": "2024-04-29T14:14:04.741Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-29T14:14:04.741Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6630f888af21a7792fe0f7da"
+  },
+  "amount": 650000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6630f825af21a7792fe0f7b0"
+  },
+  "createdAt": {
+    "$date": "2024-04-30T13:56:24.015Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-30T13:56:24.015Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6630f888af21a7792fe0f7dc"
+  },
+  "amount": 650000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6630f825af21a7792fe0f7b0"
+  },
+  "createdAt": {
+    "$date": "2024-04-30T13:56:24.021Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-30T13:56:24.021Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "663222052c79c1e98bddc31a"
+  },
+  "amount": 450000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6632219e2c79c1e98bddc2f4"
+  },
+  "createdAt": {
+    "$date": "2024-05-01T11:05:41.558Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T11:05:41.558Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "663222052c79c1e98bddc320"
+  },
+  "amount": 450000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6632219e2c79c1e98bddc2f4"
+  },
+  "createdAt": {
+    "$date": "2024-05-01T11:05:41.617Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T11:05:41.617Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "663222942c79c1e98bddc3d0"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "663222712c79c1e98bddc3aa"
+  },
+  "createdAt": {
+    "$date": "2024-05-01T11:08:04.707Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T11:08:04.707Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "663222942c79c1e98bddc3d9"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "663222712c79c1e98bddc3aa"
+  },
+  "createdAt": {
+    "$date": "2024-05-01T11:08:04.807Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T11:08:04.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632232d2c79c1e98bddc496"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "663222d32c79c1e98bddc435"
+  },
+  "createdAt": {
+    "$date": "2024-05-01T11:10:37.312Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T11:10:37.312Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632232d2c79c1e98bddc49b"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "663222d32c79c1e98bddc435"
+  },
+  "createdAt": {
+    "$date": "2024-05-01T11:10:37.349Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T11:10:37.349Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "663223ad2c79c1e98bddc529"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "663223752c79c1e98bddc501"
+  },
+  "createdAt": {
+    "$date": "2024-05-01T11:12:45.587Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T11:12:45.587Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "663223ad2c79c1e98bddc535"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "663223752c79c1e98bddc501"
+  },
+  "createdAt": {
+    "$date": "2024-05-01T11:12:45.681Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T11:12:45.681Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632247b855eebd818afbdcb"
+  },
+  "amount": 500000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66322442855eebd818afbd9e"
+  },
+  "createdAt": {
+    "$date": "2024-05-01T11:16:11.762Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T11:16:11.762Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632247b855eebd818afbdd0"
+  },
+  "amount": 500000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66322442855eebd818afbd9e"
+  },
+  "createdAt": {
+    "$date": "2024-05-01T11:16:11.776Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T11:16:11.776Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "663225132882d13cec39e330"
+  },
+  "amount": 200000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "663224f42882d13cec39e30b"
+  },
+  "createdAt": {
+    "$date": "2024-05-01T11:18:43.144Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T11:18:43.144Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "663225229e3047c0aa791415"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "663224fe9e3047c0aa7913ee"
+  },
+  "createdAt": {
+    "$date": "2024-05-01T11:18:58.543Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T11:18:58.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "663225888a0573d85790b2c1"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "663225648a0573d85790b29a"
+  },
+  "createdAt": {
+    "$date": "2024-05-01T11:20:40.545Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T11:20:40.545Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632259303359c9251ada55f"
+  },
+  "amount": 200000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6632257803359c9251ada543"
+  },
+  "createdAt": {
+    "$date": "2024-05-01T11:20:51.893Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T11:20:51.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632259403359c9251ada567"
+  },
+  "amount": 200000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6632257803359c9251ada543"
+  },
+  "createdAt": {
+    "$date": "2024-05-01T11:20:52.108Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T11:20:52.108Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632261c8a0573d85790b3ed"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "663225f98a0573d85790b3ca"
+  },
+  "createdAt": {
+    "$date": "2024-05-01T11:23:08.466Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T11:23:08.466Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632261c8a0573d85790b3f9"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "663225f98a0573d85790b3ca"
+  },
+  "createdAt": {
+    "$date": "2024-05-01T11:23:08.567Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T11:23:08.567Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "663226adb1e2e6133798fee8"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66322684b1e2e6133798fec4"
+  },
+  "createdAt": {
+    "$date": "2024-05-01T11:25:33.249Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T11:25:33.249Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "663226adb1e2e6133798fef9"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66322684b1e2e6133798fec4"
+  },
+  "createdAt": {
+    "$date": "2024-05-01T11:25:33.394Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T11:25:33.394Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66323f55b1e2e6133799121d"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66323f26b1e2e613379911f7"
+  },
+  "createdAt": {
+    "$date": "2024-05-01T13:10:45.345Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T13:10:45.345Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66323f55b1e2e61337991222"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66323f26b1e2e613379911f7"
+  },
+  "createdAt": {
+    "$date": "2024-05-01T13:10:45.383Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T13:10:45.383Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632412addfd51c646ac8e1a"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66324100ddfd51c646ac8df5"
+  },
+  "createdAt": {
+    "$date": "2024-05-01T13:18:34.856Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T13:18:34.856Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632412addfd51c646ac8e1c"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66324100ddfd51c646ac8df5"
+  },
+  "createdAt": {
+    "$date": "2024-05-01T13:18:34.886Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T13:18:34.886Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66324db6ddfd51c646ac911f"
+  },
+  "amount": 520000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66324d6dddfd51c646ac90f8"
+  },
+  "createdAt": {
+    "$date": "2024-05-01T14:12:06.956Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T14:12:06.956Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66324db7ddfd51c646ac9124"
+  },
+  "amount": 520000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66324d6dddfd51c646ac90f8"
+  },
+  "createdAt": {
+    "$date": "2024-05-01T14:12:07.001Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T14:12:07.001Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66335d809a94a980319f9ad8"
+  },
+  "amount": 400000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "66335d219a94a980319f9ab4"
+  },
+  "createdAt": {
+    "$date": "2024-05-02T09:31:44.259Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T09:31:44.259Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "663369fe6ae794eab549b0df"
+  },
+  "amount": 160000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "663369ac6ae794eab549b019"
+  },
+  "createdAt": {
+    "$date": "2024-05-02T10:25:02.872Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T10:25:02.872Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "663369ff6ae794eab549b0e7"
+  },
+  "amount": 160000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "663369ac6ae794eab549b019"
+  },
+  "createdAt": {
+    "$date": "2024-05-02T10:25:03.018Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T10:25:03.018Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6633a943d90e2a7d2327ddbe"
+  },
+  "amount": 200000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6633a8ccd90e2a7d2327dc83"
+  },
+  "createdAt": {
+    "$date": "2024-05-02T14:54:59.597Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T14:54:59.597Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6633a943d90e2a7d2327ddc3"
+  },
+  "amount": 200000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6633a8ccd90e2a7d2327dc83"
+  },
+  "createdAt": {
+    "$date": "2024-05-02T14:54:59.626Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T14:54:59.626Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6633ac6c530ffc58fa710104"
+  },
+  "amount": 1400000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6633ac2a530ffc58fa7100d9"
+  },
+  "createdAt": {
+    "$date": "2024-05-02T15:08:28.162Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T15:08:28.162Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6633ac6c530ffc58fa710106"
+  },
+  "amount": 1400000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6633ac2a530ffc58fa7100d9"
+  },
+  "createdAt": {
+    "$date": "2024-05-02T15:08:28.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T15:08:28.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6633aca1530ffc58fa7101c7"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6633ac8a530ffc58fa7101a0"
+  },
+  "createdAt": {
+    "$date": "2024-05-02T15:09:21.813Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T15:09:21.813Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6633aca1530ffc58fa7101cd"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6633ac8a530ffc58fa7101a0"
+  },
+  "createdAt": {
+    "$date": "2024-05-02T15:09:21.896Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T15:09:21.896Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6633ae79530ffc58fa710571"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6633ae5b530ffc58fa71054b"
+  },
+  "createdAt": {
+    "$date": "2024-05-02T15:17:13.479Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T15:17:13.479Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6633ae79530ffc58fa710576"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6633ae5b530ffc58fa71054b"
+  },
+  "createdAt": {
+    "$date": "2024-05-02T15:17:13.567Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T15:17:13.567Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6633b3d5e038545dd2e102e6"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6633b3bde038545dd2e102bd"
+  },
+  "createdAt": {
+    "$date": "2024-05-02T15:40:05.102Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T15:40:05.102Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6633b3d5e038545dd2e102e8"
+  },
+  "amount": 300000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6633b3bde038545dd2e102bd"
+  },
+  "createdAt": {
+    "$date": "2024-05-02T15:40:05.113Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T15:40:05.113Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6633ba53f32953d42e69e1fd"
+  },
+  "amount": 200000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6633b9b9f32953d42e69e094"
+  },
+  "createdAt": {
+    "$date": "2024-05-02T16:07:47.610Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T16:07:47.610Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6633ba53f32953d42e69e203"
+  },
+  "amount": 200000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6633b9b9f32953d42e69e094"
+  },
+  "createdAt": {
+    "$date": "2024-05-02T16:07:47.645Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T16:07:47.645Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6633bb97860d8749da4050db"
+  },
+  "amount": 200000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6633baea860d8749da405051"
+  },
+  "createdAt": {
+    "$date": "2024-05-02T16:13:11.377Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T16:13:11.377Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6633bb97860d8749da4050e0"
+  },
+  "amount": 200000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6633baea860d8749da405051"
+  },
+  "createdAt": {
+    "$date": "2024-05-02T16:13:11.439Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T16:13:11.439Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6633bc71584c7134c5d3598b"
+  },
+  "amount": 500000,
+  "typeBank": "MOMO",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6633bb5f584c7134c5d35909"
+  },
+  "createdAt": {
+    "$date": "2024-05-02T16:16:49.890Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T16:16:49.890Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6633bcd6761269d6c7c7c32a"
+  },
+  "amount": 150000,
+  "typeBank": "MOMO",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6633bc98761269d6c7c7c300"
+  },
+  "createdAt": {
+    "$date": "2024-05-02T16:18:30.578Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T16:18:30.578Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6633bcd6761269d6c7c7c32c"
+  },
+  "amount": 150000,
+  "typeBank": "MOMO",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6633bc98761269d6c7c7c300"
+  },
+  "createdAt": {
+    "$date": "2024-05-02T16:18:30.615Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T16:18:30.615Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6633be7c1e1be2a3e46a0a28"
+  },
+  "amount": 220000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6633be4b6d38428b6b66b1ac"
+  },
+  "createdAt": {
+    "$date": "2024-05-02T16:25:32.123Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T16:25:32.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6633be7c1e1be2a3e46a0a2a"
+  },
+  "amount": 220000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6633be4b6d38428b6b66b1ac"
+  },
+  "createdAt": {
+    "$date": "2024-05-02T16:25:32.132Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T16:25:32.132Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6633bfc3799002c7d1ee767a"
+  },
+  "amount": 150000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6633bfa3799002c7d1ee7633"
+  },
+  "createdAt": {
+    "$date": "2024-05-02T16:30:59.090Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T16:30:59.090Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6633bfc3799002c7d1ee767c"
+  },
+  "amount": 150000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6633bfa3799002c7d1ee7633"
+  },
+  "createdAt": {
+    "$date": "2024-05-02T16:30:59.093Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T16:30:59.093Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6633c0dbc665c2b2e174ef26"
+  },
+  "amount": 150000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6633c0b6c665c2b2e174eed6"
+  },
+  "createdAt": {
+    "$date": "2024-05-02T16:35:39.143Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T16:35:39.143Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6633c0dbc665c2b2e174ef2b"
+  },
+  "amount": 150000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6633c0b6c665c2b2e174eed6"
+  },
+  "createdAt": {
+    "$date": "2024-05-02T16:35:39.157Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T16:35:39.157Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6633c168b9ec2767073f92c1"
+  },
+  "amount": 150000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6633c148b9ec2767073f926e"
+  },
+  "createdAt": {
+    "$date": "2024-05-02T16:38:00.999Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T16:38:00.999Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6633c169b9ec2767073f92c3"
+  },
+  "amount": 150000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6633c148b9ec2767073f926e"
+  },
+  "createdAt": {
+    "$date": "2024-05-02T16:38:01.003Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T16:38:01.003Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66344051456b577e6cd7cdba"
+  },
+  "amount": 200000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6634401f456b577e6cd7cd51"
+  },
+  "createdAt": {
+    "$date": "2024-05-03T01:39:29.002Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-03T01:39:29.002Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66344091456b577e6cd7ce44"
+  },
+  "amount": 200000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6634406a456b577e6cd7ce1b"
+  },
+  "createdAt": {
+    "$date": "2024-05-03T01:40:33.129Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-03T01:40:33.129Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66344091456b577e6cd7ce46"
+  },
+  "amount": 200000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "6634406a456b577e6cd7ce1b"
+  },
+  "createdAt": {
+    "$date": "2024-05-03T01:40:33.134Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-03T01:40:33.134Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6634570c30d53e94400d5e48"
+  },
+  "amount": 500000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "663456ac30d53e94400d5de5"
+  },
+  "createdAt": {
+    "$date": "2024-05-03T03:16:28.393Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-03T03:16:28.393Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "663cf017a50d9eab1fa37d99"
+  },
+  "amount": 1500000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "663cefd8a50d9eab1fa37d72"
+  },
+  "createdAt": {
+    "$date": "2024-05-09T15:47:35.960Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-09T15:47:35.960Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "663cf018a50d9eab1fa37da9"
+  },
+  "amount": 1500000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "663cefd8a50d9eab1fa37d72"
+  },
+  "createdAt": {
+    "$date": "2024-05-09T15:47:36.176Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-09T15:47:36.176Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "663cf08aa50d9eab1fa37fe8"
+  },
+  "amount": 350000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "663cf06aa50d9eab1fa37f19"
+  },
+  "createdAt": {
+    "$date": "2024-05-09T15:49:30.477Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-09T15:49:30.477Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "663cf08aa50d9eab1fa37ff5"
+  },
+  "amount": 350000,
+  "typeBank": "VNPAY",
+  "typePayment": "ATM",
+  "ticketId": {
+    "$oid": "663cf06aa50d9eab1fa37f19"
+  },
+  "createdAt": {
+    "$date": "2024-05-09T15:49:30.596Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-09T15:49:30.596Z"
+  }
+}]

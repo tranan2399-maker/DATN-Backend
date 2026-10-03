@@ -1,0 +1,328 @@
+[
+  {
+    "_id": {
+      "$oid": "65e1c2e95f5e2f5bce2a65b4"
+    },
+    "name": "King Burger2",
+    "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1709294167/burger-chips-food-menu-restauran_xglne1.jpg",
+    "price": 50000,
+    "ticketId": [
+      {
+        "$oid": "6623286b8e1194a7d06ea5c6"
+      },
+      {
+        "$oid": "6629c2bbc633c0a521158b1c"
+      },
+      {
+        "$oid": "6629c7c8c633c0a521158c57"
+      },
+      {
+        "$oid": "6629c89626b5960617db1114"
+      },
+      {
+        "$oid": "6629d2b326b5960617db1416"
+      },
+      {
+        "$oid": "662bbd8eee998ee9bf3aebf4"
+      },
+      {
+        "$oid": "662bbebdee998ee9bf3aee48"
+      },
+      {
+        "$oid": "662bbef5ee998ee9bf3aeedd"
+      },
+      {
+        "$oid": "662bbf3bee998ee9bf3af007"
+      },
+      {
+        "$oid": "662bbfcfee998ee9bf3af160"
+      },
+      {
+        "$oid": "662e64c6748bce7832a4677c"
+      },
+      {
+        "$oid": "662faa8972cc4e3411d8630d"
+      },
+      {
+        "$oid": "662fab1472cc4e3411d86390"
+      },
+      {
+        "$oid": "6630f825af21a7792fe0f7b0"
+      },
+      {
+        "$oid": "6632219e2c79c1e98bddc2f4"
+      },
+      {
+        "$oid": "663222712c79c1e98bddc3aa"
+      },
+      {
+        "$oid": "663222d32c79c1e98bddc435"
+      },
+      {
+        "$oid": "663223752c79c1e98bddc501"
+      },
+      {
+        "$oid": "66322442855eebd818afbd9e"
+      },
+      {
+        "$oid": "663224fe9e3047c0aa7913ee"
+      },
+      {
+        "$oid": "663225648a0573d85790b29a"
+      },
+      {
+        "$oid": "663225f98a0573d85790b3ca"
+      },
+      {
+        "$oid": "66322684b1e2e6133798fec4"
+      },
+      {
+        "$oid": "66323f26b1e2e613379911f7"
+      },
+      {
+        "$oid": "66324100ddfd51c646ac8df5"
+      },
+      {
+        "$oid": "66324d6dddfd51c646ac90f8"
+      },
+      {
+        "$oid": "66335d219a94a980319f9ab4"
+      },
+      {
+        "$oid": "6633a8ccd90e2a7d2327dc83"
+      },
+      {
+        "$oid": "6633ac2a530ffc58fa7100d9"
+      },
+      {
+        "$oid": "6633ac8a530ffc58fa7101a0"
+      },
+      {
+        "$oid": "6633ae5b530ffc58fa71054b"
+      },
+      {
+        "$oid": "6633b3bde038545dd2e102bd"
+      },
+      {
+        "$oid": "6633b9b9f32953d42e69e094"
+      },
+      {
+        "$oid": "6634401f456b577e6cd7cd51"
+      },
+      {
+        "$oid": "6634406a456b577e6cd7ce1b"
+      },
+      {
+        "$oid": "663456ac30d53e94400d5de5"
+      },
+      {
+        "$oid": "663cefd8a50d9eab1fa37d72"
+      },
+      {
+        "$oid": "663cf06aa50d9eab1fa37f19"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-03-01T11:58:33.458Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-09T15:49:30.877Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65e1c3f95f5e2f5bce2a65b6"
+    },
+    "name": "Burger Combo Special",
+    "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1709294535/food2_qceque.png",
+    "price": 50000,
+    "ticketId": [
+      {
+        "$oid": "662c6775c5755875ec30559d"
+      },
+      {
+        "$oid": "662fab1472cc4e3411d86390"
+      },
+      {
+        "$oid": "6630f825af21a7792fe0f7b0"
+      },
+      {
+        "$oid": "6632219e2c79c1e98bddc2f4"
+      },
+      {
+        "$oid": "663222712c79c1e98bddc3aa"
+      },
+      {
+        "$oid": "663222d32c79c1e98bddc435"
+      },
+      {
+        "$oid": "663224fe9e3047c0aa7913ee"
+      },
+      {
+        "$oid": "663225648a0573d85790b29a"
+      },
+      {
+        "$oid": "663225f98a0573d85790b3ca"
+      },
+      {
+        "$oid": "66322684b1e2e6133798fec4"
+      },
+      {
+        "$oid": "66323f26b1e2e613379911f7"
+      },
+      {
+        "$oid": "66324100ddfd51c646ac8df5"
+      },
+      {
+        "$oid": "66324d6dddfd51c646ac90f8"
+      },
+      {
+        "$oid": "66335d219a94a980319f9ab4"
+      },
+      {
+        "$oid": "6633ac2a530ffc58fa7100d9"
+      },
+      {
+        "$oid": "6633ac8a530ffc58fa7101a0"
+      },
+      {
+        "$oid": "6633b3bde038545dd2e102bd"
+      },
+      {
+        "$oid": "663cefd8a50d9eab1fa37d72"
+      },
+      {
+        "$oid": "663cf06aa50d9eab1fa37f19"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-03-01T12:03:05.518Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-09T15:49:30.877Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65e1c4205f5e2f5bce2a65b8"
+    },
+    "name": "Burger For Couple",
+    "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1709296013/food4_ow9z5s.jpg",
+    "price": 50000,
+    "ticketId": [
+      {
+        "$oid": "663223752c79c1e98bddc501"
+      },
+      {
+        "$oid": "66324d6dddfd51c646ac90f8"
+      },
+      {
+        "$oid": "6633ac2a530ffc58fa7100d9"
+      },
+      {
+        "$oid": "663cf06aa50d9eab1fa37f19"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-03-01T12:03:44.631Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-09T15:49:30.877Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65e1c49e5f5e2f5bce2a65ba"
+    },
+    "name": "Burger Cheese Combo",
+    "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1709294730/food5_wharev.jpg",
+    "price": 50000,
+    "ticketId": [
+      {
+        "$oid": "6633ac2a530ffc58fa7100d9"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-03-01T12:05:50.122Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-02T15:08:28.352Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65e1c9dc5f5e2f5bce2a668e"
+    },
+    "name": "Burger For Couple",
+    "image": "https://res.cloudinary.com/dsmy4ogdj/image/upload/v1709296013/food4_ow9z5s.jpg",
+    "price": 180,
+    "ticketId": [],
+    "isDeleted": true,
+    "createdAt": {
+      "$date": "2024-03-01T12:28:12.595Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-12T15:09:29.498Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "661ce8b1bd05dfe589f426ac"
+    },
+    "name": "Bim Bim",
+    "image": "https://res.cloudinary.com/dbu06uco1/image/upload/v1713170607/food_Image/food_Image/1713170607121-01.jpg",
+    "price": 100,
+    "ticketId": [],
+    "isDeleted": true,
+    "createdAt": {
+      "$date": "2024-04-15T08:43:29.764Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-17T04:27:11.425Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66339a95d90e2a7d2327c878"
+    },
+    "name": "Iphone 15 pro max",
+    "image": "https://res.cloudinary.com/dbu06uco1/image/upload/v1714657941/food_Image/food_Image/1714657935223-Screenshot%20%28176%29.png",
+    "price": 20000,
+    "ticketId": [],
+    "isDeleted": true,
+    "createdAt": {
+      "$date": "2024-05-02T13:52:21.007Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-02T14:53:15.424Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66345c9c30d53e94400d6a62"
+    },
+    "name": "Hamburger",
+    "image": "https://res.cloudinary.com/dbu06uco1/image/upload/v1714707614/food_Image/food_Image/1714707609651-food.jpg",
+    "price": 100000,
+    "ticketId": [],
+    "isDeleted": false,
+    "createdAt": {
+      "$date": "2024-05-03T03:40:12.936Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-03T03:40:12.936Z"
+    },
+    "__v": 0
+  }
+]

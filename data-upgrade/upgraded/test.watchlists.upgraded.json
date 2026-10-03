@@ -1,0 +1,128 @@
+[
+  {
+    "_id": {
+      "$oid": "6608ccabf66229a0116a71c1"
+    },
+    "movieId": {
+      "$oid": "65c8dc874a19975a1cc5fc7e"
+    },
+    "userId": {
+      "$oid": "65f127dfed45b3ea7a26642c"
+    },
+    "destroy": false,
+    "createdAt": {
+      "$date": "2024-03-31T02:38:35.262Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-31T02:38:35.262Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "661a763ae2aeae3a0ed92a0a"
+    },
+    "movieId": {
+      "$oid": "65cc718be2111969d6e21931"
+    },
+    "userId": {
+      "$oid": "661412fb23bc396b4de3e75e"
+    },
+    "destroy": false,
+    "createdAt": {
+      "$date": "2024-04-13T12:10:34.756Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-13T12:10:34.756Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "661bf5f916d170b4ee11e735"
+    },
+    "movieId": {
+      "$oid": "65cb125cf4f5baef91e3bc95"
+    },
+    "userId": {
+      "$oid": "660a4df71f3c0deca5422f72"
+    },
+    "destroy": false,
+    "createdAt": {
+      "$date": "2024-04-14T15:27:53.714Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-14T15:27:53.714Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6623bfa8121732a0d304ec07"
+    },
+    "movieId": {
+      "$oid": "65cc7334e2111969d6e2195b"
+    },
+    "userId": {
+      "$oid": "66226a8105e663e61a7d4237"
+    },
+    "destroy": false,
+    "createdAt": {
+      "$date": "2024-04-20T13:14:16.769Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-20T13:14:16.769Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66334a8631d7822d629c6166"
+    },
+    "movieId": {
+      "$oid": "66312cfb7a0c293e6c8d384b"
+    },
+    "userId": {
+      "$oid": "66066adf1ce1c765e3c097da"
+    },
+    "destroy": false,
+    "createdAt": {
+      "$date": "2024-05-02T08:10:46.354Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-02T08:10:46.354Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "663f76b252f19add0e4e05e5"
+    },
+    "movieId": {
+      "$oid": "65cc503be2111969d6e218e6"
+    },
+    "userId": {
+      "$oid": "66066adf1ce1c765e3c097da"
+    },
+    "destroy": false,
+    "createdAt": {
+      "$date": "2024-05-11T13:46:26.819Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-11T13:46:26.819Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "663f785352f19add0e4e06e7"
+    },
+    "movieId": {
+      "$oid": "65cb125cf4f5baef91e3bc95"
+    },
+    "userId": {
+      "$oid": "66066adf1ce1c765e3c097da"
+    },
+    "destroy": false,
+    "createdAt": {
+      "$date": "2024-05-11T13:53:23.009Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-11T13:53:23.009Z"
+    }
+  }
+]
