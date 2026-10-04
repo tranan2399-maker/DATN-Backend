@@ -14,6 +14,23 @@ app.use(express.json())
 // app.use(cors(corsOptions))
 app.use(cors())
 
+
+app.get('/', (req, res) => {
+  res.status(200).json({
+    status: 'ONLINE',
+    message: 'DreamCinema Backend API is running successfully!',
+    version: '1.0.0',
+    endpoints: {
+      cinemas: '/api/cinema',
+      movies: '/api/movie',
+      showtimes: '/api/showtimes',
+      screeningRooms: '/api/screen',
+      foods: '/api/food',
+      tickets: '/api/ticket'
+    }
+  })
+})
+
 app.use('/api', routerInit)
 // Middleware xử lý lỗi tập trung
 app.use(errorHandlingMiddleware)
