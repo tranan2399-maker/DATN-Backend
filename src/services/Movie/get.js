@@ -426,12 +426,13 @@ export const getDetailService = async (reqBody) => {
         }
       },
       {
+        limit: arrayShowTimeId.length > 0 ? arrayShowTimeId.length : 100,
         populate: {
           path: 'screenRoomId',
           select: 'name CinemaId status destroy ',
           populate: {
             path: 'CinemaId',
-            select: '_id CinemaName CinemaAdress'
+            select: '_id name CinemaName address CinemaAdress'
           }
         },
         projection: {
@@ -463,7 +464,7 @@ export const getDetailService = async (reqBody) => {
           timeFrom: convertTimeToCurrentZone(showTime.timeFrom),
           timeTo: convertTimeToCurrentZone(showTime.timeTo),
           cinemaId: populateCinema.docs[index]?.screenRoomId?.CinemaId,
-          screenRoomId: populateCinema.docs[index].screenRoomId,
+          screenRoomId: populateCinema.docs[index]?.screenRoomId || null,
           status: showTime.status
         }
       })

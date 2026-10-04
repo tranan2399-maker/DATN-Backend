@@ -219,7 +219,7 @@ export const getAllByUser = async (reqBody) => {
           createdAt: convertTimeToCurrentZone(d._doc.createdAt),
           movieName: d._doc.movieId.name,
           screenName: d._doc.screenRoomId.name,
-          cinemaName: d._doc.cinemaId.CinemaName
+          cinemaName: d._doc.cinemaId?.CinemaName || d._doc.cinemaId?.name || ''
         }
       })
     )

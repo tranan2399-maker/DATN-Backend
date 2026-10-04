@@ -85,6 +85,12 @@ const TicketSchema = new mongoose.Schema(
       },
       CinemaAdress: {
         type: String
+      },
+      name: {
+        type: String
+      },
+      address: {
+        type: String
       }
     },
     screenRoomId: {
@@ -158,6 +164,16 @@ const TicketSchema = new mongoose.Schema(
   },
   { versionKey: false, timestamps: true }
 )
+
+TicketSchema.pre('save', function (next) {
+  if (this.cinemaId) {
+    if (this.cinemaId.name && !this.cinemaId.CinemaName) this.cinemaId.CinemaName = this.cinemaId.name
+    if (this.cinemaId.CinemaName && !this.cinemaId.name) this.cinemaId.name = this.cinemaId.CinemaName
+    if (this.cinemaId.address && !this.cinemaId.CinemaAdress) this.cinemaId.CinemaAdress = this.cinemaId.address
+    if (this.cinemaId.CinemaAdress && !this.cinemaId.address) this.cinemaId.address = this.cinemaId.CinemaAdress
+  }
+  next()
+})
 
 TicketSchema.plugin(mongoosePaginate)
 TicketSchema.pre('save', function (next) {

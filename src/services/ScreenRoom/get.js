@@ -23,7 +23,7 @@ export const getAllService = async (reqBody) => {
       },
       populate: {
         path: 'CinemaId ShowtimesId',
-        select: 'CinemaName CinemaAdress timeFrom timeTo' // Specify the fields you want to select
+        select: 'name address CinemaName CinemaAdress timeFrom timeTo' // Specify the fields you want to select
       }
       // populate: {
       //   path: 'TimeSlotId',
@@ -70,7 +70,7 @@ export const getAllDestroyService = async (req) => {
       },
       populate: {
         path: 'CinemaId ShowtimesId',
-        select: 'CinemaName CinemaAdress timeFrom timeTo' // Specify the fields you want to select
+        select: 'name address CinemaName CinemaAdress timeFrom timeTo' // Specify the fields you want to select
       }
     }
 

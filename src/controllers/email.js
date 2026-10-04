@@ -117,8 +117,8 @@ export const sendMailTicket = asyncHandler(async (req) => {
       <tr>
         <td style=" text-align:center; padding: 20px; border-top: 1px solid #eee; ">
           <h2 style="color: #333; margin-bottom: 15px;">Thông tin rạp chiếu</h2>
-          <p style="margin: 0; font-size: 16px;">Rạp: ${cinemaId.CinemaName}</p>
-          <p style="margin: 0; font-size: 16px;">Địa điểm: ${cinemaId.CinemaAdress}</p>
+          <p style="margin: 0; font-size: 16px;">Rạp: ${cinemaId?.name || cinemaId?.CinemaName || ''}</p>
+          <p style="margin: 0; font-size: 16px;">Địa điểm: ${cinemaId?.address || cinemaId?.CinemaAdress || ''}</p>
         </td>
       </tr>
       <tr>

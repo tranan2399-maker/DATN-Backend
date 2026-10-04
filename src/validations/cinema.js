@@ -1,16 +1,23 @@
 import Joi from 'joi'
 
 const CinemaSchema = Joi.object({
-  CinemaName: Joi.string().required().min(1).trim().strict(),
-  CinemaAdress: Joi.string().required(),
+  name: Joi.string().min(1).trim(),
+  CinemaName: Joi.string().min(1).trim(),
+  address: Joi.string().allow(''),
+  CinemaAdress: Joi.string().allow(''),
   city: Joi.string().allow(''),
   amenities: Joi.array().items(Joi.string()),
   hotline: Joi.string().allow(''),
-  // ScreeningRoomId: Joi.array().items(Joi.string())
+  imageUrl: Joi.string().allow(''),
+  badge: Joi.string().allow(''),
   ScreeningRoomId: Joi.array()
     .items(Joi.string().allow(''))
     .empty(Joi.array().length(0))
-}).options({
-  abortEarly: false
 })
+  .or('name', 'CinemaName')
+  .or('address', 'CinemaAdress')
+  .options({
+    abortEarly: false
+  })
+
 export default CinemaSchema

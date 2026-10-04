@@ -248,7 +248,7 @@ export const updatePaymentTicketService = async (reqBody) => {
       populate: {
         path: 'showtimeId paymentId screenRoomId movieId cinemaId userId',
         select:
-          'CinemaName CinemaAdress price row column typeSeat name email timeFrom screenRoomId movieId typeBank typePayment name image categoryId'
+          'name address CinemaName CinemaAdress price row column typeSeat name email timeFrom screenRoomId movieId typeBank typePayment name image categoryId'
       },
       select: {
         isDeleted: 0,

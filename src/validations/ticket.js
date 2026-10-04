@@ -43,9 +43,13 @@ const ticketValidateSchema = Joi.object({
   }),
   cinemaId: Joi.object({
     _id: Joi.string().required(),
-    CinemaName: Joi.string().required(),
-    CinemaAdress: Joi.string().required()
-  }),
+    CinemaName: Joi.string().allow('', null),
+    CinemaAdress: Joi.string().allow('', null),
+    name: Joi.string().allow('', null),
+    address: Joi.string().allow('', null)
+  })
+    .or('CinemaName', 'name')
+    .unknown(true),
   paymentId: Joi.string(),
   foods: Joi.array().items(
     Joi.object({

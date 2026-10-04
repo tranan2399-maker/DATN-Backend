@@ -96,7 +96,7 @@ export const createForPostManService = async (reqBody) => {
       },
       populate: {
         path: 'CinemaId ShowtimesId',
-        select: 'CinemaName CinemaAdress timeFrom timeTo' // Specify the fields you want to select
+        select: 'name address CinemaName CinemaAdress timeFrom timeTo' // Specify the fields you want to select
       }
     })
     const hasScreenRoom = isExistSeat.filter((seat) => {

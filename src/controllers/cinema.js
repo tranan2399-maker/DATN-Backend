@@ -58,6 +58,11 @@ export const update = async (req, res, next) => {
     if (!id) {
       throw new ApiError(StatusCodes.NOT_FOUND, 'Id Cinema not found')
     }
+    // Chuẩn hóa tên trường hai chiều trước khi validate
+    if (body.name && !body.CinemaName) body.CinemaName = body.name
+    if (body.CinemaName && !body.name) body.name = body.CinemaName
+    if (body.address && !body.CinemaAdress) body.CinemaAdress = body.address
+    if (body.CinemaAdress && !body.address) body.address = body.CinemaAdress
     const { error } = CinemaValidate.validate(body, { abortEarly: true })
     if (error) {
       throw new ApiError(StatusCodes.BAD_REQUEST, new Error(error).message)
