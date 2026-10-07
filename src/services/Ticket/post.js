@@ -64,9 +64,13 @@ export const createService = async (reqBody) => {
       return (accu += seat.price)
     }, 0)
     const totalFoodPrice =
-      foods && foods.length > 0
-        ? foods.reduce((accu, food) => {
-          return (accu += food.price)
+      foods && foods.length > 0 && body.foods && body.foods.length > 0
+        ? body.foods.reduce((accu, item) => {
+          const matchedFood = foods.find(
+            (f) => f._id.toString() === item.foodId.toString()
+          )
+          const qty = Number(item.quantity) || 1
+          return (accu += matchedFood ? matchedFood.price * qty : 0)
         }, 0)
         : 0
     // const totalFoodPrice = 0
