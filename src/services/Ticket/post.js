@@ -23,16 +23,23 @@ export const createService = async (reqBody) => {
     }
     // console.log(body)
 
+    // Extract clean ObjectIds regardless of whether client sent string or populated object
+    const targetShowtimeId = body.showtimeId?._id || body.showtimeId;
+    const targetPriceId = body.priceId?._id || body.priceId;
+    const targetSeatIds = Array.isArray(body.seatId)
+      ? body.seatId.map(s => (s && s._id ? s._id : s))
+      : [];
+
     // Check if Seat is AVAILABLE
     const promises = [
-      Showtimes.findOne({ _id: body.showtimeId }, 'timeFrom timeTo').populate(
+      Showtimes.findOne({ _id: targetShowtimeId }, 'timeFrom timeTo').populate(
         'movieId',
         'status'
       ),
       Seat.find({
-        _id: { $in: body.seatId }
+        _id: { $in: targetSeatIds }
       }),
-      MoviePrice.findOne({ _id: body.priceId })
+      MoviePrice.findOne({ _id: targetPriceId })
     ]
 
     if (body.foods.length > 0) {
@@ -77,7 +84,7 @@ export const createService = async (reqBody) => {
     const totalPriceMovie = priceMovie.price
 
     // Check if Showtimes is AVAILABLE_SCHEDULE
-    const showtime = await Showtimes.findById(body.showtimeId)
+    const showtime = await Showtimes.findById(targetShowtimeId)
     if (!showtime || showtime.status !== AVAILABLE_SCHEDULE) {
       throw new ApiError(
         StatusCodes.BAD_REQUEST,

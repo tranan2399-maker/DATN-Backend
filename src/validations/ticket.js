@@ -1,73 +1,80 @@
 import Joi from 'joi'
 
 const ticketValidateSchema = Joi.object({
-  priceId: Joi.object({
-    _id: Joi.string().required(),
-    price: Joi.number().required()
-  }).required(),
-  typeBank: Joi.string(),
-  typePayment: Joi.string(),
-  amount: Joi.string(),
+  priceId: Joi.alternatives().try(
+    Joi.string(),
+    Joi.object({
+      _id: Joi.string().required(),
+      price: Joi.number().optional()
+    }).unknown(true)
+  ).required(),
+  typeBank: Joi.string().allow('', null),
+  typePayment: Joi.string().allow('', null),
+  amount: Joi.alternatives().try(Joi.string(), Joi.number()).optional(),
   seatId: Joi.array()
     .items(
-      Joi.object({
-        _id: Joi.string().required(),
-        typeSeat: Joi.string().required(),
-        price: Joi.number().required(),
-        row: Joi.number().required(),
-        column: Joi.number().required()
-      })
+      Joi.alternatives().try(
+        Joi.string(),
+        Joi.object({
+          _id: Joi.string().required(),
+          typeSeat: Joi.string().optional(),
+          price: Joi.number().optional(),
+          row: Joi.number().optional(),
+          column: Joi.number().optional()
+        }).unknown(true)
+      )
     )
     .required()
     .label('ghế')
     .min(1)
     .messages({
-      'array.min': 'Phải chọn 1 {{#label}}'
+      'array.min': 'Phải chọn ít nhất 1 {{#label}}'
     }),
-  userId: Joi.string(),
-  totalFood: Joi.number(),
-  movieId: Joi.object({
-    _id: Joi.string().required(),
-    name: Joi.string().required(),
-    categoryId: Joi.array().items(
-      Joi.object({
-        _id: Joi.string().required(),
-        name: Joi.string().required()
-      })
-    ),
-    image: Joi.string().required()
-  }),
-  screenRoomId: Joi.object({
-    _id: Joi.string().required(),
-    name: Joi.string().required()
-  }),
-  cinemaId: Joi.object({
-    _id: Joi.string().required(),
-    CinemaName: Joi.string().allow('', null),
-    CinemaAdress: Joi.string().allow('', null),
-    name: Joi.string().allow('', null),
-    address: Joi.string().allow('', null)
-  })
-    .or('CinemaName', 'name')
-    .unknown(true),
-  paymentId: Joi.string(),
+  userId: Joi.string().allow('', null),
+  totalFood: Joi.number().optional(),
+  movieId: Joi.alternatives().try(
+    Joi.string(),
+    Joi.object({
+      _id: Joi.string().required(),
+      name: Joi.string().optional(),
+      categoryId: Joi.array().optional(),
+      image: Joi.string().optional()
+    }).unknown(true)
+  ).optional(),
+  screenRoomId: Joi.alternatives().try(
+    Joi.string(),
+    Joi.object({
+      _id: Joi.string().required(),
+      name: Joi.string().optional()
+    }).unknown(true)
+  ).optional(),
+  cinemaId: Joi.alternatives().try(
+    Joi.string(),
+    Joi.object().unknown(true)
+  ).optional(),
+  paymentId: Joi.string().allow('', null),
   foods: Joi.array().items(
     Joi.object({
-      foodId: Joi.string(),
-      name: Joi.string(),
-      price: Joi.number(),
-      quantityFood: Joi.number()
-    })
-  ),
-  showtimeId: Joi.object({
-    _id: Joi.string().required(),
-    timeFrom: Joi.string().required(),
-    timeTo: Joi.string().required()
-  }),
-  quantity: Joi.number().min(1).max(2),
-  totalPrice: Joi.number().min(1)
+      foodId: Joi.string().optional(),
+      name: Joi.string().optional(),
+      price: Joi.number().optional(),
+      quantity: Joi.number().optional(),
+      quantityFood: Joi.number().optional()
+    }).unknown(true)
+  ).optional(),
+  showtimeId: Joi.alternatives().try(
+    Joi.string(),
+    Joi.object({
+      _id: Joi.string().required(),
+      timeFrom: Joi.any().optional(),
+      timeTo: Joi.any().optional()
+    }).unknown(true)
+  ).required(),
+  quantity: Joi.number().min(1).max(20).optional(),
+  totalPrice: Joi.number().optional()
 }).options({
-  abortEarly: false
+  abortEarly: false,
+  allowUnknown: true
 })
 
 export default ticketValidateSchema
