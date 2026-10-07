@@ -13,7 +13,6 @@ const storage = new CloudinaryStorage({
   params: async (req, file) => {
     // Tạo public_id tùy chỉnh, ví dụ: sử dụng tên file gốc (bỏ đuôi file) và thêm timestamp
     const public_id = `food_Image/${Date.now()}-${file.originalname.split('.')[0]}`;
-    console.log('Generated public_id:', public_id); // kiểm tra giá trị public_id
     return {
       folder: 'food_Image', // Thư mục lưu file trên Cloudinary
       allowedFormats: ['jpeg', 'png', 'jpg', 'gif', 'webp'],
@@ -28,7 +27,6 @@ const storage2 = new CloudinaryStorage({
   params: async (req, file) => {
     // Tạo public_id tùy chỉnh, ví dụ: sử dụng tên file gốc (bỏ đuôi file) và thêm timestamp
     const public_id = `food_Image/${Date.now()}-${file.originalname.split('.')[0]}`;
-    console.log('Generated public_id:', public_id); // kiểm tra giá trị public_id
     return {
       folder: 'AVATAR', // Thư mục lưu file trên Cloudinary
       allowedFormats: ['jpeg', 'png', 'jpg', 'gif', 'webp'],

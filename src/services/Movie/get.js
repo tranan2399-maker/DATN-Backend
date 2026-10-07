@@ -566,7 +566,6 @@ export const getMovieByCategory = async (reqBody) => {
     if (!relateMovie || relateMovie.length === 0) {
       throw new ApiError(StatusCodes.NOT_FOUND, 'No movie found!')
     }
-    // console.log(relateMovie)
     const convertDateMovie = relateMovie.map((movie) => {
       const fromDateConvert = convertTimeToCurrentZone(movie.fromDate)
       const toDateConvert = convertTimeToCurrentZone(movie.toDate)

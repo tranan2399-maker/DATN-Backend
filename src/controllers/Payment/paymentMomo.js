@@ -2,27 +2,6 @@ import https from 'https'
 import { momoConfig } from '../../config/Payment/momo'
 import crypto from 'crypto'
 
-// const req = https.request(options, (res) => {
-//   //   console.log(`Status: ${res.statusCode}`)
-//   //   console.log(`Headers: ${JSON.stringify(res.headers)}`)
-//   res.setEncoding('utf8')
-//   res.on('data', (body) => {
-//     console.log('Body: ')
-//     console.log(body)
-//     // console.log('resultCode: ')
-//     // console.log(JSON.parse(body).resultCode)
-//   })
-//   res.on('end', () => {
-//     console.log('No more data in response.')
-//   })
-// })
-
-// req.on('error', (e) => {
-//   console.log(`problem with request: ${e.message}`)
-// })
-// // write data to request body
-// req.write(requestBody)
-// req.end()
 
 export const createPaymentMoMo = async (req, res, next) => {
   try {

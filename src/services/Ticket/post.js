@@ -21,7 +21,6 @@ export const createService = async (reqBody) => {
     if (error) {
       throw new ApiError(StatusCodes.BAD_REQUEST, new Error(error).message)
     }
-    // console.log(body)
 
     // Extract clean ObjectIds regardless of whether client sent string or populated object
     const targetShowtimeId = body.showtimeId?._id || body.showtimeId;

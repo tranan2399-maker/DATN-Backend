@@ -20,10 +20,6 @@ export const slugify = (val) => {
  * Example:
  */
 // const originalStringTest = 'Một Lập Trình Viên'
-// const slug = slugify(originalStringTest)
-
-// console.log('originalStringTest:', originalStringTest)
-// console.log('slug:', slug)
 /**
  * Results:
  *

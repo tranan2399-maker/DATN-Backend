@@ -292,7 +292,6 @@ export const updatePaymentTicketService = async (reqBody) => {
         totalPrice
       }
     }
-    console.log('req.body', req.body)
     await sendMailTicket(req)
     return resultToken
   } catch (error) {
